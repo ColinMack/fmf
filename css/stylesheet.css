@@ -1,0 +1,99 @@
+@font-face {
+    font-family: CenturyGothic;
+    src: url(akkurat-pro-regular.ttf);
+}
+
+body {
+	font-size: 16px;
+	font-family: CenturyGothic;
+	color: #636363;
+	text-align: center;
+	margin: 0px auto;
+	width: 100%;
+}
+
+#searchcontainer {
+	border-color: "white";
+	width: 100%; 
+	text-align: left;
+	margin: 20px;
+}
+
+
+#masthead {
+	z-index:100;
+	color:white;
+	width: 100%;
+	background-color: #ebf0f2;
+	overflow: hidden;
+
+}
+#prof{
+	font-size: 14px;
+	text-align: right;
+	display:inline-flex;
+	color:#5a5a5a;
+	margin-right:20px;
+}
+#prof img{
+	height:60px;
+	width:60px;
+	border-radius:30px;
+	margin-top: 3px;
+}
+
+#nav {
+}
+#nav button{
+	color:#ddd;
+	margin-left:50px;
+	margin-right:50px;
+    background: none;
+    border: none;
+    font-family: CenturyGothic;
+    font-size: 20px;
+    line-height: 60px;
+}
+#nav button:focus{
+	outline:none;
+}
+
+#tabWrapper{
+	width: 950px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.tab {
+    color:#ebf0f2;
+}
+
+.block{
+	width:100%;
+	color:#5a5a5a;
+	background-color:#ebf0f2;
+	text-align:left;
+	padding:20px;
+	margin:20px;
+	border-radius:4px;
+}
+#column1{
+	width:500px;
+}
+#column2{
+	width:380px;
+}
+
+.port{
+	vertical-align: middle;
+	line-height:35px;
+}
+
+.course.locked{
+	opacity:0.5;
+}
+.course.complete{
+	border:4px solid #ebf0f2;
+	color:#ebf0f2;
+	background-color:transparent;
+}
