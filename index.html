@@ -32,36 +32,67 @@
         <div id="homeWrapper" class="tab">
             <div id="column1" style="float:left;">
                 <div id="homebox1" class="block">
-                    <div style="font-size:20px">Welcome, Colin!</div><br> 
-                    <div>Portfolio Worth</div><br>
-                    <span style="text-align:center;">
-                        <div class="port">
-                            <div style="font-size:14px;">
-                                <div>Portfolio1:&nbsp;&nbsp;</div>
-                                <div style="font-size:30px;text-align:center">$1843.04&nbsp;</div>
-                                <div style="color:red;font-size:16px;text-align:center">-0.09%</div>
-                            </div>
-                            <div id="managecompare" style="display:none;font-size:12px;">
-                                <div style="color:#0081C9;">Manage</div>&nbsp;&nbsp;
-                                <div style="color:#27AFAF;">Compare</div>
-                            </div>
-                        </div>
-                        <br>
-                        <div class="port">
-                            <div style="font-size:14px;">
-                                <div>Portfolio2:&nbsp;&nbsp;</div>
-                                <div style="font-size:30px;text-align:center">$1340.60&nbsp;</div>
-                                <div style="color:green;font-size:16px;text-align:center">0.04%</div>
-                            </div>
-                            <div id="managecompare" style="display:none;font-size:12px;">
-                                <div style="color:#0081C9;">Manage</div>&nbsp;&nbsp;
-                                <div style="color:#27AFAF;">Compare</div>
-                            </div><br>
-                        </div>
-                    </span>
+                    <div style="font-size:30px">Welcome, Colin!</div><br> 
+                    <div>Your Porfolios:</div><br>
+                    <table class="port">
+                            <tr style="font-size:14px;">
+                                <td style="width:100px;text-align:left;">
+                                    <div style="color:blue">Portfolio 1:</div>
+                                    <div style="font-size:40px;text-align:left">$1843.04</div>
+                                </td>
+                                <td style="color:red;font-size:16px;text-align:left;vertical-align: bottom;padding-bottom: 10px;">-0.09%</td>
+                                <td id="managecompare"> 
+                                    <div style="display:none;">                               
+                                        <div style="color:#0081C9;">Manage &gt;</div>
+                                        <div style="color:#27AFAF;">Compare &gt;</div>
+                                    </div>
+                                </td>
+                            </tr> 
+                    </table>
+                    <table class="port">
+                            <tr style="font-size:14px;">
+                                <td style="width:100px;text-align:left;">
+                                    <div style="color:orange">Portfolio 2:</div>
+                                    <div style="font-size:40px;text-align:left">$1843.04</div>
+                                </td>
+                                <td style="color:red;font-size:16px;text-align:left;vertical-align: bottom;padding-bottom: 10px;">-0.09%</td>
+                                <td id="managecompare"> 
+                                    <div style="display:none;">                               
+                                        <div style="color:#0081C9;">Manage &gt;</div>
+                                        <div style="color:#27AFAF;">Compare &gt;</div>
+                                    </div>
+                                </td>
+                            </tr>
+                    </table>
+                    <table class="port">
+                            <tr style="font-size:14px;">
+                                <td style="width:100px;text-align:left;">
+                                    <div style="color:purple">Portfolio 3:</div>
+                                    <div style="font-size:40px;text-align:left">$1843.04</div>
+                                </td>
+                                <td style="color:red;font-size:16px;text-align:left;vertical-align: bottom;padding-bottom: 10px;">-0.09%</td>
+                                <td id="managecompare"> 
+                                    <div style="display:none;">                               
+                                        <div style="color:#0081C9;">Manage &gt;</div>
+                                        <div style="color:#27AFAF;">Compare &gt;</div>
+                                    </div>
+                                </td>
+                            </tr>
+                    </table>
                 </div>
                 <div id="homebox3" class="block">
-                    <div style="height:175px;font-size:20px">Jump Back In</div><br> 
+                    <div class="homeBoxHeader">Jump Back In</div>
+                    <div id="coursePreview">
+                        <table>
+                            <tr>
+                                <td class="percent">75%</td>
+                                <td style="padding-left:30px;">
+                                    <div style="font-size:30px;">Finance 101</div>
+                                    <div style="color:rgb(17, 124, 142);">Go to course &gt;</div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
                 </div>
             </div>
             <div id="column2" style="float:right">
@@ -69,7 +100,25 @@
                     <div style="height:150px;font-size:20px">Daily Insights</div><br> 
                 </div>
                 <div id="homebox4" class="block">
-                    <div style="height:250px;font-size:20px">Compare with Friends</div><br> 
+                    <div class="homeBoxHeader">Compare with Friends</div>
+                        <table class="socialRank">
+                            <tr>
+                                <td class="rank">Top 10%</td>
+                                <td style="padding-left:30px;">
+                                    <div style="font-size:20px;">Among Investors Your Age</div>
+                                    <div style="color:rgb(17, 124, 142);">View my performance &gt;</div>
+                                </td>
+                            </tr>
+                        </table>
+                        <table class="socialRank">
+                            <tr>
+                                <td class="rank">2nd</td>
+                                <td style="padding-left:30px;">
+                                    <div style="font-size:20px;">Among Your Connections</div>
+                                    <div style="color:rgb(17, 124, 142);">View my performance &gt;</div>
+                                </td>
+                            </tr>
+                        </table>
                 </div>
             </div>
         </div>
@@ -79,40 +128,32 @@
                     <div style="height:400px"></div>
                 </div>
             </div>
-            <div id="column1" style="width:500px;margin-left:60px;float:left;">
+            <div id="column1" style="width:800px;margin-left:60px;float:left;">
                 <div id="homebox1" style="" class="block">
-                    <div style="height:400px">A graph would be here</div>
-                </div>
-                <div id="homebox3" class="block">
-                    <div style="height:100px;font-size:20px">Table</div><br> 
-                </div>
-            </div>
-            <div id="column2" style="width:275px;float:right">
-                <div id="homebox2" class="block">
-                    <div style="height:380px;font-size:20px">List of Stocks?</div><br> 
+                    <div style="height:600px"></div>
                 </div>
             </div>
         </div>
         <div id="learnWrapper" class="tab">
-            <div id="column0" style="width:50px;float:left;">
+            <div id="column0" style="width:50px;float:left;margin-right:-15px;">
                 <div id="homebox1" style="" class="block">
                     <div style="height:400px"></div>
                 </div>
             </div>
-            <div id="column1" style="width:500px;margin-left:60px;float:left;">
+            <div id="column1" style="width:530px;margin-left:60px;float:left;">
                 <div id="homebox1" style="" class="block">
                     <div style="height:400px">Some sort of welcome? Article? Course Progress?</div>
                 </div>
             </div>
-            <div id="column2" style="width:275px;float:right">
-                <div id="homebox2" class="block">
-                    <div style="height:150px;font-size:20px">Tips</div><br> 
+            <div id="column2" style="width:280px;float:right">
+                <div id="homebox2" class="block" style="margin-bottom:-15px;">
+                    <div style="height:150px;font-size:20px;">Tips</div><br> 
                 </div>
                 <div id="homebox4" class="block">
-                    <div style="height:150px;font-size:20px">Articles</div><br> 
+                    <div style="height:165px;font-size:20px">Articles</div><br> 
                 </div>
             </div>
-            <div style="width:100%;float:right">
+            <div style="margin-top:-35px;width:100%;float:right">
                 <div id="homebox2" class="block">
                     <div style="text-align:center;height:20px;font-size:20px">Courses</div><br> 
                 </div>
@@ -124,9 +165,9 @@
                 </div>
                 <div class="block" style="float:left;height:235px;width:235px;">Course 5
                 </div>
-                <div class="block course locked" style="float:left;height:235px;width:235px;">Course 6
+                <div class="block course locked" style="float:left;height:235px;width:235px;">Course 6 (Locked)
                 </div>
-                <div class="block course complete" style="float:left;height:235px;width:235px;">Course 1
+                <div class="block course complete" style="float:left;height:235px;width:235px;">Course 1 Complete
                 </div>
             </div>
         </div>
