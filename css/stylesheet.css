@@ -9,6 +9,7 @@ body {
 	color: #636363;
 	margin: 0px auto;
 	width: 100%;
+	background-color:#ebf0f2;
 }
 
 #searchcontainer {
@@ -70,7 +71,7 @@ body {
 .block{
 	width:100%;
 	color:#5a5a5a;
-	background-color:#ebf0f2;
+	background-color:#fff;
 	text-align:left;
 	padding:20px;
 	margin:20px;
