@@ -87,6 +87,9 @@ body {
 	margin:20px;
 	border-radius:4px;
 }
+.blockTitle{
+	font-size:20px;
+}
 #column1{
 	width:500px;
 }
