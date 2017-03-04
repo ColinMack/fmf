@@ -78,7 +78,7 @@ body {
     color:#ebf0f2;
 }
 
-.block{
+.homeBlock{
 	width:100%;
 	color:#5a5a5a;
 	text-align:left;
@@ -86,10 +86,10 @@ body {
 	margin:20px;
 	border-radius:4px;
 }
-.blockTitle{
+.homeBlockTitle{
 	font-size:20px;
 }
-.blockContent{
+.homeBlockContent{
 	background-color:#fff;
 	border-radius:20px;
 	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
