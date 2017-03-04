@@ -118,6 +118,7 @@ body {
 .port_info{
 	background-color:white;
 	border-radius: 5px 5px 0px 0px;
+	height:150px;
 }
 
 .port table{
