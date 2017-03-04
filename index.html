@@ -2,6 +2,7 @@
 <head> <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
     <title>FundMyFuture</title></head>
     <script src="js/shared/angular.min.js"></script>
+    <script src="data/cred.js"></script>
     <script src="js/shared/jquery-3.1.1.min.js"></script>
     <!--<script> 
         $(function(){
@@ -14,8 +15,8 @@
 
     <div id="masthead" ng-controller="MainController">
         <div id="prof" style="float:right;">
-            <div style="margin:auto;margin-right:20px;">
-                 <div>Hello, cmack</div>
+            <div style="line-height:20px;margin:auto;margin-right:20px;">
+                 <div>My Profile</div>
                 <div>Settings</div>
             </div>
             <div><img src="img/cmack.jpg"></div>
@@ -84,7 +85,9 @@
             </div>
             <div id="column2" style="float:right">
                 <div id="homebox2" class="homeBlock">
-                    <div class="homeBlockTitle" style="height:150px;font-size:20px">Daily Insights</div><br> 
+                    <div class="homeBlockTitle">Daily Insights</div><br> 
+                    <div class="homeBlockContent" style="height:150px;font-size:20px">
+                    </div>
                 </div>
                 <div id="homebox4" class="homeBlock">
                     <div class="homeBlockTitle">Compare with Friends</div>
