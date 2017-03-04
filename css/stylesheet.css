@@ -101,6 +101,7 @@ body {
 	background-color:#fff;
 	border-radius:20px;
 	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
+	border-radius:5px;
 }
 #column1{
 	width:500px;
@@ -157,13 +158,13 @@ body {
 .port_manage {
 	width: 50%;
     background-color: rgb(0, 129, 201);
-    border-radius: 0px 0px 0px 20px;
+    border-radius: 0px 0px 0px 5px;
 }
 
 .port_compare {
 	width: 50%;
     background-color: rgb(39, 175, 175);
-    border-radius: 0px 0px 20px 0px;
+    border-radius: 0px 0px 5px 0px;
 }
 
 .port_buttons{
