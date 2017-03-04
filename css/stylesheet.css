@@ -112,11 +112,14 @@ body {
 
 .port{
     vertical-align: middle;
-    border-radius: 5px;
     width: 250px;
-    background-color: white;
-    border-spacing: 0px;
 }
+
+.port_info{
+	background-color:white;
+	border-radius: 5px 5px 0px 0px;
+}
+
 .port table{
 	border-spacing:0px;
 }
