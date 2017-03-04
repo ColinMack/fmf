@@ -6,6 +6,7 @@ $("#nav button").click( function(event){
     $("#nav button").css("font-size", "20px");
     $("#" + $(event.target).val() + "Wrapper").show();
     $("#" + $(event.target).val() + "Button").animate({fontSize:'24px'},{ duration: 200, queue: false });
+    $("#banner").css("background-color", $(event.target).css("color"));
     $(event.target).css("border-bottom","0px inset "+ $(event.target).css("color"));
     $(event.target).animate({borderBottomWidth:'3px'}, { duration: 200, queue: false });
 });
