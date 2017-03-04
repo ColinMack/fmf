@@ -77,7 +77,15 @@ body {
 .tab {
     color:#ebf0f2;
 }
-
+.block{
+	width:100%;
+	color:#5a5a5a;
+	background-color:#fff;
+	text-align:left;
+	padding:20px;
+	margin:20px;
+	border-radius:4px;
+}
 .homeBlock{
 	width:100%;
 	color:#5a5a5a;
