@@ -81,7 +81,6 @@ body {
 .block{
 	width:100%;
 	color:#5a5a5a;
-	background-color:#fff;
 	text-align:left;
 	padding:20px;
 	margin:20px;
@@ -89,6 +88,9 @@ body {
 }
 .blockTitle{
 	font-size:20px;
+}
+.blockContent{
+	background-color:#fff;
 }
 #column1{
 	width:500px;
@@ -156,5 +158,6 @@ body {
 
 .port_buttons{
 	color: white;
-    text-align: center;
+	text-align: center;
+	height:40px;
 }
