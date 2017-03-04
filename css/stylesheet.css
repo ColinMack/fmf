@@ -125,6 +125,16 @@ body {
 	line-height:40px;
 }
 
+.port_info .port_name{
+	font-size:14px;
+}
+.port_info .port_val{
+	font-size:20px;
+}
+.port_info .port_bps{
+	font-size:14px;
+}
+
 .port table{
 	border-spacing:0px;
 }
