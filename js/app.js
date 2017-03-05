@@ -5,11 +5,11 @@ $("#nav button").click( function(event){
 });
 
 $(".port_manage").click( function(event){
-    loadManageTab();
+    loadManageTab($(event.target).closest(".port").find(".port_name").html());
 });
 
 $(".port_compare").click( function(event){
-    loadCompareTab();
+    loadCompareTab($(event.target).closest(".port").find(".port_name").html());
 });
 
 $(function() {
@@ -24,9 +24,10 @@ function loadHomeTab(username){
     $("#banner").html((username != null)?username:"Welcome")
 
     $("#homeWrapper").show();
-    $("#homeButton").css("font-size", "24px")
+    $("#homeButton").animate({fontSize:'24px'},{ duration: 200, queue: false });
     $("#banner").css("background-color", "rgb(0, 94, 184)");
-    $("#homeButton").css("border-bottom","3px inset rgb(0, 94, 184)");
+    $("#homeButton").css("border-bottom","0px inset rgb(0, 94, 184)");
+    $("#homeButton").animate({borderBottomWidth:'3px'}, { duration: 200, queue: false });
 }
 
 function loadManageTab(portname){
