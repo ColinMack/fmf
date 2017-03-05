@@ -284,5 +284,41 @@ body {
 	color:rgb(17, 124, 142);
 }
 
+.insightUpdate{
+	cursor:pointer;
+	margin-left: 30px;
+	margin-bottom:20px;
+}
+
+.insightUpdate .insightTitle{
+	font-weight: bold;
+}
+
+.insightUpdate .insightSubTitle{
+	font-size:12px;
+	color:rgb(17, 124, 142);
+}
+
+.socialRank{
+	cursor:pointer;
+	margin-left: 30px;
+	margin-bottom:20px;
+}
+
+.socialRank .rank{
+	text-align:center;
+	color:#82bc00;
+}
+
+.socialRank .rankGroup{
+	font-size:16px;
+	font-weight:bold;
+}
+
+.socialRank .getBreakdown{
+	font-size:12px;
+	color:rgb(39, 175, 175);
+}
+
 
 
