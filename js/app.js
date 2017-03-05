@@ -16,11 +16,19 @@ $(".homeBlockCourse").click(function(event){
     loadLearnTabCourse($(event.target).closest("table").find(".courseTitle").html());
 });
 
+$(".socialRank").click(function(event){
+    loadCompareTab("Social Stats");
+});
+
 $("#goToAllCoursesButton").click(function(){
     loadLearnTabCourse();
 });
 $("#goToAllInsightsButton").click(function(){
     loadLearnTab();
+});
+
+$("#goToSocialStatsButton").click(function(event){
+    loadCompareTab("Social Stats");
 });
 
 $(function() {
