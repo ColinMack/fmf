@@ -184,10 +184,6 @@ body {
 	margin-bottom: 20px;
 }
 
-#coursePreview .percent{
-	font-size:80px;
-}
-
 .socialRank{
 	padding-top:10px;
 }
@@ -271,5 +267,22 @@ body {
 	color:white;
 	background-color:rgb(17, 124, 142);
 }
+
+.homeBlockCourse{
+	cursor:pointer;
+	margin-left: 30px;
+	margin-bottom:20px;
+}
+
+.homeBlockCourse .percent{
+	font-size:30px;
+	color:#82bc00;
+}
+
+.homeBlockCourse .courseTitle{
+	font-size:16px;
+	color:rgb(17, 124, 142);
+}
+
 
 
