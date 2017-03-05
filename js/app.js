@@ -12,6 +12,10 @@ $(".port_compare").click( function(event){
     loadCompareTab($(event.target).closest(".port").find(".port_name").html());
 });
 
+$(".homeBlockCourse").click(function(event){
+    loadLearnTabCourse($(event.target).closest("table").find(".courseTitle").html());
+});
+
 $("#goToAllCoursesButton").click(function(){
     loadLearnTabCourse();
 });
