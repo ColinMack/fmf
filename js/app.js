@@ -12,6 +12,13 @@ $(".port_compare").click( function(event){
     loadCompareTab($(event.target).closest(".port").find(".port_name").html());
 });
 
+$("#goToAllCoursesButton").click(function(){
+    loadLearnTabCourse();
+});
+$("#goToAllInsightsButton").click(function(){
+    loadLearnTab();
+});
+
 $(function() {
     loadHomeTab();
 });
@@ -45,12 +52,26 @@ function loadManageTab(portname){
 
 }
 
-function loadLearnTab(course){
+function loadLearnTab(){
     $("#tabWrapper .tab").hide();
     $("#nav button").css("border-bottom", "none");
     $("#nav button").css("font-size", "20px");
 
-    $("#banner").html((course != null)?course:"Sample Course")
+    $("#banner").html("Market Insights")
+
+    $("#learnWrapper").show();
+    $("#learnButton").animate({fontSize:'24px'},{ duration: 200, queue: false });
+    $("#banner").css("background-color", "rgb(17, 124, 142)");
+    $("#learnButton").css("border-bottom","0px inset rgb(17, 124, 142)");
+    $("#learnButton").animate({borderBottomWidth:'3px'}, { duration: 200, queue: false });
+}
+
+function loadLearnTabCourse(course){
+    $("#tabWrapper .tab").hide();
+    $("#nav button").css("border-bottom", "none");
+    $("#nav button").css("font-size", "20px");
+
+    $("#banner").html((course != null)?course:"All Courses")
 
     $("#learnWrapper").show();
     $("#learnButton").animate({fontSize:'24px'},{ duration: 200, queue: false });

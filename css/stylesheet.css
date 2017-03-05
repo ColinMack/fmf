@@ -109,10 +109,14 @@ body {
 	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
 	border-radius:5px;
 }
-#column1{
+.left_column{
+	float:left;
+	margin-right:10px;
 	width:550px;
 }
-#column2{
+.right_column{
+	margin-left:10px;
+	float:left;
 	width:380px;
 }
 
@@ -123,6 +127,10 @@ body {
     float:left;
     margin-right:20px;
     margin-bottom:15px;
+}
+
+.port_row{
+	border-spacing:0px;
 }
 
 .port_info{
@@ -146,7 +154,7 @@ body {
 }
 
 .port table{
-	border-spacing:1px;
+	border-spacing:0px;
 }
 
 .course.locked{
@@ -165,6 +173,10 @@ body {
 }
 #managecompare div{
 	margin-bottom:5px;
+}
+
+#courseBlock{
+	width:522px;
 }
 
 .homeBoxHeader{
@@ -191,6 +203,8 @@ body {
 	width: 125px;
     color: rgb(0, 129, 201);
     background-color:white;
+    border-right:1px solid #ebf0f2;
+    border-top:1px solid #ebf0f2;
     border-radius: 0px 0px 0px 5px;
 }
 .port_manage:hover{
@@ -204,6 +218,7 @@ body {
 	cursor:pointer;
 	width: 125px;
     color: rgb(39, 175, 175);
+    border-top:1px solid #ebf0f2;
     background-color:white;
     border-radius: 0px 0px 5px 0px;
 }
@@ -220,3 +235,41 @@ body {
 	text-align: center;
 	height:40px;
 }
+.homeBlock_button{
+	cursor:pointer;
+	font-size:16px;
+	border-radius:0px 0px 5px 5px;
+	background-color: white;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-top:1px solid #ebf0f2;
+	text-align:center;
+}
+
+#goToAllCoursesButton{
+	color:rgb(17, 124, 142);
+}
+
+#goToAllCoursesButton:hover{
+	color:white;
+	background-color:rgb(17, 124, 142);
+}
+
+#goToSocialStatsButton{
+	color:rgb(39, 175, 175);
+}
+#goToSocialStatsButton:hover{
+	color:white;
+	background-color:rgb(39, 175, 175);
+}
+
+#goToAllInsightsButton{
+	color:rgb(17, 124, 142);
+}
+
+#goToAllInsightsButton:hover{
+	color:white;
+	background-color:rgb(17, 124, 142);
+}
+
+
