@@ -27,8 +27,14 @@ $("#goToAllInsightsButton").click(function(){
     loadLearnTab();
 });
 
+
 $("#goToSocialStatsButton").click(function(event){
     loadCompareTab("Social Stats");
+});
+
+$(".compareNavPort").click(function(event){
+    $(".compareNavPort.selected").removeClass("selected");
+    $(event.target).closest(".compareNavPort").addClass("selected");
 });
 
 $(function() {
@@ -104,4 +110,6 @@ function loadCompareTab(portname){
     $("#banner").css("background-color", "rgb(39, 175, 175)");
     $("#compareButton").css("border-bottom","0px inset rgb(39, 175, 175)");
     $("#compareButton").animate({borderBottomWidth:'3px'}, { duration: 200, queue: false });
+
+    loadScatter();
 }
