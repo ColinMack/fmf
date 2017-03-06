@@ -68,7 +68,7 @@
                                 </tbody>
                             </table>
                         </div>
-                    </tr></td>
+                    </td></tr>
                     </table>
                         <table class="port_row"><tr><td>
                         <div class="port">
@@ -249,8 +249,16 @@
                 </div>
             </div>
             <div id="port_overview" class="column">
-                <div id="piechart"></div>
-                
+                <div id="piechartWrapper">
+                    <table id="piechart_tooltip" display="none">
+                        <tr><td>
+                        <div class="label"></div>
+                        <div class="shares"></div>
+                        <div class="percent"></div>
+                        </td></tr>
+                    </table>
+                    <div id="piechart"></div>
+                </div>
             </div>
         </div>
     </div>
