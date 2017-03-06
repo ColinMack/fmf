@@ -8,6 +8,7 @@
 <body>
 
   <%
+    Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver").newInstance();
     Connection conn = DriverManager.getConnection("jdbc:sqlserver://fundmyfuture.database.windows.net:1433","fmf", "blk2017!");
     Statement st=conn.createStatement();
     st.executeUpdate("CREATE TABLE TEST (id INTEGER NOT NULL);");
