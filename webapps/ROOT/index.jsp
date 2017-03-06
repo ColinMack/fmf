@@ -11,11 +11,11 @@
 
   <%
     Class.forName("org.postgresql.Driver");
-    Connection conn =DriverManager.getConnection("jdbc:sqlserver://fundmyfuture.database.windows.net:1433","fmf", "blk2017!");
+    Connection conn = DriverManager.getConnection("jdbc:sqlserver://fundmyfuture.database.windows.net:1433","fmf", "blk2017!");
     Statement st=conn.createStatement();
 
     ResultSet rs;
-    rs = st.executeQuery("SELECT *;");
+    rs = st.executeQuery("CREATE TABLE TEST (id INTEGER NOT NULL);");
 
 
 </body>
