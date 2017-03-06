@@ -22,8 +22,15 @@ body {
 	
 }
 
+#footer{
+	height:200px;
+	width:100%;
+	margin-top:80px;
+	background-color:white;
+}
+
 .column {
-	margin-bottom:20px;
+	float:left;
 }
 
 #searchcontainer {
@@ -56,8 +63,6 @@ body {
 	margin-top: 8px;
 }
 
-#nav {
-}
 #nav button{
 	cursor:pointer;
 	color:#ddd;
@@ -80,7 +85,8 @@ body {
 }
 
 .tab {
-    color:#ebf0f2;
+    color:#5a5a5a;
+    display:inline-block;
 }
 .block{
 	width:100%;
@@ -91,6 +97,7 @@ body {
 	margin:20px;
 	border-radius:4px;
 }
+
 .homeBlock{
 	width:100%;
 	color:#5a5a5a;
@@ -109,12 +116,11 @@ body {
 	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
 	border-radius:5px;
 }
-.left_column{
+#homeWrapper .left_column{
 	float:left;
-	margin-right:10px;
-	width:550px;
+	width:545px;
 }
-.right_column{
+#homeWrapper .right_column{
 	margin-left:10px;
 	float:left;
 	width:380px;
@@ -319,5 +325,76 @@ body {
 	font-size:12px;
 }
 
+#compareNav{
+	float: left;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+}
+
+.compareNavPort{
+	cursor:pointer;
+	height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	filter: gray;
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+}
+
+.compareNavPort:hover{
+	filter: none;
+	-webkit-filter: none;
+	filter: none;
+}
+
+.compareNavPort.selected{
+	filter: none;
+	-webkit-filter: none;
+	filter: none;
+}
+
+#portPie{
+	background-image: url("../img/icons/pie-chart.svg");
+	background-repeat: no-repeat;
+	width: 50px; 
+	height: 50px;
+	margin: 0;
+	padding: 0;
+	margin:auto;
+}
+
+#portType{
+	background-image: url("../img/icons/robo.svg");
+	background-repeat: no-repeat;
+	width: 50px; 
+	height: 50px;
+	margin: 0;
+	padding: 0;
+}
+
+#port_overview{
+	width:800px;
+	height:500px;
+	background-color:white;
+	border-radius: 5px;
+}
+
+.portName {
+	font-size:12px;
+	margin-top:10px;
+}
+
+#compareWrapper .column{
+	margin-left:20px;
+}
+
+#piechart{
+	float:right;
+	margin-top: 20px;
+    margin-right: 20px;
+}
 
 

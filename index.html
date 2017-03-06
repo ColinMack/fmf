@@ -3,6 +3,8 @@
     <title>FundMyFuture</title></head>
     <script src="js/shared/angular.min.js"></script>
     <script src="data/cred.js"></script>
+    <script src="js/shared/d3.min.js"></script>
+    <script src="js/piechart.js"></script>
     <script src="js/shared/jquery-3.1.1.min.js"></script>
     <!--<script> 
         $(function(){
@@ -137,7 +139,7 @@
                         <div class="insightUpdate">
                             <table>
                                 <tr>
-                                    <td class="icon"><img src="img/globe.svg" style="height:50px;width:50px;"></td>
+                                    <td class="icon"><img src="img/icons/globe.svg" style="height:50px;width:50px;"></td>
                                     <td style="padding-left:30px;">
                                         <div class="insightTitle">Markets freak out</div>
                                         <div class="insightSubTitle">Here is a more detailed snippet about title.</div>
@@ -228,29 +230,31 @@
             </div>
         </div>
         <div id="compareWrapper" class="tab">
-            <div id="column0" style="width:50px;float:left;">
-                <div id="homebox1" style="" class="block">
-                    <div style="height:400px"></div>
+            <div id="compareNav" class="tabNav">
+                <div class="compareNavPort">
+                    <div id="portPie"></div>
+                    <div class="portName">Port1</div>
+                </div>
+                <div class="compareNavPort">
+                    <div id="portPie"></div>
+                    <div class="portName">Port2</div>
+                </div>
+                <div class="compareNavPort">
+                    <div id="portPie"></div>
+                    <div class="portName">Port3</div>
+                </div>
+                <div class="compareNavPort">
+                    <div id="portPie"></div>
+                    <div class="portName">Port4</div>
                 </div>
             </div>
-            <div id="column1" style="width:500px;margin-left:60px;float:left;">
-                <div id="homebox1" style="" class="block">
-                    <div style="height:400px">A graph would be here</div>
-                </div>
-                <div id="homebox3" class="block">
-                    <div style="height:100px;font-size:20px">Table</div><br> 
-                </div>
-            </div>
-            <div id="column2" style="width:275px;float:right">
-                <div id="homebox2" class="block">
-                    <div style="height:380px;font-size:20px">List of Stocks?</div>
-                </div>
-                <div id="homebox4" class="block">
-                    <div style="font-size:20px">Compare with Friends</div>
-                </div>
+            <div id="port_overview" class="column">
+                <div id="piechart"></div>
+                
             </div>
         </div>
     </div>
+    <div id="footer"></div>
     
 
     <!-- Modules -->
