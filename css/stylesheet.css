@@ -400,7 +400,7 @@ body {
 #piechart{
 }
 
-#piechart_tooltip{
+.piechart_tooltip{
     text-align: center;
     color: #5a5a5a;
     position: fixed;
@@ -424,4 +424,20 @@ body {
 #piechart_tooltip .percent{
 	margin-top: 5px;
     font-size: 20px;
+}
+
+#piechart_tooltip_default .content{
+    font-size: 16px;
+}
+
+#piechart_tooltip_default .percent{
+    margin-top: 0px;
+    text-align:right;
+    width:50px;
+    padding-right:10px;
+}
+
+#piechart_tooltip_default .label{
+    margin-top: 0px;
+    width:150px;
 }
