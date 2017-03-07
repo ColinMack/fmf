@@ -4,6 +4,7 @@
     <script src="js/shared/angular.min.js"></script>
     <script src="data/cred.js"></script>
     <script src="js/shared/d3.min.js"></script>
+    <script src="js/shared/underscore-min.js"></script>
     <script src="js/piechart.js"></script>
     <script src="js/shared/jquery-3.1.1.min.js"></script>
     <!--<script> 
@@ -70,7 +71,7 @@
                         </div>
                     </td></tr>
                     </table>
-                        <table class="port_row"><tr><td>
+                    <table class="port_row"><tr><td>
                         <div class="port">
                             <div class="port_info">
                                 <div class="port_name">Portfolio Name</div>
@@ -101,7 +102,8 @@
                                 </tbody>
                             </table>
                         </div>
-                        </td></tr></table>
+                        </td></tr>
+                    </table>
                 </div>
                 <div id="courseBlock" class="homeBlock">
                     <div class="homeBlockTitle">Jump Back In</div>
@@ -250,11 +252,16 @@
             </div>
             <div id="port_overview" class="column">
                 <div id="piechartWrapper">
-                    <table id="piechart_tooltip" display="none">
+                    <table id="piechart_tooltip" class="piechart_tooltip" display="none">
                         <tr><td>
                         <div class="label"></div>
                         <div class="shares"></div>
                         <div class="percent"></div>
+                        </td></tr>
+                    </table>
+                    <table id="piechart_tooltip_default" class="piechart_tooltip">
+                        <tr><td>
+                        <table class="content"><tbody></tbody></table>
                         </td></tr>
                     </table>
                     <div id="piechart"></div>
