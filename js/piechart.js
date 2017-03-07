@@ -1,18 +1,23 @@
 var data = [
 	{
-		fund_type:"us",
-		shares: 30,
+		fund_type:"U.S. Stocks",
+		shares: 35,
 		color: "#27AFAF"
 	}, 
 	{
-		fund_type:"euro",
-		shares: 40,
+		fund_type:"European Stocks",
+		shares: 42,
 		color:"#82bc00"
 	}, 
 	{
-		fund_type:"asia",
-		shares: 30,
+		fund_type:"Asian Stocks",
+		shares: 130,
 		color:"#0081C9"
+	},
+	{
+		fund_type:"Emerging Markets Stocks",
+		shares: 70,
+		color:"orange"
 	}
 ];
 var color = ["#27AFAF", "#82bc00", "#0081C9"]
@@ -33,6 +38,12 @@ var loadScatter = function(){
     });
 
     var tooltip = $("#piechart_tooltip");
+    var default_tooltip = $("#piechart_tooltip_default tbody");
+
+    var default_content = default_tooltip.find(".content").empty();
+    _.each(data, function(fund){
+    	default_content.append("<tr><td class=\"percent\">" + fund.shares +  "</td><td class=\"label\" style=\"color:" + fund.color + "\">" + fund.fund_type + "</td><tr>");
+    });
 
     var svg = d3.select("#piechart").append("svg").attr("width", width).attr("height", height).append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
@@ -43,6 +54,7 @@ var loadScatter = function(){
     });
 
     path.on('mouseover', function(d) {
+    	default_tooltip.hide();
         var total = d3.sum(data.map(function(d) {
           return d.shares;
         }));
@@ -56,6 +68,7 @@ var loadScatter = function(){
       
 	path.on('mouseout', function() {
 		tooltip.hide();
+		default_tooltip.show();
 	});   
 
 };
