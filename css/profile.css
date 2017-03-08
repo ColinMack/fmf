@@ -19,6 +19,7 @@ body {
 	vertical-align:middle;
 	text-align:center;
 	font-size:20px;
+	background-color:#dc7e00;
 	
 }
 
@@ -56,11 +57,19 @@ body {
 	color:#5a5a5a;
 	margin-right:20px;
 }
-#prof img{
-	height:50px;
-	width:50px;
-	border-radius:25px;
-	margin-top: 8px;
+#personal img{
+	height:200px;
+	width:200px;
+	border-radius:100px;
+}
+#personal input{
+	font-size:20px;
+	border:none;
+	width:200px;
+	border-radius:100px;
+}
+#personal input:focus{
+	outline:none;
 }
 
 #nav button{
@@ -78,24 +87,20 @@ body {
 	outline:none;
 }
 
-#tabWrapper{
+#profWrapper{
 	width: 950px;
 	margin: auto;
 	margin-top: 40px;
 }
 
-.tab {
-    color:#5a5a5a;
-    display:inline-block;
-}
 .block{
 	width:100%;
 	color:#5a5a5a;
 	background-color:#fff;
 	text-align:left;
 	padding:20px;
-	margin:20px;
-	border-radius:4px;
+	border-radius:5px;
+	margin-bottom:20px;
 }
 
 .homeBlock{
@@ -330,13 +335,13 @@ body {
     background-color: white;
     border-radius: 5px;
     text-align: center;
+    height: 400px;
     width: 100px;
 }
 
 .compareNavPort{
 	cursor:pointer;
-	margin-top:10px;
-	margin-bottom:10px;
+	height: 80px;
     padding-top: 10px;
     padding-bottom: 10px;
 	filter: gray;
@@ -399,6 +404,7 @@ body {
 
 #piechart{
 }
+
 .piechart_tooltip{
     text-align: center;
     color: #5a5a5a;
@@ -411,6 +417,7 @@ body {
 }
 
 #piechart_tooltip{
+	margin-top:150px;
 }
 
 #piechart_tooltip .label{
@@ -429,11 +436,10 @@ body {
 }
 
 #piechart_tooltip_default .content{
-    font-size: 12px;
+    font-size: 16px;
 }
 
 #piechart_tooltip_default .percent{
-	font-size:14px;
     margin-top: 0px;
     text-align:right;
     width:50px;

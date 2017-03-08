@@ -1,0 +1,34 @@
+<html>
+<head> <link rel="stylesheet" type="text/css" href="../css/profile.css">
+    <title>Profile | FundMyFuture</title></head>
+    <!--<script> 
+        $(function(){
+          $("body").load("masthead.html"); 
+        });
+    </script>-->
+<body ng-app="fmf">
+    <div id="masthead" ng-controller="MainController">
+        <div id="nav" style="float:left;">
+        	<button id="dashButton" value="dash" style="color:#005EB8;">&lt; Back To Dashboard</button>
+    	</div>
+    </div>
+    <div id="banner">My Profile</div>
+
+    <div id="profWrapper">
+        <div id="personal" class="block" style="height:400px">
+            <div><img src="../img/cmack.jpg"></div>
+            <input type="text" value="Colin" name="firstname"><br>
+            <input type="text" value="Mack" name="lastname"><br>
+            <input type="text" value="cmack" name="username"><br>
+            <input type="text" value="colin.mack@fmf.com" name="email"><br>
+            <div>Age: </div>
+        </div>
+        <div id="portfolios" class="block" style="height:400px"></div>
+        <div id="awards" class="block" style="height:400px"></div>
+        <div id="stats" class="block" style="height:400px"></div>
+
+    </div>
+    <div id="footer"></div>
+
+</body>
+</html>
