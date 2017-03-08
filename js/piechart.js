@@ -1,4 +1,4 @@
-var data = [
+/*var data = [
 	{
 		fund_type:"U.S. Stocks",
 		shares: 35,
@@ -19,10 +19,19 @@ var data = [
 		shares: 70,
 		color:"orange"
 	}
-];
-var color = ["#27AFAF", "#82bc00", "#0081C9"]
+];*/
+var color = ["#27AFAF", "#82bc00", "#0081C9", "#006747", "#0093639", "#B4DB0A", "#FFCC00", "#FCD015", "#CB333B", "#671E75"]
 
-var loadScatter = function(){
+var loadPieChart = function(data, category){
+	var ports = data[0].contents;
+
+	_.each(ports, function (port){
+		var pieData = jQuery.extend({}, port_info[port.cusip]);
+		pieData["shares"] = port.shares;
+		return;
+
+	});
+
     $("#piechart").empty();
 
     var width = 400,
@@ -41,8 +50,14 @@ var loadScatter = function(){
     var default_tooltip = $("#piechart_tooltip_default tbody");
 
     var default_content = default_tooltip.find(".content").empty();
+
+    var total = d3.sum(data.map(function(d) {
+        return d.shares;
+    }));
+
     _.each(data, function(fund){
-    	default_content.append("<tr><td class=\"percent\">" + fund.shares +  "</td><td class=\"label\" style=\"color:" + fund.color + "\">" + fund.fund_type + "</td><tr>");
+        var percent = Math.round(1000 * fund.shares / total) / 10;
+    	default_content.append("<tr><td class=\"percent\">" + percent +  "%</td><td class=\"label\" style=\"color:" + fund.color + "\">" + fund.fund_type + "</td><tr>");
     });
 
     var svg = d3.select("#piechart").append("svg").attr("width", width).attr("height", height).append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
@@ -55,9 +70,6 @@ var loadScatter = function(){
 
     path.on('mouseover', function(d) {
     	default_tooltip.hide();
-        var total = d3.sum(data.map(function(d) {
-          return d.shares;
-        }));
         var percent = Math.round(1000 * d.data.shares / total) / 10;
         tooltip.find('.label').html(d.data.fund_type);
         tooltip.find('.label').css("color", d.data.color);
