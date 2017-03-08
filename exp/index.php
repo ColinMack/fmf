@@ -24,7 +24,7 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
      echo "Connection could not be established.<br />";
      die( print_r( sqlsrv_errors(), true));
 }
-  $query="DROP TABLE test; CREATE TABLE test(id int IDENTITY(1,1), name varchar(30))";
+  $query="DROP TABLE test; CREATE TABLE test(id int IDENTITY(1,1), name int)";
   
   $stmt = sqlsrv_prepare($conn, $query);
   
@@ -32,7 +32,7 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
           die( print_r( sqlsrv_errors(), true));
   }
   
-  $query="INSERT INTO test (name) VALUES('colin');";
+  $query="INSERT INTO test (name) VALUES(2);";
   
   $stmt = sqlsrv_prepare($conn, $query);
   
