@@ -32,6 +32,14 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
           die( print_r( sqlsrv_errors(), true));
   }
   
+  $query="INSERT INTO test (id) VALUES(1);";
+  
+  $stmt = sqlsrv_prepare($conn, $query);
+  
+  if( sqlsrv_execute( $stmt ) === false ) {
+          die( print_r( sqlsrv_errors(), true));
+  }
+  
   
   ?>
 
