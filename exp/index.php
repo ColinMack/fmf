@@ -45,7 +45,7 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
   $stmt = sqlsrv_prepare($conn, $query);
    
   while( $row = sqlsrv_fetch_array( $stmt, SQLSRV_FETCH_ASSOC) ) {
-    echo $row['LastName'].", ".$row['FirstName']."<br />";
+    echo $row['name']."<br />";
   }
   
   
