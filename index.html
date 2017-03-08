@@ -1,12 +1,13 @@
 <html>
 <head> <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
     <title>FundMyFuture</title></head>
+    <script src="js/shared/jquery-3.1.1.min.js"></script>
     <script src="js/shared/angular.min.js"></script>
     <script src="data/cred.js"></script>
     <script src="js/shared/d3.min.js"></script>
     <script src="js/shared/underscore-min.js"></script>
     <script src="js/piechart.js"></script>
-    <script src="js/shared/jquery-3.1.1.min.js"></script>
+    
     <!--<script> 
         $(function(){
           $("body").load("masthead.html"); 
@@ -38,72 +39,14 @@
             <div class="left_column" style="float:left;">
                 <div id="portBlock" class="homeBlock">
                     <div class="homeBlockTitle">Your Porfolios:</div>
-                    <table class="port_row"><tr><td>
-                        <div class="port">
-                            <div class="port_info">
-                                <div class="port_name">Portfolio Name</div>
-                                <div class="port_val">$##,###</div>
-                                <div class="port_bps">##.##%</div>
-                            </div>
-                            <table>
-                                <tbody>
-                                   <tr class="port_buttons">
-                                    <td class="port_manage">Manage</td>
-                                    <td class="port_compare">Compare</td>
-                                   </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <div class="port">
-                            <div class="port_info">
-                                <div class="port_name">Portfolio Name</div>
-                                <div class="port_val">$##,###</div>
-                                <div class="port_bps">##.##%</div>
-                            </div>
-                            <table>
-                                <tbody>
-                                   <tr class="port_buttons">
-                                    <td class="port_manage">Manage</td>
-                                    <td class="port_compare">Compare</td>
-                                   </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </td></tr>
-                    </table>
-                    <table class="port_row"><tr><td>
-                        <div class="port">
-                            <div class="port_info">
-                                <div class="port_name">Portfolio Name</div>
-                                <div class="port_val">$##,###</div>
-                                <div class="port_bps">##.##%</div>
-                            </div>
-                            <table>
-                                <tbody>
-                                   <tr class="port_buttons">
-                                    <td class="port_manage">Manage</td>
-                                    <td class="port_compare">Compare</td>
-                                   </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <div id="new_port" class="port">
-                            <div class="port_info">
-                                <div class="port_name">Portfolio Name</div>
-                                <div class="port_val">$##,###</div>
-                                <div class="port_bps">##.##%</div>
-                            </div>
-                            <table>
-                                <tbody>
-                                   <tr class="port_buttons">
-                                    <td class="port_manage">Manage</td>
-                                    <td class="port_compare">Compare</td>
-                                   </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        </td></tr>
-                    </table>
+                    <table id="port_row1" class="port_row"><tr><td>
+                        <div class="port" id="port1"></div>
+                        <div class="port" id="port2"></div>
+                    </td></tr></table>
+                    <table id="port_row2" class="port_row"><tr><td>                        
+                        <div class="port" id="port1"></div>
+                        <div class="port" id="port2"></div>
+                    </td></tr></table>
                 </div>
                 <div id="courseBlock" class="homeBlock">
                     <div class="homeBlockTitle">Jump Back In</div>
@@ -270,6 +213,24 @@
         </div>
     </div>
     <div id="footer"></div>
+
+    <script id="port-template" type="text">
+    <div>
+        <div class="port_info">
+            <div class="port_name"><%=name%></div>
+            <div class="port_val">$##,###</div>
+            <div class="port_bps">##.##%</div>
+        </div>
+        <table>
+            <tbody>
+               <tr class="port_buttons">
+                <td class="port_manage">Manage</td>
+                <td class="port_compare">Compare</td>
+               </tr>
+            </tbody>
+        </table>
+    </div>
+    </script>
     
 
     <!-- Modules -->
