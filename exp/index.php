@@ -43,7 +43,7 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
  $query="SELECT * FROM test;";
   
   $stmt = sqlsrv_prepare($conn, $query);
-   echo "hi";
+   echo sqlsrv_fetch_array( $stmt, SQLSRV_FETCH_NUMERIC);
   while( $row = sqlsrv_fetch_array( $stmt, SQLSRV_FETCH_NUMERIC) ) {
     echo $row[0]."<br />";
   }
