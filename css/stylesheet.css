@@ -198,16 +198,20 @@ body {
 	height:40px;
 }
 
+.faqs{
+	color: black;
+}
+
 #showcase{
 	padding-top: 60px;
 	background-color: white;
 }
 
 #about{
-
+	background-color: white;
 }
 
 #FAQ{
-	
+	background-color: white;
 }
 
