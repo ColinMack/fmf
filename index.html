@@ -38,7 +38,7 @@
         <div id="homeWrapper" class="tab">
             <div class="left_column" style="float:left;">
                 <div id="portBlock" class="homeBlock">
-                    <div class="homeBlockTitle">Your Porfolios:</div>
+                    <div class="homeBlockTitle">Your Porfolios</div>
                     <table id="port_row1" class="port_row"><tr><td>
                         <div class="port" id="port1"></div>
                         <div class="port" id="port2"></div>
@@ -175,24 +175,7 @@
             </div>
         </div>
         <div id="compareWrapper" class="tab">
-            <div id="compareNav" class="tabNav">
-                <div class="compareNavPort">
-                    <div id="portPie"></div>
-                    <div class="portName">Port1</div>
-                </div>
-                <div class="compareNavPort">
-                    <div id="portPie"></div>
-                    <div class="portName">Port2</div>
-                </div>
-                <div class="compareNavPort">
-                    <div id="portPie"></div>
-                    <div class="portName">Port3</div>
-                </div>
-                <div class="compareNavPort">
-                    <div id="portPie"></div>
-                    <div class="portName">Port4</div>
-                </div>
-            </div>
+            <div id="compareNav" class="tabNav"></div>
             <div id="port_overview" class="column">
                 <div id="piechartWrapper">
                     <table id="piechart_tooltip" class="piechart_tooltip" display="none">
@@ -230,6 +213,13 @@
             </tbody>
         </table>
     </div>
+    </script>
+
+    <script id="compareNav-template" type="text">
+        <div class="compareNavPort">
+            <div id="portPie"></div>
+            <div class="portName"><%=name%></div>
+        </div>
     </script>
     
 
