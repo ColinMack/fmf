@@ -32,7 +32,7 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
           die( print_r( sqlsrv_errors(), true));
   }*/
   
-  $query="INSERT INTO test (name) VALUES(\"colin\");";
+  $query="INSERT INTO test (name) VALUES('colin');";
   
   $stmt = sqlsrv_prepare($conn, $query);
   
