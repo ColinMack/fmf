@@ -40,6 +40,16 @@ $conn = sqlsrv_connect($serverName, $connectionInfo);
           die( print_r( sqlsrv_errors(), true));
   }
   
+ $query="SELECT * FROM test;";
+  
+  $stmt = sqlsrv_prepare($conn, $query);
+   
+  while( $row = sqlsrv_fetch_array( $stmt, SQLSRV_FETCH_ASSOC) ) {
+    echo $row['LastName'].", ".$row['FirstName']."<br />";
+  }
+  
+  
+  
   
   ?>
 
