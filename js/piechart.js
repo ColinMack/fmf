@@ -1,4 +1,4 @@
-var data = [
+/*var data = [
 	{
 		fund_type:"U.S. Stocks",
 		shares: 35,
@@ -18,11 +18,20 @@ var data = [
 		fund_type:"Emerging Markets Stocks",
 		shares: 70,
 		color:"orange"
-	}*/
-];
-var color = ["#27AFAF", "#82bc00", "#0081C9"]
+	}
+];*/
+var color = ["#27AFAF", "#82bc00", "#0081C9", "#006747", "#0093639", "#B4DB0A", "#FFCC00", "#FCD015", "#CB333B", "#671E75"]
 
-var loadScatter = function(){
+var loadPieChart = function(data, category){
+	var ports = data[0].contents;
+
+	_.each(ports, function (port){
+		var pieData = jQuery.extend({}, port_info[port.cusip]);
+		pieData["shares"] = port.shares;
+		return;
+
+	});
+
     $("#piechart").empty();
 
     var width = 400,
