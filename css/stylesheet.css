@@ -399,16 +399,19 @@ body {
 
 #piechart{
 }
-
 .piechart_tooltip{
     text-align: center;
     color: #5a5a5a;
-    position: fixed;
+    position: absolute;
     margin-left: 100px;
     width: 200px;
-    height: 100px;
-    margin-top: 150px;
+    height: 125px;
+    margin-top: 125px;
     margin-bottom: 150px;
+}
+
+#piechart_tooltip{
+	margin-top:150px;
 }
 
 #piechart_tooltip .label{
