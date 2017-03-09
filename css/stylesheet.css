@@ -3,6 +3,11 @@
     src: url(akkurat-pro-regular.ttf);
 }
 
+@font-face {
+	font-family: AkkuratLight;
+	src: url(akkurat-pro-light.ttf);
+}
+
 body {
 	font-size: 16px;
 	font-family: Akkurat;
@@ -11,15 +16,93 @@ body {
 	width: 100%;
 	background-color:#ebf0f2;
 }
-#banner{
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+#about{
+	background-color: white;
+}
+
+#banner {
 	height:60px;
 	width:100%;
 	color:white;
 	line-height:60px;
 	vertical-align:middle;
 	text-align:center;
-	font-size:20px;
-	
+	font-size:20px;	
+}
+
+#column1 {
+	width:550px;
+}
+
+#column2 {
+	width:380px;
+}
+
+#coursePreview .percent{
+	font-size:80px;
+}
+
+#FAQ{
+	background-color: white;
+}
+
+#managecompare{
+	padding-top:20px;
+	width:150px;
+	text-align: right;
+}
+
+#managecompare div{
+	margin-bottom:5px;
+}
+
+#masthead {
+	z-index:100;
+	color:white;
+	width: 100%;
+	background-color: #ebf0f2;
+	overflow: hidden;
+}
+
+#nav {
+}
+
+#nav button{
+	color:#ddd;
+	margin-left:50px;
+	margin-right:50px;
+    background: none;
+    border: none;
+    font-family: Akkurat-light;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+#nav button:focus{
+	outline:none;
+}
+
+#prof{
+	font-size: 14px;
+	text-align: right;
+	display:inline-flex;
+	color:#5a5a5a;
+	margin-right:20px;
+}
+
+#prof img{
+	height:50px;
+	width:50px;
+	border-radius:25px;
+	margin-top: 8px;
 }
 
 #searchcontainer {
@@ -29,43 +112,14 @@ body {
 	margin: 20px;
 }
 
-
-#masthead {
-	z-index:100;
-	color:white;
-	width: 100%;
-	background-color: #ebf0f2;
-	overflow: hidden;
-
-}
-#prof{
-	font-size: 14px;
-	text-align: right;
-	display:inline-flex;
-	color:#5a5a5a;
-	margin-right:20px;
-}
-#prof img{
-	height:50px;
-	width:50px;
-	border-radius:25px;
-	margin-top: 8px;
+#showcase{
+	padding-top: 60px;
+	background-color: white;
+	height: 940px;
 }
 
-#nav {
-}
-#nav button{
-	color:#ddd;
-	margin-left:50px;
-	margin-right:50px;
-    background: none;
-    border: none;
-    font-family: Akkurat;
-    font-size: 20px;
-    line-height: 60px;
-}
-#nav button:focus{
-	outline:none;
+#showcase h1{
+	font-family: 'Oswald', sans-serif;
 }
 
 #tabWrapper{
@@ -74,9 +128,11 @@ body {
 	margin-top: 15px;
 }
 
-.tab {
-    color:#ebf0f2;
+.active{
+	font-color: blue;
+	text-decoration: underline;
 }
+
 .block{
 	width:100%;
 	color:#5a5a5a;
@@ -86,6 +142,25 @@ body {
 	margin:20px;
 	border-radius:4px;
 }
+
+.course.locked{
+	opacity:0.5;
+}
+
+.course.complete{
+	border:4px solid #ebf0f2;
+	color:#ebf0f2;
+	background-color:transparent;
+}
+
+.faqs{
+	color: black;
+}
+
+.form-control{
+	height: 50px;
+}
+
 .homeBlock{
 	width:100%;
 	color:#5a5a5a;
@@ -94,20 +169,34 @@ body {
 	margin:20px;
 	border-radius:4px;
 }
+
 .homeBlockTitle{
 	font-size:20px;
 }
+
 .homeBlockContent{
 	background-color:#fff;
 	border-radius:20px;
 	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
 	border-radius:5px;
 }
-#column1{
-	width:550px;
+
+.homeBoxHeader{
+	font-size:20px;
+	margin-bottom: 20px;
 }
-#column2{
-	width:380px;
+
+.navbar{
+	background-color: #337ab7;
+}
+
+.navbar-default .navbar-nav> li > a {
+	color: white !important;
+	font-family: AkkuratLight;
+}
+
+.newuserform{
+	padding-top: 3.5em;
 }
 
 .port{
@@ -132,52 +221,13 @@ body {
 .port_info .port_name{
 	font-size:14px;
 }
+
 .port_info .port_val{
 	font-size:20px;
 }
+
 .port_info .port_bps{
 	font-size:14px;
-}
-
-.port table{
-	border-spacing:0px;
-}
-
-.course.locked{
-	opacity:0.5;
-}
-.course.complete{
-	border:4px solid #ebf0f2;
-	color:#ebf0f2;
-	background-color:transparent;
-}
-
-#managecompare{
-	padding-top:20px;
-	width:150px;
-	text-align: right;
-}
-#managecompare div{
-	margin-bottom:5px;
-}
-
-.homeBoxHeader{
-	font-size:20px;
-	margin-bottom: 20px;
-}
-
-#coursePreview .percent{
-	font-size:80px;
-}
-
-.socialRank{
-	padding-top:10px;
-}
-
-.socialRank .rank {
-	text-align:right;
-	width:130px;
-	font-size:30px;
 }
 
 .port_manage {
@@ -198,37 +248,28 @@ body {
 	height:40px;
 }
 
-.faqs{
-	color: black;
-}
-
-.newuserform{
-	padding-top: 3.5em;
-}
-
-#showcase{
-	padding-top: 60px;
-	background-color: white;
-}
-
-#about{
-	background-color: white;
-}
-
-#FAQ{
-	background-color: white;
-}
-
-.active{
-	font-color: blue;
-	text-decoration: underline;
+.port table{
+	border-spacing:0px;
 }
 
 .row{
 	padding: 6px;
 }
 
-.form-control{
-	height: 50px;
+.socialRank{
+	padding-top:10px;
 }
 
+.socialRank .rank {
+	text-align:right;
+	width:130px;
+	font-size:30px;
+}
+
+.tab {
+    color:#ebf0f2;
+}
+
+.tagline {
+	font-style: italic;
+}
