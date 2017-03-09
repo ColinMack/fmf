@@ -557,6 +557,12 @@ body {
 	padding-left: 20px;
 }
 
+#sell_transaction_menu{
+	float:left;
+	width:250px;
+	padding-left: 20px;
+}
+
 #transaction_menu input{
 	margin-bottom:10px;
 }
@@ -581,6 +587,7 @@ body {
 	border-bottom:1px solid #ebf0f2;
 }
 #fund_table tr:hover{
+	cursor: pointer;
 	background-color:#ebf0f2;
 }
 

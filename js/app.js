@@ -87,15 +87,18 @@ var user_ports = {
             contents:[
                 {
                     cusip:464288596,
-                    shares:5
+                    shares:5,
+                    price:113.21
                 },
                 {
                     cusip:464287291,
-                    shares:3
+                    shares:3,
+                    price:120.17
                 },
                 {
                     cusip:464285105,
-                    shares:15
+                    shares:15,
+                    price:12.04
                 }
             ]
 
@@ -107,15 +110,18 @@ var user_ports = {
             contents:[
                 {
                     cusip:464288596,
-                    shares:25
+                    shares:2,
+                    price:113.21
                 },
                 {
                     cusip:464287291,
-                    shares:13
+                    shares:5,
+                    price:120.17
                 },
                 {
                     cusip:464285105,
-                    shares:15
+                    shares:40,
+                    price:12.04
                 }
             ]
 
@@ -127,15 +133,18 @@ var user_ports = {
             contents:[
                 {
                     cusip:464288596,
-                    shares:8
+                    shares:50,
+                    price:113.21
                 },
                 {
                     cusip:464287291,
-                    shares:4
+                    shares:13,
+                    price:120.17
                 },
                 {
                     cusip:464285105,
-                    shares:10
+                    shares:70,
+                    price:12.04
                 }
             ]
 
@@ -312,7 +321,11 @@ function loadManageTab(portname){
         var navPort = $(event.target).closest(".navPort")
         navPort.addClass("selected");
         $("#banner").html(navPort.find(".portName").html());
+        $("#port_new_value").html(navPort.find(".portName").html() + " New Value:");
+        $("#sell_port_new_value").html(navPort.find(".portName").html() + " New Value:");
     });
+
+    //_.each(manage_port.contents, function(fund, index))
 
 
     _.each(funds, function(fund, index) {
@@ -324,6 +337,10 @@ function loadManageTab(portname){
             $("#menu_fund").val(fund.description);
             $("#menu_shares").val(1);
             $("#menu_cost").val(fund["price"]);
+            $("#menu_cost").attr("value", fund["price"]);
+            $("#menu_cost").val(($("#menu_shares").val()*parseFloat($("#menu_cost").attr("value"))).toFixed(2));
+            $("#remaining_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))-$("#menu_cost").val()).toFixed(2));
+
         });
     });
 
@@ -415,6 +432,11 @@ function loadCompareTab(portname){
 
 $("#goToMyProfile").click(function(event){
     window.location.href='profile/';
+});
+
+$("#menu_shares").on("input", function(){
+    $("#menu_cost").val(($("#menu_shares").val()*parseFloat($("#menu_cost").attr("value"))).toFixed(2));
+    $("#remaining_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))-$("#menu_cost").val()).toFixed(2));
 });
 
 $("#manage_buy").click(function(event){
