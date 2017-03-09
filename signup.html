@@ -14,7 +14,7 @@
                 	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 	</button>
-                	<a class="navbar-brand" href="#page-top">Fund My Future</a>
+                	<a class="navbar-brand" href="login.html">[LOGO]</a>
             	</div>
             <!-- Collect the nav links, forms, and other content for toggling -->
            		 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -26,10 +26,10 @@
                         	<a data-toggle="modal" data-target="#loginModal" class="active">Login/Create Account</a>
                     	</li>
                    		<li class="page-scroll">
-                        	<a href="#about">About</a>
+                        	<a href="login.html">About</a>
                     	</li>
                     	<li class="page-scroll">
-                        	<a href="#FAQ">FAQ</a>
+                        	<a href="login.html">FAQ</a>
                     	</li>
                 	</ul>
             	</div>
@@ -41,12 +41,17 @@
     		<div class="container newuserform">
     			<div class="row">
     				<div class="col-md-12">
-    					<h1>Let's Get Started</h1>
+    					<h1 id="newuserhead">Let's Get Started...</h1>
     				</div>
     			</div>
                 <form>
                     <div class="row form-group" id="newuserform">
-                        <div class="col-md-12">
+                        <div class="col-md-11 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <h3 class="subheading">Basic Info</h3>
+                                </div>
+                            </div>
                             <div class="row">
                                 <div class="col-md-5">
                                     <input class="form-control" name="firstname" type="text" placeholder="First Name"/>
@@ -78,64 +83,81 @@
                         </div>
                     </div>
 
-
-                     <div class="row form-group" id="identity">
-                        <div class="col-md-12">
-                            <div class="row">
-                                <div class="col-md-2">
-                                    <input class="form-control" name="month" type="number" placeholder="MM"/>
-                                </div>
-                                <div class="col-md-2">
-                                    <input class="form-control" name="day" type="number" placeholder="DD"/>
-                                </div>
-                                <div class="col-md-6">
-                                    <input class="form-control" name="year" type="number" placeholder="YYYY"/>
-                                </div>
+                    <div class="form-group" id="identity">
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-11">
+                                <h3 class="subheading">Identity Verification</h3>
                             </div>
-                            <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="year" type="number" placeholder="SSN (XXX-XX-XXX)"/>
+                        </div>
+                        <div class="row">
+                            <div class=" col-md-offset-1 col-md-11">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <input class="form-control" name="month" type="number" placeholder="MM"/>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <input class="form-control" name="day" type="number" placeholder="DD"/>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input class="form-control" name="year" type="number" placeholder="YYYY"/>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="year" type="number" placeholder="SSN (XXX-XX-XXX)"/>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="row form-group" id="address">
-                        <div class="col-md-12">
-                            <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="address" type="text" placeholder="Residential Address"/>
-                                </div>
+                        <div class="row">
+                            <div class="col-md-11 col-md-offset-1 ">
+                                <h3 class="subheading">Address Verification</h3>
                             </div>
-                            <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="address2" type="text" placeholder="Residential Address (line2)"/>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-11 col-md-offset-1 ">
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="address" type="text" placeholder="Residential Address"/>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="address" type="text" placeholder="City"/>
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="address2" type="text" placeholder="Residential Address (line2)"/>
+                                    </div>
                                 </div>
-                            </div>
-                             <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="address" type="text" placeholder="State"/>
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="address" type="text" placeholder="City"/>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="address" type="text" placeholder="Zipcode"/>
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="address" type="text" placeholder="State"/>
+                                    </div>
                                 </div>
-                            </div>
-                             <div class="row">
-                                <div class="col-md-10">
-                                    <input class="form-control" name="address" type="phonenumber" placeholder="Phone Number"/>
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="address" type="text" placeholder="Zipcode"/>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <input class="form-control" name="address" type="phonenumber" placeholder="Phone Number"/>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </form>
+                <div class="row">
+                    <div class="col-md-offset-9 col-md-1">
+                        <a href="index.html" class="btn btn-info" role="button">Let's Go!</a>
+                    </div>
+                </div>
             </div>
         </section>
 	</body>

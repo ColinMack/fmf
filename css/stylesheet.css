@@ -122,6 +122,10 @@ section{
 	outline:none;
 }
 
+#newuserhead{
+	font-family: 'Oswald', sans-serif;
+}
+
 #prof{
 	font-size: 14px;
 	text-align: right;
@@ -320,6 +324,10 @@ section{
 	text-align:right;
 	width:130px;
 	font-size:30px;
+}
+
+.subheading{
+	font-family: AkkuratLight;
 }
 
 .tab {
