@@ -208,7 +208,7 @@ $(".edit").click( function(event){
 });
 
 $("#dashButton").click(function(event){
-    window.location.href='../index.html';
+    window.location.href='../';
 });
 
 

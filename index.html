@@ -4,6 +4,8 @@
     <script src="js/shared/jquery-3.1.1.min.js"></script>
     <script src="js/shared/angular.min.js"></script>
     <script src="data/cred.js"></script>
+    <script src="data/funds_full.js"></script>
+    <script src="data/perf_data_hash.js"></script>
     <script src="js/shared/d3.min.js"></script>
     <script src="js/shared/underscore-min.js"></script>
     <script src="js/piechart.js"></script>
@@ -130,55 +132,146 @@
             <div id="manageNav" class="tabNav"></div>
             <div id="port_manage" class="column" style="margin-left:20px;">
                 <div id="buyTab">
-                    <div id="selector">
-                        <div class="filter_category">
-                            <div>Market</div>
-                            <select name="market">
-                                <option value="null"></option>
-                                <option value="us">United States</option>
-                                <option value="uk">United Kingdom</option>
-                                <option value="switzerland">Switzerland</option>
-                                <option value="japan">Japan</option>
-                                <option value="mexico">Mexico</option>
-                                <option value="netherlands">Netherlands</option>
-                                <option value="italy">Italy</option>
-                                <option value="singapore">Singapore</option>
-                            </select>
-                        </div>
-                        <div class="filter_category">
-                            <div>Asset Class</div>
-                            <select name="asset_class">
-                                <option value="null"></option>
-                                <option value="fixed_income">Fixed Income</option>
-                                <option value="equity">Equity</option>
-                                <option value="commodity">Commodity</option>
-                                <option value="specialty">Specialty</option>
-                                <option value="other">Other</option>
-                            </select>
-                        </div>
-                        <div class="filter_category">
-                            <div>Currency</div>
-                            <select name="currency">
-                                <option value="null"></option>
-                                <option value="usd">USD</option>
-                                <option value="eur">EUR</option>
-                                <option value="jpy">JPY</option>
-                                <option value="mxn">MXN</option>
-                                <option value="aud">AUD</option>
-                                <option value="cad">CAD</option>
-                                <option value="chf">CHF</option>
-                                <option value="gbp">GBP</option>
-                                <option value="sgd">SGD</option>
-                            </select>
-                        </div>
-                        <div class="filter_category" style="width:210px">
-                            <div>Search <span style="font-size:12px;">(Ticker, Cusip, Fund Name)</span></div>
-                            <input type="text" name="about me">
+                    <div id="selectionBlock">
+                        <div id="selector">
+                            <div class="filter_category">
+                                <div>Market</div>
+                                <select name="market">
+                                    <option value="null"></option>
+                                    <option value="us">United States</option>
+                                    <option value="uk">United Kingdom</option>
+                                    <option value="switzerland">Switzerland</option>
+                                    <option value="japan">Japan</option>
+                                    <option value="mexico">Mexico</option>
+                                    <option value="netherlands">Netherlands</option>
+                                    <option value="italy">Italy</option>
+                                    <option value="singapore">Singapore</option>
+                                </select>
+                            </div>
+                            <div class="filter_category">
+                                <div>Asset Class</div>
+                                <select name="asset_class">
+                                    <option value="null"></option>
+                                    <option value="fixed_income">Fixed Income</option>
+                                    <option value="equity">Equity</option>
+                                    <option value="commodity">Commodity</option>
+                                    <option value="specialty">Specialty</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="filter_category">
+                                <div>Currency</div>
+                                <select name="currency">
+                                    <option value="null"></option>
+                                    <option value="usd">USD</option>
+                                    <option value="eur">EUR</option>
+                                    <option value="jpy">JPY</option>
+                                    <option value="mxn">MXN</option>
+                                    <option value="aud">AUD</option>
+                                    <option value="cad">CAD</option>
+                                    <option value="chf">CHF</option>
+                                    <option value="gbp">GBP</option>
+                                    <option value="sgd">SGD</option>
+                                </select>
+                            </div>
+                            <div class="filter_category" style="width:210px">
+                                <div>Search <span style="font-size:12px;">(Ticker, Cusip, Fund Name)</span></div>
+                                <input type="text" name="about me">
+                            </div>
                         </div>
                         <div id="fund_search">Search</div>
                     </div>
+                    <div id="transactionBlock">
+                        <div id="available_funds">
+                            <span>Available Funds:</span><span class="available_cash">$1000.00</span>
+                            <span class="deposit">Deposit</span>
+                            <span class="withdraw">Withdraw</span>
+                        </div>
+                        <div id="fund_table_container">
+                            <table id="fund_table"></table>
+                        </div>
+                        <div id="transaction_menu">
+                            <div>Fund:</div>
+                            <input readonly id="menu_fund">
+                            <div>Shares:</div>
+                            <input id="menu_shares">
+                            <div>Cost:</div>
+                            <input readonly id="menu_cost">
+                            <div id="port_new_value"></div>
+                            <input id="menu_port_new_value">
+                        </div>
+                    </div>
                 </div>
-                <div id="sellTab">
+                <div id="sellTab" style="display:none;">
+                    <div id="selectionBlock">
+                        <div id="selector">
+                            <div class="filter_category">
+                                <div>Market</div>
+                                <select name="market">
+                                    <option value="null"></option>
+                                    <option value="us">United States</option>
+                                    <option value="uk">United Kingdom</option>
+                                    <option value="switzerland">Switzerland</option>
+                                    <option value="japan">Japan</option>
+                                    <option value="mexico">Mexico</option>
+                                    <option value="netherlands">Netherlands</option>
+                                    <option value="italy">Italy</option>
+                                    <option value="singapore">Singapore</option>
+                                </select>
+                            </div>
+                            <div class="filter_category">
+                                <div>Asset Class</div>
+                                <select name="asset_class">
+                                    <option value="null"></option>
+                                    <option value="fixed_income">Fixed Income</option>
+                                    <option value="equity">Equity</option>
+                                    <option value="commodity">Commodity</option>
+                                    <option value="specialty">Specialty</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="filter_category">
+                                <div>Currency</div>
+                                <select name="currency">
+                                    <option value="null"></option>
+                                    <option value="usd">USD</option>
+                                    <option value="eur">EUR</option>
+                                    <option value="jpy">JPY</option>
+                                    <option value="mxn">MXN</option>
+                                    <option value="aud">AUD</option>
+                                    <option value="cad">CAD</option>
+                                    <option value="chf">CHF</option>
+                                    <option value="gbp">GBP</option>
+                                    <option value="sgd">SGD</option>
+                                </select>
+                            </div>
+                            <div class="filter_category" style="width:210px">
+                                <div>Search <span style="font-size:12px;">(Ticker, Cusip, Fund Name)</span></div>
+                                <input type="text" name="about me">
+                            </div>
+                        </div>
+                        <div id="fund_search">Search</div>
+                    </div>
+                    <div id="transactionBlock">
+                        <div id="available_funds">
+                            <span>Available Funds:</span><span class="available_cash">$1000.00</span>
+                            <span class="deposit">Deposit</span>
+                            <span class="withdraw">Withdraw</span>
+                        </div>
+                        <div id="sell_fund_table_container">
+                            <table id="sell_fund_table"></table>
+                        </div>
+                        <div id="sell_transaction_menu">
+                            <div>Fund:</div>
+                            <input readonly id="sell_menu_fund">
+                            <div>Shares:</div>
+                            <input id="sell_menu_shares">
+                            <div>Cost:</div>
+                            <input readonly id="sell_menu_cost">
+                            <div id="sell_port_new_value"></div>
+                            <input id="sell_menu_port_new_value">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -265,6 +358,18 @@
             <div id="portPie"></div>
             <div class="portName"><%=name%></div>
         </div>
+    </script>
+
+    <script id="fund-row-template" type="text">
+        <tr class="fund">
+            <td><%=description%></td>
+            <td><%=ticker%></td>
+            <td><%=asset_class%></td>
+            <td><%=market%></td>
+            <td><%=currency%></td>
+            <td><%=cusip%></td>
+            <td>$<%=price%></td>
+        </tr>
     </script>
     
 

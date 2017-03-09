@@ -85,6 +85,7 @@ body {
 }
 
 .tab {
+	width: 100%;
     color:#5a5a5a;
     display:inline-block;
 }
@@ -461,12 +462,13 @@ body {
 }
 
 #selector{
-	width: 790px;
     background-color: white;
     padding: 20px;
-    border-radius: 5px;
-    height: 80px;
+    padding-left:30px;
+    border-radius: 5px 5px 0px 0px;
     text-align: right;
+    display: block;
+    height:45px;
 }
 
 #buy_sell{
@@ -497,6 +499,8 @@ body {
     -webkit-appearance: none;
     -webkit-border-radius: 0px;
     border-bottom:1px solid #636363;
+    margin-top: 5px;
+    font-size: 12px;
 }
 .filter_category input{
 	cursor: pointer;
@@ -506,15 +510,122 @@ body {
 	border-radius: 0px;
 	background-color: white;
 	border-bottom:1px solid #636363;
+	margin-top: 5px;
+    font-size: 12px;
+}
+.filter_category select:focus{
+	outline:none;
+}
+.filter_category input:focus{
+	outline:none;
 }
 
 #fund_search{
-	background-color: rgb(0, 129, 201);
-	color:white;
-	padding:5px;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 10px;
-	display: inline-block;
+	cursor: pointer;
+	color: rgb(0, 129, 201);
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    border-radius: 0px 0px 5px 5px;
+    background-color: white;
+    border-top: 1px solid #ebf0f2;
+    height: 40px;
+    line-height: 40px;
+}
+#fund_search:hover{
+	color: white;
+    background-color: rgb(0, 129, 201);
+}
+
+#transactionBlock{
+	margin-top:20px;
+	background-color:white;
 	border-radius: 5px;
+	padding:20px;
+	display: block;
+	height:450px;
+}
+
+#available_funds{
+	font-size:24px;
+	margin-bottom:20px;
+}
+
+#transaction_menu{
+	float:left;
+	width:250px;
+	padding-left: 20px;
+}
+
+#transaction_menu input{
+	margin-bottom:10px;
+}
+
+#fund_table_container{
+	float:left;
+	width: 500px;
+	height:400px;
+	overflow:scroll;
+	padding-right: 10px;
+    border-right: 1px solid #ebf0f2;
+}
+
+#fund_table_container{
+	background-color:white;
+}
+#fund_table{
+	border-spacing: 0px;
+}
+#fund_table td{
+	font-size:11px;
+	border-bottom:1px solid #ebf0f2;
+}
+#fund_table tr:hover{
+	background-color:#ebf0f2;
+}
+
+#sell_fund_table_container{
+	float:left;
+	width: 500px;
+	height:400px;
+	overflow:scroll;
+	padding-right: 10px;
+    border-right: 1px solid #ebf0f2;
+}
+
+#sell_fund_table_container{
+	background-color:white;
+}
+#sell_fund_table{
+	border-spacing: 0px;
+}
+#sell_fund_table td{
+	font-size:11px;
+	border-bottom:1px solid #ebf0f2;
+}
+#sell_fund_table tr:hover{
+	background-color:#ebf0f2;
+}
+
+.available_cash{
+	margin-left:10px;
+}
+
+.deposit{
+	cursor:pointer;
+	margin-left:10px;
+	font-size:16px;
+	color:#82bc00;
+}
+.withdraw{
+	cursor: pointer;
+	margin-left:10px;
+	font-size:16px;
+	color:rgb(0, 129, 201);
+
+}
+
+#menu_fund{
+	margin-bottom: 10px;
+	width: 250px;
 }
