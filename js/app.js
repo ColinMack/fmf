@@ -106,7 +106,7 @@ var user_ports = {
         {
             name:"Colin's Investment Portfolio",
             fund_type:"individual",
-            deposited: 500,
+            deposited: 5000,
             contents:[
                 {
                     cusip:464288596,
@@ -253,6 +253,26 @@ $("#goToSocialStatsButton").click(function(event){
 
 $(function() {
     loadHomeTab();
+    $("#fund_table").empty();
+    _.each(funds, function(fund, index) {
+        var tmpl = _.template($('#fund-row-template').html());
+        fund["price"] = (perf_data_hash[fund.cusip] != null)?perf_data_hash[fund.cusip]['3/10/2017'].toFixed(2):0.00;
+        var elem = $(tmpl(fund));
+        $("#fund_table").append(elem);
+        elem.click(function(event){
+            $("#menu_fund").val(fund.description);
+            $("#menu_shares").val(1);
+            $("#menu_cost").attr("value", fund["price"]);
+            $("#menu_cost").val("$" + ($("#menu_shares").val()*parseFloat($("#menu_cost").attr("value"))).toFixed(2));
+            $("#remaining_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))-parseFloat($("#menu_cost").val().replace("$",""))).toFixed(2));
+            var port = _.filter(user_ports[user], function(d){if(d.name==$("#banner").html())return d;})[0];
+            var portVal = 0;
+            _.each(port.contents, function(fund, index){
+                portVal += fund.shares*port_val[fund.cusip];
+            });
+            $("#menu_port_new_value").val("$" + (portVal + parseFloat($("#menu_cost").val().replace("$",""))).toFixed(2));
+                });
+            });
 });
 
 function loadHomeTab(){
@@ -268,7 +288,7 @@ function loadHomeTab(){
     $("#homeButton").css("border-bottom","0px inset rgb(0, 94, 184)");
     $("#homeButton").animate({borderBottomWidth:'3px'}, { duration: 200, queue: false });
 
-    _.each(user_ports["cmack"], function(port, index) {
+    _.each(user_ports[user], function(port, index) {
         var tmpl = _.template($('#port-template').html());
         var elem = $(tmpl(port));
         var sum = 0;
@@ -322,39 +342,15 @@ function loadManageTab(portname){
         navPort.addClass("selected");
         $("#banner").html(navPort.find(".portName").html());
         $("#port_new_value").html(navPort.find(".portName").html() + " New Value:");
+        loadSellTable(_.filter(user_ports[user], function(d){if(d.name==navPort.find(".portName").html())return d;})[0]);
         $("#sell_port_new_value").html(navPort.find(".portName").html() + " New Value:");
+        refreshTransactionMenu();
+        refreshSellTransactionMenu();
     });
 
-    //_.each(manage_port.contents, function(fund, index))
 
-
-    _.each(funds, function(fund, index) {
-        var tmpl = _.template($('#fund-row-template').html());
-        fund["price"] = (perf_data_hash[fund.cusip] != null)?perf_data_hash[fund.cusip]['3/10/2017'].toFixed(2):0.00;
-        var elem = $(tmpl(fund));
-        $("#fund_table").append(elem);
-        elem.click(function(event){
-            $("#menu_fund").val(fund.description);
-            $("#menu_shares").val(1);
-            $("#menu_cost").val(fund["price"]);
-            $("#menu_cost").attr("value", fund["price"]);
-            $("#menu_cost").val(($("#menu_shares").val()*parseFloat($("#menu_cost").attr("value"))).toFixed(2));
-            $("#remaining_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))-$("#menu_cost").val()).toFixed(2));
-
-        });
-    });
-
-    /*_.each(manage_port.contents, function(fund, index) {
-        var tmpl = _.template($('#fund-row-template').html());
-        fund["price"] = (perf_data_hash[fund.cusip] != null)?perf_data_hash[fund.cusip]['3/10/2017'].toFixed(2):0.00;
-        var elem = $(tmpl(fund));
-        $("#sell_fund_table").append(elem);
-        elem.click(function(event){
-            $("#sell_menu_fund").val(fund.description);
-            $("#sell_menu_shares").val(1);
-            $("#sell_menu_cost").val(fund["price"]);
-        });
-    });*/
+    
+    loadSellTable(manage_port);
 
     $("#port_new_value").html(portname + " New Value:")
     $("#sell_port_new_value").html(portname + " New Value:")
@@ -435,8 +431,29 @@ $("#goToMyProfile").click(function(event){
 });
 
 $("#menu_shares").on("input", function(){
-    $("#menu_cost").val(($("#menu_shares").val()*parseFloat($("#menu_cost").attr("value"))).toFixed(2));
-    $("#remaining_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))-$("#menu_cost").val()).toFixed(2));
+    var menu_cost = ($("#menu_shares").val()*parseFloat($("#menu_cost").attr("value"))).toFixed(2);
+    $("#menu_cost").val("$" + menu_cost);
+    $("#remaining_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))-menu_cost).toFixed(2));
+    
+    var port = _.filter(user_ports[user], function(d){if(d.name==$("#banner").html())return d;})[0];
+    var portVal = 0;
+    _.each(port.contents, function(fund, index){
+        portVal += fund.shares*port_val[fund.cusip];
+    });
+    $("#menu_port_new_value").val("$" + (portVal + parseFloat(menu_cost)).toFixed(2));
+});
+
+$("#sell_menu_shares").on("input", function(){
+    var menu_cost = ($("#sell_menu_shares").val()*parseFloat($("#sell_menu_cost").attr("value"))).toFixed(2);
+    $("#sell_menu_cost").val("$" + menu_cost);
+    $("#sell_menu_available_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))+parseFloat($("#sell_menu_cost").val().replace("$",""))).toFixed(2));
+    
+    var port = _.filter(user_ports[user], function(d){if(d.name==$("#banner").html())return d;})[0];
+    var portVal = 0;
+    _.each(port.contents, function(fund, index){
+        portVal += fund.shares*port_val[fund.cusip];
+    });
+    $("#sell_menu_port_new_value").val("$" + (portVal - parseFloat(menu_cost)).toFixed(2));
 });
 
 $("#manage_buy").click(function(event){
@@ -448,6 +465,51 @@ $("#manage_sell").click(function(event){
     $("#buyTab").hide();
     $("#sellTab").show();
 });
+
+function loadSellTable(port) {
+    var available_cash = port.deposited;
+    
+    $("#sell_fund_table").empty();
+    _.each(port.contents, function(fund, index) {
+        var port_info = funds_full_hash[fund.cusip];
+        var tmpl = _.template($('#sell_fund-row-template').html());
+        port_info["cusip"] = fund.cusip;
+        port_info["shares"] = fund.shares;
+        port_info["purchase_price"] = fund.price;
+        port_info["current_price"] = (perf_data_hash[fund.cusip] != null)?perf_data_hash[fund.cusip]['3/10/2017'].toFixed(2):0.00;
+        var elem = $(tmpl(port_info));
+        available_cash -= fund.shares*port_info.purchase_price;
+        $("#sell_fund_table").append(elem);
+        elem.click(function(event){
+            $("#sell_menu_fund").val(port_info.description);
+            $("#sell_menu_shares").val(1);
+            $("#sell_menu_cost").attr("value", fund["price"]);
+            $("#sell_menu_cost").val("$" + (port_info["current_price"] * $("#sell_menu_shares").val()));
+            $("#sell_menu_available_funds_value").val("$" + (parseFloat($("#available_funds .available_cash").html().replace("$",""))+parseFloat($("#sell_menu_cost").val().replace("$",""))).toFixed(2));
+            var port = _.filter(user_ports[user], function(d){if(d.name==$("#banner").html())return d;})[0];
+            var portVal = 0;
+            _.each(port.contents, function(fund, index){
+                portVal += fund.shares*port_val[fund.cusip];
+            });
+            $("#sell_menu_port_new_value").val("$" + (portVal - parseFloat($("#sell_menu_cost").val().replace("$",""))).toFixed(2));
+
+        });
+    });
+
+    $("#available_funds .available_cash").html("$" + available_cash.toFixed(2));
+}
+
+function refreshTransactionMenu(){
+    _.each($("#transaction_menu input"), function(input){
+        $(input).val("");
+    });
+};
+
+function refreshSellTransactionMenu(){
+    _.each($("#sell_transaction_menu input"), function(input){
+        $(input).val("");
+    });
+};
 
 
 

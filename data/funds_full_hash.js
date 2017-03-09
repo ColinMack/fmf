@@ -1,5 +1,5 @@
 var funds_full_hash = {
-   464285105: {
+   "464285105": {
       market: "United States",
       asset_class: "Commodity",
       description: "ISHARES GOLD TRUST",
@@ -8,7 +8,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B05ND15"
    },
-   464286103: {
+   "464286103": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRALIA ETF INC",
@@ -17,7 +17,7 @@ var funds_full_hash = {
       risk_region_country: "Australia",
       SEDOL: "2373658"
    },
-   464286145: {
+   "464286145": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI FRONTIER 100 ETF",
@@ -26,7 +26,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8JCKH9"
    },
-   464286178: {
+   "464286178": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL HIGH YIELD CORPORAT",
@@ -35,7 +35,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B76XBD1"
    },
-   464286202: {
+   "464286202": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRIA CAPPED ETF",
@@ -44,7 +44,7 @@ var funds_full_hash = {
       risk_region_country: "Austria",
       SEDOL: "2373669"
    },
-   464286210: {
+   "464286210": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTL HY BOND FUND ETF",
@@ -53,7 +53,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B79PLT0"
    },
-   464286251: {
+   "464286251": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING MARKETS CORPORATE",
@@ -62,7 +62,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B6YT6N9"
    },
-   464286285: {
+   "464286285": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING MARKETS HIGH YIEL",
@@ -71,7 +71,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B6QW2D8"
    },
-   464286293: {
+   "464286293": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES ASIA PACIFIC DIVIDEND ETF",
@@ -80,7 +80,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Developed",
       SEDOL: "B75LXH4"
    },
-   464286301: {
+   "464286301": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI BELGIUM CAPPED ETF",
@@ -89,7 +89,7 @@ var funds_full_hash = {
       risk_region_country: "Belgium",
       SEDOL: "2373670"
    },
-   464286319: {
+   "464286319": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EMERGING MARKETS DIVIDEND",
@@ -98,7 +98,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B7MXGM9"
    },
-   464286327: {
+   "464286327": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI GLOBAL SILVER MINERS",
@@ -107,7 +107,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B70YTH0"
    },
-   464286343: {
+   "464286343": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI GLOBAL ENERGY PRODUCE",
@@ -116,7 +116,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6VZ975"
    },
-   464286350: {
+   "464286350": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI GLOBAL AGRICULTURE PR",
@@ -125,7 +125,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B775738"
    },
-   464286392: {
+   "464286392": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD ETF",
@@ -134,7 +134,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B7KGV81"
    },
-   464286400: {
+   "464286400": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL CAPPED ETF",
@@ -143,7 +143,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "2726014"
    },
-   464286426: {
+   "464286426": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EMRG MKT ASIA INX FD",
@@ -152,7 +152,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Emerging",
       SEDOL: "B7KTHQ0"
    },
-   464286475: {
+   "464286475": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS SMAL",
@@ -161,7 +161,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B441B25"
    },
-   464286509: {
+   "464286509": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI CANADA ETF",
@@ -170,7 +170,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "2373681"
    },
-   464286517: {
+   "464286517": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING MARKETS LOCAL CUR",
@@ -179,7 +179,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B74T1X1"
    },
-   464286525: {
+   "464286525": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI MIN VOL GLOBAL ETF",
@@ -188,7 +188,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B74T2G1"
    },
-   464286533: {
+   "464286533": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MINVOL EMRG MKTS ETF",
@@ -197,7 +197,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B74T2W7"
    },
-   464286582: {
+   "464286582": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN SMALL-CAP ETF",
@@ -206,7 +206,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B2N7BR5"
    },
-   464286608: {
+   "464286608": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROZONE ETF",
@@ -215,7 +215,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "2670605"
    },
-   464286624: {
+   "464286624": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI THAILAND CAPPED ETF",
@@ -224,7 +224,7 @@ var funds_full_hash = {
       risk_region_country: "Thailand",
       SEDOL: "B2QMWV8"
    },
-   464286632: {
+   "464286632": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI ISRAEL CAPPED ETF",
@@ -233,7 +233,7 @@ var funds_full_hash = {
       risk_region_country: "Israel",
       SEDOL: "B2QMWS5"
    },
-   464286640: {
+   "464286640": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI CHILE CAPPED ETF",
@@ -242,7 +242,7 @@ var funds_full_hash = {
       risk_region_country: "Chile",
       SEDOL: "B29FC81"
    },
-   464286657: {
+   "464286657": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI BRIC ETF",
@@ -251,7 +251,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B29FC70"
    },
-   464286665: {
+   "464286665": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI PACIFIC EX JAPAN ETF",
@@ -260,7 +260,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "2812957"
    },
-   464286681: {
+   "464286681": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI USA ETF",
@@ -269,7 +269,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3VTVB4"
    },
-   464286707: {
+   "464286707": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI FRANCE ETF",
@@ -278,7 +278,7 @@ var funds_full_hash = {
       risk_region_country: "France",
       SEDOL: "2373692"
    },
-   464286715: {
+   "464286715": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY ETF",
@@ -287,7 +287,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B2QMWT6"
    },
-   464286749: {
+   "464286749": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI SWITZERLAND CAPPED ET",
@@ -296,7 +296,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "2373603"
    },
-   464286756: {
+   "464286756": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI SWEDEN CAP ETF",
@@ -305,7 +305,7 @@ var funds_full_hash = {
       risk_region_country: "Sweden",
       SEDOL: "2373595"
    },
-   464286764: {
+   "464286764": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI SPAIN CAPPED ETF",
@@ -314,7 +314,7 @@ var funds_full_hash = {
       risk_region_country: "Spain",
       SEDOL: "2373584"
    },
-   464286772: {
+   "464286772": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI SOUTH KOREA CAPPED ET",
@@ -323,7 +323,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "2592561"
    },
-   464286780: {
+   "464286780": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI SOUTH AFRICA ETF",
@@ -332,7 +332,7 @@ var funds_full_hash = {
       risk_region_country: "South Africa",
       SEDOL: "2343338"
    },
-   464286806: {
+   "464286806": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI GERMANY ETF",
@@ -341,7 +341,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "2373711"
    },
-   464286814: {
+   "464286814": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI NETHERLANDS ETF",
@@ -350,7 +350,7 @@ var funds_full_hash = {
       risk_region_country: "Netherlands",
       SEDOL: "2373829"
    },
-   464286822: {
+   "464286822": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO CAPPED ETF",
@@ -359,7 +359,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "2373818"
    },
-   464286871: {
+   "464286871": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI HONG KONG ETF",
@@ -368,7 +368,7 @@ var funds_full_hash = {
       risk_region_country: "Hong Kong",
       SEDOL: "2373777"
    },
-   464287101: {
+   "464287101": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P 100 ETF",
@@ -377,7 +377,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2741578"
    },
-   464287119: {
+   "464287119": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR LARGE-CAP GROW",
@@ -386,7 +386,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGM3"
    },
-   464287127: {
+   "464287127": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR LARGE-CAP ETF",
@@ -395,7 +395,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGN4"
    },
-   464287150: {
+   "464287150": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE S&P TOTAL U.S. STOCK",
@@ -404,7 +404,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2342164"
    },
-   464287168: {
+   "464287168": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES SELECT DIVIDEND ETF",
@@ -413,7 +413,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2165305"
    },
-   464287176: {
+   "464287176": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES TIPS BOND ETF",
@@ -422,7 +422,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2215352"
    },
-   464287184: {
+   "464287184": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CHINA LARGE-CAP ETF",
@@ -431,7 +431,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B0357H7"
    },
-   464287192: {
+   "464287192": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES TRANSPORTATION AVERAGE ETF",
@@ -440,7 +440,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2012423"
    },
-   464287200: {
+   "464287200": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE S&P 500 ETF",
@@ -449,7 +449,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2593025"
    },
-   464287226: {
+   "464287226": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE TOTAL U.S. AGGREGATE",
@@ -458,7 +458,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2897404"
    },
-   464287234: {
+   "464287234": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS ETF",
@@ -467,7 +467,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "2582409"
    },
-   464287242: {
+   "464287242": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES IBOXX $ INV GRADE CORPORAT",
@@ -476,7 +476,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2971502"
    },
-   464287275: {
+   "464287275": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TELECOM ETF TRUST",
@@ -485,7 +485,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "2819196"
    },
-   464287291: {
+   "464287291": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TECH ETF",
@@ -494,7 +494,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "2819204"
    },
-   464287309: {
+   "464287309": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P 500 GROWTH ETF TRUST",
@@ -503,7 +503,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2615082"
    },
-   464287325: {
+   "464287325": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL HEALTHCARE ETF TRUS",
@@ -512,7 +512,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "2819215"
    },
-   464287333: {
+   "464287333": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL FINANCIALS ETF",
@@ -521,7 +521,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "2819226"
    },
-   464287341: {
+   "464287341": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL ENERGY ETF TRUST",
@@ -530,7 +530,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "2819237"
    },
-   464287374: {
+   "464287374": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES NORTH AMERICAN NATURAL RES",
@@ -539,7 +539,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "2812979"
    },
-   464287382: {
+   "464287382": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES JPX-NIKKEI 400 ETF",
@@ -548,7 +548,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "2812968"
    },
-   464287390: {
+   "464287390": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES LATIN AMERICA 40 ETF",
@@ -557,7 +557,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "2812980"
    },
-   464287408: {
+   "464287408": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P 500 VALUE ETF",
@@ -566,7 +566,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2670520"
    },
-   464287432: {
+   "464287432": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 20+ YEAR TREASURY BOND ETF",
@@ -575,7 +575,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2971546"
    },
-   464287440: {
+   "464287440": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 7-10 YEAR TREASURY BOND ET",
@@ -584,7 +584,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2971494"
    },
-   464287457: {
+   "464287457": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 1-3 YEAR TREASURY BOND ETF",
@@ -593,7 +593,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2971524"
    },
-   464287465: {
+   "464287465": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE ETF",
@@ -602,7 +602,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "2801290"
    },
-   464287473: {
+   "464287473": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL MID-CAP VALUE ETF",
@@ -611,7 +611,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2810490"
    },
-   464287481: {
+   "464287481": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL MID-CAP GROWTH ETF",
@@ -620,7 +620,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2810478"
    },
-   464287499: {
+   "464287499": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL MID-CAP ETF",
@@ -629,7 +629,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4ZD2Y9"
    },
-   464287507: {
+   "464287507": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE S&P MID-CAP ETF",
@@ -638,7 +638,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2611637"
    },
-   464287515: {
+   "464287515": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES NORTH AMERICAN TECH-SOFTWA",
@@ -647,7 +647,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "2810467"
    },
-   464287523: {
+   "464287523": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES PHLX SEMICONDUCTOR ETF",
@@ -656,7 +656,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2810252"
    },
-   464287531: {
+   "464287531": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES NORTH AMERICAN TECH-MULTIM",
@@ -665,7 +665,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "2810188"
    },
-   464287549: {
+   "464287549": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES NORTH AMERICAN TECH ETF",
@@ -674,7 +674,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "2760153"
    },
-   464287556: {
+   "464287556": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES NASDAQ BIOTECHNOLOGY ETF",
@@ -683,7 +683,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2724892"
    },
-   464287564: {
+   "464287564": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES COHEN & STEERS REIT ETF",
@@ -692,7 +692,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2771166"
    },
-   464287572: {
+   "464287572": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL 100 ETF TRUST",
@@ -701,7 +701,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "2760142"
    },
-   464287580: {
+   "464287580": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US CONSUMER SERVICES ETF",
@@ -710,7 +710,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2741147"
    },
-   464287598: {
+   "464287598": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 1000 VALUE ETF TRU",
@@ -719,7 +719,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2713210"
    },
-   464287606: {
+   "464287606": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P MID-CAP 400 GROWTH ETF",
@@ -728,7 +728,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2775975"
    },
-   464287614: {
+   "464287614": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 1000 GROWTH ETF TR",
@@ -737,7 +737,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2679839"
    },
-   464287622: {
+   "464287622": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 1000 ETF",
@@ -746,7 +746,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2605641"
    },
-   464287630: {
+   "464287630": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 VALUE ETF",
@@ -755,7 +755,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2689719"
    },
-   464287648: {
+   "464287648": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 GROWTH ETF",
@@ -764,7 +764,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2713276"
    },
-   464287655: {
+   "464287655": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 ETF",
@@ -773,7 +773,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2622059"
    },
-   464287663: {
+   "464287663": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE S&P US VALUE ETF",
@@ -782,7 +782,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2720953"
    },
-   464287671: {
+   "464287671": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE SP US GROWTH ETF",
@@ -791,7 +791,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2810069"
    },
-   464287689: {
+   "464287689": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 3000 ETF",
@@ -800,7 +800,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2675183"
    },
-   464287697: {
+   "464287697": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US UTILITIES ETF TRUST",
@@ -809,7 +809,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2810058"
    },
-   464287705: {
+   "464287705": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P MID-CAP 400 VALUE ETF",
@@ -818,7 +818,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "2689720"
    },
-   464287713: {
+   "464287713": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US TELECOMMUNICATIONS ETF",
@@ -827,7 +827,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2618274"
    },
-   464287721: {
+   "464287721": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US TECHNOLOGY ETF",
@@ -836,7 +836,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2687003"
    },
-   464287739: {
+   "464287739": {
       market: "United States",
       asset_class: "Speciality",
       description: "ISHARES US REAL ESTATE ETF TRUST",
@@ -845,7 +845,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2605652"
    },
-   464287754: {
+   "464287754": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US INDUSTRIALS ETF TRUST",
@@ -854,7 +854,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2605179"
    },
-   464287762: {
+   "464287762": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US HEALTHCARE ETF TRUST",
@@ -863,7 +863,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2614227"
    },
-   464287770: {
+   "464287770": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US FINANCIAL SERVICES ETF",
@@ -872,7 +872,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2605663"
    },
-   464287788: {
+   "464287788": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US FINANCIALS ETF TRUST",
@@ -881,7 +881,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2646145"
    },
-   464287796: {
+   "464287796": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US ENERGY ETF",
@@ -890,7 +890,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2605083"
    },
-   464287804: {
+   "464287804": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE S&P SMALL-CAP ETF",
@@ -899,7 +899,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2678869"
    },
-   464287812: {
+   "464287812": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US CONSUMER GOODS ETF",
@@ -908,7 +908,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2741170"
    },
-   464287838: {
+   "464287838": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US BASIC MATERIALS ETF",
@@ -917,7 +917,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2741158"
    },
-   464287846: {
+   "464287846": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES DOW JONES US ETF",
@@ -926,7 +926,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "2695705"
    },
-   464287861: {
+   "464287861": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EUROPE ETF TRUST",
@@ -935,7 +935,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "2639792"
    },
-   464287879: {
+   "464287879": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P SMALL-CAP 600 VALUE ET",
@@ -944,7 +944,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "2729552"
    },
-   464287887: {
+   "464287887": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P SMALL-CAP 600 GROWTH E",
@@ -953,7 +953,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "2812236"
    },
-   464288109: {
+   "464288109": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR LARGE-CAP VALU",
@@ -962,7 +962,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGK1"
    },
-   464288117: {
+   "464288117": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTERNATIONAL TREASURY BON",
@@ -971,7 +971,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B3L99S7"
    },
-   464288125: {
+   "464288125": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 1-3 YR INTERNATIONAL TREAS",
@@ -980,7 +980,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B3L99V0"
    },
-   464288158: {
+   "464288158": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES SHRT TRM NATL MUNI BD ETF",
@@ -989,7 +989,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3FFS06"
    },
-   464288166: {
+   "464288166": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES AGENCY BOND ETF",
@@ -998,7 +998,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3FFSM8"
    },
-   464288174: {
+   "464288174": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TIMBER & FORESTRY E",
@@ -1007,7 +1007,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3B8VH7"
    },
-   464288182: {
+   "464288182": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI ALL COUNTRY ASIA EX J",
@@ -1016,7 +1016,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B3B9631"
    },
-   464288208: {
+   "464288208": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR MID-CAP ETF",
@@ -1025,7 +1025,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGW3"
    },
-   464288216: {
+   "464288216": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EMERG MARKETS INFRASTRUCTU",
@@ -1034,7 +1034,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B3B9620"
    },
-   464288224: {
+   "464288224": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CLEAN ENERGY ETF",
@@ -1043,7 +1043,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3B8V99"
    },
-   464288240: {
+   "464288240": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI ACWI EX US ETF",
@@ -1052,7 +1052,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B2QKQP4"
    },
-   464288257: {
+   "464288257": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI ACWI ETF",
@@ -1061,7 +1061,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B2QKQH6"
    },
-   464288265: {
+   "464288265": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI KOKUSAI ETF TRUST",
@@ -1070,7 +1070,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B29YQB9"
    },
-   464288273: {
+   "464288273": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE SMALL-CAP ETF",
@@ -1079,7 +1079,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B29YQH5"
    },
-   464288281: {
+   "464288281": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES JPMORGAN USD EMERGING MARK",
@@ -1088,7 +1088,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2B1JH5"
    },
-   464288307: {
+   "464288307": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR MID-CAP GROWTH",
@@ -1097,7 +1097,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGV2"
    },
-   464288323: {
+   "464288323": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES NEW YORK MUNI BOND ETF",
@@ -1106,7 +1106,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B28BPG9"
    },
-   464288356: {
+   "464288356": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CALIFORNIA MUNI BOND ETF",
@@ -1115,7 +1115,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B28BPB4"
    },
-   464288372: {
+   "464288372": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INFRASTRUCTURE ETF",
@@ -1124,7 +1124,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B29YQM0"
    },
-   464288406: {
+   "464288406": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR MID-CAP VALUE",
@@ -1133,7 +1133,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGT0"
    },
-   464288414: {
+   "464288414": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES NATIONAL MUNI BOND ETF",
@@ -1142,7 +1142,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B24DX21"
    },
-   464288422: {
+   "464288422": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES INTERNATIONAL DEVELOPED PR",
@@ -1151,7 +1151,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B23T9P5"
    },
-   464288430: {
+   "464288430": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES ASIA 50 ETF",
@@ -1160,7 +1160,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B29FC92"
    },
-   464288448: {
+   "464288448": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES INTERNATIONAL SELECT DIVID",
@@ -1169,7 +1169,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1YYR25"
    },
-   464288471: {
+   "464288471": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EUROPE DEVELOPED REAL ESTA",
@@ -1178,7 +1178,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B29FBJ5"
    },
-   464288489: {
+   "464288489": {
       market: "United States",
       asset_class: "Speciality",
       description: "ISHARES INTL DEV REAL ESTATE ETF",
@@ -1187,7 +1187,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B29FBK6"
    },
-   464288497: {
+   "464288497": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE SMALL-CAP ETF",
@@ -1196,7 +1196,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B29FBS4"
    },
-   464288505: {
+   "464288505": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR SMALL-CAP ETF",
@@ -1205,7 +1205,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGS9"
    },
-   464288513: {
+   "464288513": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES IBOXX HIGH YIELD CORP BOND",
@@ -1214,7 +1214,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1VZ486"
    },
-   464288521: {
+   "464288521": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE U.S. REIT ETF",
@@ -1223,7 +1223,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1WY211"
    },
-   464288562: {
+   "464288562": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RESIDENTIAL REAL ESTATE CA",
@@ -1232,7 +1232,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1WYNC9"
    },
-   464288570: {
+   "464288570": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI KLD 400 SOCIAL ETF",
@@ -1241,7 +1241,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1HMF44"
    },
-   464288588: {
+   "464288588": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES MBS ETF",
@@ -1250,7 +1250,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1VKHR1"
    },
-   464288596: {
+   "464288596": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES GOVERNMENT CREDIT BOND ETF",
@@ -1259,7 +1259,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR16"
    },
-   464288604: {
+   "464288604": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR SMALL-CAP GROW",
@@ -1268,7 +1268,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGQ7"
    },
-   464288612: {
+   "464288612": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTERMEDIATE GOVT CREDIT B",
@@ -1277,7 +1277,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR38"
    },
-   464288620: {
+   "464288620": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES US CREDIT BOND ETF",
@@ -1286,7 +1286,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR05"
    },
-   464288638: {
+   "464288638": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTERMEDIATE CREDIT BOND E",
@@ -1295,7 +1295,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR27"
    },
-   464288646: {
+   "464288646": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 1-3 YEAR CREDIT BOND ETF",
@@ -1304,7 +1304,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR50"
    },
-   464288653: {
+   "464288653": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 10-20 YEAR TREASURY BOND E",
@@ -1313,7 +1313,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR61"
    },
-   464288661: {
+   "464288661": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 3-7 YEAR TREASURY BOND ETF",
@@ -1322,7 +1322,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR72"
    },
-   464288679: {
+   "464288679": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES SHORT TREASURY BOND ETF",
@@ -1331,7 +1331,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1MYR49"
    },
-   464288687: {
+   "464288687": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES US PREFERRED STOCK ETF",
@@ -1340,7 +1340,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1FLNF0"
    },
-   464288695: {
+   "464288695": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL MATERIALS ETF",
@@ -1349,7 +1349,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1FGTB3"
    },
-   464288703: {
+   "464288703": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MORNINGSTAR SMALL-CAP VALU",
@@ -1358,7 +1358,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01RGP6"
    },
-   464288711: {
+   "464288711": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL UTILITIES ETF",
@@ -1367,7 +1367,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1FGVP1"
    },
-   464288729: {
+   "464288729": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INDUSTRIALS ETF",
@@ -1376,7 +1376,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1FGVD9"
    },
-   464288737: {
+   "464288737": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CONSUMER STAPLES ET",
@@ -1385,7 +1385,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1FGVM8"
    },
-   464288745: {
+   "464288745": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CONSUMER DISCRETION",
@@ -1394,7 +1394,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1FGVK6"
    },
-   464288752: {
+   "464288752": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US HOME CONSTRUCTION ETF",
@@ -1403,7 +1403,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MG88"
    },
-   464288760: {
+   "464288760": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US AEROSPACE & DEFENSE ETF",
@@ -1412,7 +1412,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MG44"
    },
-   464288778: {
+   "464288778": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US REGIONAL BANKS ETF",
@@ -1421,7 +1421,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MG33"
    },
-   464288786: {
+   "464288786": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US INSURANCE ETF",
@@ -1430,7 +1430,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MG00"
    },
-   464288794: {
+   "464288794": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS US BROKER-DLRS & SEC EXCH ETF",
@@ -1439,7 +1439,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MFZ8"
    },
-   464288802: {
+   "464288802": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI USA ESG SELECT ETF",
@@ -1448,7 +1448,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B053F20"
    },
-   464288810: {
+   "464288810": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US MEDICAL DEVICES ETF",
@@ -1457,7 +1457,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MFY7"
    },
-   464288828: {
+   "464288828": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US HEALTHCARE PROVIDERS ET",
@@ -1466,7 +1466,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MFX6"
    },
-   464288836: {
+   "464288836": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US PHARMACEUTICALS ETF",
@@ -1475,7 +1475,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MFW5"
    },
-   464288844: {
+   "464288844": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US OIL EQUIPMENT & SERVICE",
@@ -1484,7 +1484,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MFQ9"
    },
-   464288851: {
+   "464288851": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES US OIL & GAS EXPLORATION &",
@@ -1493,7 +1493,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14MFP8"
    },
-   464288869: {
+   "464288869": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MICRO-CAP ETF",
@@ -1502,7 +1502,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B0GX336"
    },
-   464288877: {
+   "464288877": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE VALUE ETF",
@@ -1511,7 +1511,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B0DNDG2"
    },
-   464288885: {
+   "464288885": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE GROWTH ETF",
@@ -1520,7 +1520,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B0DNFK0"
    },
-   464289115: {
+   "464289115": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MV GLBL CCY HDG ETF",
@@ -1529,7 +1529,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BZ1MW58"
    },
-   464289123: {
+   "464289123": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI NEW ZEALAND CAPPED ET",
@@ -1538,7 +1538,7 @@ var funds_full_hash = {
       risk_region_country: "New Zealand",
       SEDOL: "B652JP0"
    },
-   464289131: {
+   "464289131": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL SMALL-CAP ETF",
@@ -1547,7 +1547,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B4PL1Z7"
    },
-   464289180: {
+   "464289180": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE FINANCIALS ETF",
@@ -1556,7 +1556,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B633900"
    },
-   464289271: {
+   "464289271": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRSBDS SEP 2017 TERM MUNI BD ETF",
@@ -1565,7 +1565,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B5SS044"
    },
-   464289420: {
+   "464289420": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL TOP 200 VALUE ETF",
@@ -1574,7 +1574,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4Q4QT4"
    },
-   464289438: {
+   "464289438": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL TOP 200 GROWTH IND",
@@ -1583,7 +1583,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4QZLK3"
    },
-   464289446: {
+   "464289446": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES RUSSELL TOP 200 ETF",
@@ -1592,7 +1592,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4QWBH1"
    },
-   464289479: {
+   "464289479": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE 10+ YEAR USD BOND ETF",
@@ -1601,7 +1601,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4VYZ92"
    },
-   464289511: {
+   "464289511": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 10+ YEAR CREDIT BOND ETF",
@@ -1610,7 +1610,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4VTBY4"
    },
-   464289529: {
+   "464289529": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES INDIA 50 ETF",
@@ -1619,7 +1619,7 @@ var funds_full_hash = {
       risk_region_country: "India",
       SEDOL: "B42LT12"
    },
-   464289842: {
+   "464289842": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI ALL PERU CAPPED ETF",
@@ -1628,7 +1628,7 @@ var funds_full_hash = {
       risk_region_country: "Peru",
       SEDOL: "B605C22"
    },
-   464289859: {
+   "464289859": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE AGGRESSIVE ALLOCATION",
@@ -1637,7 +1637,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3FFRZ4"
    },
-   464289867: {
+   "464289867": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE GROWTH ALLOCATION ETF",
@@ -1646,7 +1646,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3FFS95"
    },
-   464289875: {
+   "464289875": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE MODERATE ALLOCATION E",
@@ -1655,7 +1655,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3FFSG2"
    },
-   464289883: {
+   "464289883": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE CONSERVATIVE ALLOCATI",
@@ -1664,7 +1664,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3FFSK6"
    },
-   SB63V1J73: {
+   "SB63V1J73": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRALIA UCITS ETF U",
@@ -1673,7 +1673,7 @@ var funds_full_hash = {
       risk_region_country: "Australia",
       SEDOL: "B63V1J7"
    },
-   SB52SF780: {
+   "SB52SF780": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI CANADA UCITS ETF",
@@ -1682,7 +1682,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B52SF78"
    },
-   BRSJ05RP3: {
+   "BRSJ05RP3": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL HYCB CHF HDG ETF DIST",
@@ -1691,7 +1691,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B988C46"
    },
-   SBGJYZX24: {
+   "SBGJYZX24": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES CORE CHF CORPORATE BOND (C",
@@ -1700,7 +1700,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "BGJYZX2"
    },
-   BRSHWWWT9: {
+   "BRSHWWWT9": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES SWISS DOM GOV BOND 7-15(CH",
@@ -1709,7 +1709,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "7722437"
    },
-   BRSHWWWQ5: {
+   "BRSHWWWQ5": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES SWISS DOMESTIC GOVERNMENT",
@@ -1718,7 +1718,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B3L0MQ9"
    },
-   BRSHWWWR3: {
+   "BRSHWWWR3": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES SWISS DOMESTIC GOVERNMENT",
@@ -1727,7 +1727,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "7722426"
    },
-   SB96QP217: {
+   "SB96QP217": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ EMERGING MARKETS CORP BD",
@@ -1736,7 +1736,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B96QP21"
    },
-   SB81C5N80: {
+   "SB81C5N80": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EDGE MSCI EM MINIMUM VOL",
@@ -1745,7 +1745,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B81C5N8"
    },
-   SBG5HD317: {
+   "SBG5HD317": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ ULTRASHORT BOND UCITS ET",
@@ -1754,7 +1754,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD31"
    },
-   SBG5HD424: {
+   "SBG5HD424": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO ULTRASHORT BOND UCITS",
@@ -1763,7 +1763,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD42"
    },
-   SB95F8201: {
+   "SB95F8201": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL HIGH YIELD CORP BON",
@@ -1772,7 +1772,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B95F820"
    },
-   SB11XF541: {
+   "SB11XF541": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO INF-LNK GOVT BD UCITS",
@@ -1781,7 +1781,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B11XF54"
    },
-   SB01G7838: {
+   "SB01G7838": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND LARGE",
@@ -1790,7 +1790,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B01G783"
    },
-   SB1S55420: {
+   "SB1S55420": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 15-30",
@@ -1799,7 +1799,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1S5542"
    },
-   SB1S58101: {
+   "SB1S58101": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10Y",
@@ -1808,7 +1808,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1S5810"
    },
-   SB1FL8663: {
+   "SB1FL8663": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3YR",
@@ -1817,7 +1817,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1FL866"
    },
-   SB1S56618: {
+   "SB1S56618": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-5YR",
@@ -1826,7 +1826,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1S5661"
    },
-   SB5L7NH26: {
+   "SB5L7NH26": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROCORBOND UCITS ETF",
@@ -1835,7 +1835,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B5L7NH2"
    },
-   SB3TL9F28: {
+   "SB3TL9F28": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO AGGREGATE BOND UCITS",
@@ -1844,7 +1844,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3TL9F2"
    },
-   SBG5HD861: {
+   "SBG5HD861": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND FINANC",
@@ -1853,7 +1853,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD86"
    },
-   SB4K6GT63: {
+   "SB4K6GT63": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 5-7YR",
@@ -1862,7 +1862,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4K6GT6"
    },
-   SB4MDS991: {
+   "SB4MDS991": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 10-15",
@@ -1871,7 +1871,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4MDS99"
    },
-   SB7047K99: {
+   "SB7047K99": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD EX-FINANCIALS",
@@ -1880,7 +1880,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B7047K9"
    },
-   SB9F8QB49: {
+   "SB9F8QB49": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING ASIA LOCAL GOVT B",
@@ -1889,7 +1889,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9F8QB4"
    },
-   SB4K66N04: {
+   "SB4K66N04": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO HIGH YIELD CORPORATE",
@@ -1898,7 +1898,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4K66N0"
    },
-   SB6Z63M72: {
+   "SB6Z63M72": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ HIGH YIELD CORPORATE BON",
@@ -1907,7 +1907,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B6Z63M7"
    },
-   SBG5HD531: {
+   "SBG5HD531": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD INTEREST RATE",
@@ -1916,7 +1916,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD53"
    },
-   SBG5HCY56: {
+   "SBG5HCY56": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORP BOND INT RATE HGD U",
@@ -1925,7 +1925,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HCY5"
    },
-   SB9FB0333: {
+   "SB9FB0333": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EDGE MSCI EUROPE MIN VOL",
@@ -1934,7 +1934,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9FB033"
    },
-   SB9G70M92: {
+   "SB9G70M92": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EDGE MSCI WORLD MIN VOL",
@@ -1943,7 +1943,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9G70M9"
    },
-   SB89B8X87: {
+   "SB89B8X87": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EB.REXX GOVERNMENT GERMANY",
@@ -1952,7 +1952,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B89B8X8"
    },
-   SBG5HD200: {
+   "SBG5HD200": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION HI YLD CO",
@@ -1961,7 +1961,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD20"
    },
-   SBG5HD192: {
+   "SBG5HD192": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION CORPORATE",
@@ -1970,7 +1970,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD19"
    },
-   SBG5HD085: {
+   "SBG5HD085": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND 1-5YR",
@@ -1979,7 +1979,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD08"
    },
-   SBG5HCZ63: {
+   "SBG5HCZ63": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES   CORP BOND INT RATE HGD U",
@@ -1988,7 +1988,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HCZ6"
    },
-   SB95LCK47: {
+   "SB95LCK47": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EDGE S&P 500 MIN VOL",
@@ -1997,7 +1997,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B95LCK4"
    },
-   SBKM4H534: {
+   "SBKM4H534": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES SWISS DIVIDEND CH",
@@ -2006,7 +2006,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "BKM4H53"
    },
-   SBKM4H641: {
+   "SBKM4H641": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES CORE SPI (CH)",
@@ -2015,7 +2015,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "BKM4H64"
    },
-   BRSHWWWP7: {
+   "BRSHWWWP7": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES SLI  (CH) ETF",
@@ -2024,7 +2024,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B1Z8L13"
    },
-   S70850441: {
+   "S70850441": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES SMI  (CH)",
@@ -2033,7 +2033,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "7085044"
    },
-   BRSHWWG59: {
+   "BRSHWWG59": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES SMIM  (CH)",
@@ -2042,7 +2042,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B04X7G9"
    },
-   SB06BTV04: {
+   "SB06BTV04": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX MID UCITS ETF",
@@ -2051,7 +2051,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B06BTV0"
    },
-   SB06BTY35: {
+   "SB06BTY35": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX SMALL UCITS ETF",
@@ -2060,7 +2060,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B06BTY3"
    },
-   SBWTNRN58: {
+   "SBWTNRN58": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISH MSCI EMU CHF HDG ETF",
@@ -2069,7 +2069,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "BWTNRN5"
    },
-   S44582963: {
+   "S44582963": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISH STOX EURPE 50 ETF EUR DIST",
@@ -2078,7 +2078,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "4458296"
    },
-   S44583045: {
+   "S44583045": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50 EUR UCITS ET",
@@ -2087,7 +2087,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "4458304"
    },
-   SB89WXJ28: {
+   "SB89WXJ28": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES DIVDAX UCITS (DE) ETF",
@@ -2096,7 +2096,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B89WXJ2"
    },
-   SB9FKMS95: {
+   "SB9FKMS95": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES GOLD PRODUCERS UCITS ETF",
@@ -2105,7 +2105,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9FKMS9"
    },
-   SB11XDZ01: {
+   "SB11XDZ01": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO TOTAL MARKET GROWTH L",
@@ -2114,7 +2114,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B11XDZ0"
    },
-   SB11XF103: {
+   "SB11XF103": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO TOTAL MARKET VALUE LA",
@@ -2123,7 +2123,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B11XF10"
    },
-   SB11XF210: {
+   "SB11XF210": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO DIVIDEND UCITS ETF",
@@ -2132,7 +2132,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B11XF21"
    },
-   SB01GBD66: {
+   "SB01GBD66": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES FTSEUROFIRST 80 UCITS ETF",
@@ -2141,7 +2141,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B01GBD6"
    },
-   SB01G8687: {
+   "SB01G8687": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES FTSEUROFIRST 100 UCITS ETF",
@@ -2150,7 +2150,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B01G868"
    },
-   SB1FL7X65: {
+   "SB1FL7X65": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE EX-UK UCITS ET",
@@ -2159,7 +2159,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1FL7X6"
    },
-   SB5TY6H67: {
+   "SB5TY6H67": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES GLOBAL GOVERNMENT BOND UCI",
@@ -2168,7 +2168,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B5TY6H6"
    },
-   SB8J37J33: {
+   "SB8J37J33": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISH MSCI JPN CHF HDG ETF ACC",
@@ -2177,7 +2177,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8J37J3"
    },
-   SB3ZMRR79: {
+   "SB3ZMRR79": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (ACC",
@@ -2186,7 +2186,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B3ZMRR7"
    },
-   SB28PN679: {
+   "SB28PN679": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (DIS",
@@ -2195,7 +2195,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B28PN67"
    },
-   SB41H3R56: {
+   "SB41H3R56": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES FTSE MIB UCITS ETF (DIS)",
@@ -2204,7 +2204,7 @@ var funds_full_hash = {
       risk_region_country: "Italy",
       SEDOL: "B41H3R5"
    },
-   SB9F9WT79: {
+   "SB9F9WT79": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES OIL & GAS EXPLORATION & PR",
@@ -2213,7 +2213,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9F9WT7"
    },
-   SB11XF327: {
+   "SB11XF327": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EUROPEAN PROPERTY YIELD UC",
@@ -2222,7 +2222,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B11XF32"
    },
-   SB9G5G705: {
+   "SB9G5G705": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES AGRIBUSINESS UCITS ETF",
@@ -2231,7 +2231,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9G5G70"
    },
-   SB05KPJ81: {
+   "SB05KPJ81": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES CORE FTSE100UCITS ETF(DIST",
@@ -2240,7 +2240,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B05KPJ8"
    },
-   SB11XF434: {
+   "SB11XF434": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES UK DIVIDEND UCITS ETF",
@@ -2249,7 +2249,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B11XF43"
    },
-   SB88DZ562: {
+   "SB88DZ562": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISH SP500 CHF HDG ETF ACC",
@@ -2258,7 +2258,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B88DZ56"
    },
-   SB8BVCK10: {
+   "SB8BVCK10": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISH MSCI WRLD CHF HDG ETF ACC",
@@ -2267,7 +2267,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8BVCK1"
    },
-   SB7KFZF30: {
+   "SB7KFZF30": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MDAX UCITS (DE) ETF",
@@ -2276,7 +2276,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B7KFZF3"
    },
-   SBG5HCW33: {
+   "SBG5HCW33": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES FTSE 250 UCITS ETF",
@@ -2285,7 +2285,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HCW3"
    },
-   BRS93NSM9: {
+   "BRS93NSM9": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES SMI DE CHF",
@@ -2294,7 +2294,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "7391495"
    },
-   BRSHWWWV4: {
+   "BRSHWWWV4": {
       market: "Switzerland",
       asset_class: "Commodity",
       description: "ISHARES GOLD CHF HEDGED (CH)",
@@ -2303,7 +2303,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B4VK7N8"
    },
-   SB28PN125: {
+   "SB28PN125": {
       market: "Switzerland",
       asset_class: "Speciality",
       description: "ISHARES UK PROPERTY UCITS ETF",
@@ -2312,7 +2312,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B28PN12"
    },
-   BRSWNRKE3: {
+   "BRSWNRKE3": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CORP BND BB-B ETF EUR DIST",
@@ -2321,7 +2321,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BYTSJG1"
    },
-   BRSHXH322: {
+   "BRSHXH322": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 7-10 ETF EUR",
@@ -2330,7 +2330,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B540RC1"
    },
-   BRSHXH306: {
+   "BRSHXH306": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 1-3 ETF EUR",
@@ -2339,7 +2339,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54SM86"
    },
-   BRSHXH314: {
+   "BRSHXH314": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GOVT BND 3-7 ETF ? ACC",
@@ -2348,7 +2348,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53XQP7"
    },
-   SB9M6SJ36: {
+   "SB9M6SJ36": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL CORP BND EUR HDG ETF DIST",
@@ -2357,7 +2357,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9M6SJ3"
    },
-   SBSKRJX22: {
+   "SBSKRJX22": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GOV BD 20 TGTDUR ETF DST",
@@ -2366,7 +2366,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BSKRJX2"
    },
-   BRS91L7K2: {
+   "BRS91L7K2": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH JPM $ EM BND ETF $ DIST",
@@ -2375,7 +2375,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2QGP33"
    },
-   SB3B8QB69: {
+   "SB3B8QB69": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL INF LKD GVT BND ETF $ ACC",
@@ -2384,7 +2384,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3B8QB6"
    },
-   SB9M6RS53: {
+   "SB9M6RS53": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH JPM $ EM BND EUR HDG ETF DIST",
@@ -2393,7 +2393,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9M6RS5"
    },
-   SBCRY6558: {
+   "SBCRY6558": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO ULTRASHORT BOND UCITS",
@@ -2402,7 +2402,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY655"
    },
-   SB6453Z86: {
+   "SB6453Z86": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GBP CRP BND 0-5 ETF GBP DIST",
@@ -2411,7 +2411,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B6453Z8"
    },
-   BRSHP32C1: {
+   "BRSHP32C1": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CRP BND FINS ETF EUR DIST",
@@ -2420,7 +2420,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B87RLX9"
    },
-   BRSEENK02: {
+   "BRSEENK02": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH AUSTRIA GVT BND ETF EUR DIST",
@@ -2429,7 +2429,7 @@ var funds_full_hash = {
       risk_region_country: "Austria",
       SEDOL: "B7RRK35"
    },
-   SBKWB0V16: {
+   "SBKWB0V16": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR INFL LNKD GVT BD ETF ACC",
@@ -2438,7 +2438,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BKWB0V1"
    },
-   S32523474: {
+   "S32523474": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND LARGE",
@@ -2447,7 +2447,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "3252347"
    },
-   BRSEEP0N9: {
+   "BRSEEP0N9": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH BELGIUM GVT BND ETF EUR DIST",
@@ -2456,7 +2456,7 @@ var funds_full_hash = {
       risk_region_country: "Belgium",
       SEDOL: "B7RRKB3"
    },
-   SB3B8QG15: {
+   "SB3B8QG15": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR COVD BND ETF EUR DIST",
@@ -2465,7 +2465,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3B8QG1"
    },
-   BRSEEP9R1: {
+   "BRSEEP9R1": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GER GVT BND ETF EUR DIST",
@@ -2474,7 +2474,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B5V9431"
    },
-   BRS91L631: {
+   "BRS91L631": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CORP BND 1-5 ETF EUR DIST",
@@ -2483,7 +2483,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4L6004"
    },
-   BRS91L8Q8: {
+   "BRS91L8Q8": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH CORE EUR CORP BND ETF EUR DIST",
@@ -2492,7 +2492,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3F81R3"
    },
-   SB3DKXQ45: {
+   "SB3DKXQ45": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR AGG BND ETF EUR DIST",
@@ -2501,7 +2501,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3DKXQ4"
    },
-   BRS91L755: {
+   "BRS91L755": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH CORE EUR GVT BND ETF EUR DIST",
@@ -2510,7 +2510,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4WXJJ6"
    },
-   BRS91L8R6: {
+   "BRS91L8R6": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 0-1YR",
@@ -2519,7 +2519,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3FH761"
    },
-   SB1GJFF76: {
+   "SB1GJFF76": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 15-30",
@@ -2528,7 +2528,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1GJFF7"
    },
-   SB1GJF577: {
+   "SB1GJF577": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10Y",
@@ -2537,7 +2537,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1GJF57"
    },
-   SB1GJFD52: {
+   "SB1GJFD52": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-5YR",
@@ -2546,7 +2546,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1GJFD5"
    },
-   BRS91L714: {
+   "BRS91L714": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 5-7YR",
@@ -2555,7 +2555,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4WXJG3"
    },
-   BRS91L722: {
+   "BRS91L722": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 10-15",
@@ -2564,7 +2564,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4WXJH4"
    },
-   BRSEEPC55: {
+   "BRSEEPC55": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH SPAIN GVT BND ETF EUR DIST",
@@ -2573,7 +2573,7 @@ var funds_full_hash = {
       risk_region_country: "Spain",
       SEDOL: "B428Z60"
    },
-   BRS91L623: {
+   "BRS91L623": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD EX-FIN 1-5YR",
@@ -2582,7 +2582,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4L5ZY0"
    },
-   BRS91L607: {
+   "BRS91L607": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD EX-FINANCIALS",
@@ -2591,7 +2591,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4L5ZG2"
    },
-   BRSEEP835: {
+   "BRSEEP835": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH FINLAND GVT BND ETF EUR DIST",
@@ -2600,7 +2600,7 @@ var funds_full_hash = {
       risk_region_country: "Finland",
       SEDOL: "B5SH223"
    },
-   BRSEEP967: {
+   "BRSEEP967": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH FRA GVT BND ETF EUR DIST",
@@ -2609,7 +2609,7 @@ var funds_full_hash = {
       risk_region_country: "France",
       SEDOL: "B7LGZ55"
    },
-   SB66F4755: {
+   "SB66F4755": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR HY CRP BND ETF EUR DIST",
@@ -2618,7 +2618,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B66F475"
    },
-   BRSEEPAE8: {
+   "BRSEEPAE8": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH ITALY GVT BND ETF EUR DIST",
@@ -2627,7 +2627,7 @@ var funds_full_hash = {
       risk_region_country: "Italy",
       SEDOL: "B7LW6Y9"
    },
-   BRSEEPB64: {
+   "BRSEEPB64": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH NETHLDS GVT BND ETF EUR DIST",
@@ -2636,7 +2636,7 @@ var funds_full_hash = {
       risk_region_country: "Netherlands",
       SEDOL: "B7L7Z14"
    },
-   BRSG1R5A7: {
+   "BRSG1R5A7": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CRP BND INT RT HDG EUR DST",
@@ -2645,7 +2645,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B75GXF7"
    },
-   SB4L63509: {
+   "SB4L63509": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES MARKIT IBOXX ? CB XF",
@@ -2654,7 +2654,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4L6350"
    },
-   SBY7RGN62: {
+   "SBY7RGN62": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CRP BND SUST 0-3 ETF EUR D",
@@ -2663,7 +2663,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BY7RGN6"
    },
-   BRSHXH3K2: {
+   "BRSHXH3K2": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EMU ETF EUR ACC",
@@ -2672,7 +2672,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B50HQ74"
    },
-   BRSHXH2W7: {
+   "BRSHXH2W7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU SMALL CAP UCITS E",
@@ -2681,7 +2681,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5429V0"
    },
-   BRSHXH3B2: {
+   "BRSHXH3B2": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES FTSE MIB UCITS ETF (ACC)",
@@ -2690,7 +2690,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B51DWH3"
    },
-   BRSHXH371: {
+   "BRSHXH371": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES COREEURO STOXX50 UCITS ETF",
@@ -2699,7 +2699,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4Z7940"
    },
-   SBCLWRF23: {
+   "SBCLWRF23": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EMU LARGE CAP ETF EUR ACC",
@@ -2708,7 +2708,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCLWRF2"
    },
-   SBCLWRD09: {
+   "SBCLWRD09": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EMU MID CAP ETF EUR ACC",
@@ -2717,7 +2717,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCLWRD0"
    },
-   SBD5J2G26: {
+   "SBD5J2G26": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EURO STOX 50 EX-FIN ETF EUR AC",
@@ -2726,7 +2726,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BD5J2G2"
    },
-   SBZ0XT280: {
+   "SBZ0XT280": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EUR MLTIFTR ETF EUR AC",
@@ -2735,7 +2735,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BZ0XT28"
    },
-   SBSKRK280: {
+   "SBSKRK280": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EUR CORP BND BBB-BB ETF EUR DI",
@@ -2744,7 +2744,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BSKRK28"
    },
-   SBQN1K789: {
+   "SBQN1K789": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EUR MMT FCT ETF EUR AC",
@@ -2753,7 +2753,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQN1K78"
    },
-   SBQN1K565: {
+   "SBQN1K565": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EUR QUA FCT ETF EUR AC",
@@ -2762,7 +2762,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQN1K56"
    },
-   BRSC5VD30: {
+   "BRSC5VD30": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EURP SRI ETF EUR ACC",
@@ -2771,7 +2771,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B52VJ19"
    },
-   SBQN1KC34: {
+   "SBQN1KC34": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EUR SZE FCT ETF EUR AC",
@@ -2780,7 +2780,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQN1KC3"
    },
-   SBQN1K904: {
+   "SBQN1K904": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EUR VAL FCR ETF EUR AC",
@@ -2789,7 +2789,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQN1K90"
    },
-   SBP3QZJ32: {
+   "SBP3QZJ32": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI FRA ETF EUR ACC",
@@ -2798,7 +2798,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZJ3"
    },
-   BRSCQ10U7: {
+   "BRSCQ10U7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI JPN EUR HDG ETF ACC",
@@ -2807,7 +2807,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B42Z5J4"
    },
-   BRS91L5Y4: {
+   "BRS91L5Y4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSE MIB ETF EUR DIST",
@@ -2816,7 +2816,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B4K48X8"
    },
-   BRSCQ10G8: {
+   "BRSCQ10G8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 EUR HDG ETF ACC",
@@ -2825,7 +2825,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3ZW0K1"
    },
-   BRSCQ1060: {
+   "BRSCQ1060": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI WRLD EUR HDG ETF ACC",
@@ -2834,7 +2834,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B441G97"
    },
-   SB86MWN22: {
+   "SB86MWN22": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EUROPE MIN VOL",
@@ -2843,7 +2843,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B86MWN2"
    },
-   BRSQ7NAL8: {
+   "BRSQ7NAL8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH JPX-NIK 400 EUR HDG ETF ACC",
@@ -2852,7 +2852,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVFCT33"
    },
-   SBYVJRQ87: {
+   "SBYVJRQ87": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI JPN SRI EUR HDG ETF ACC",
@@ -2861,7 +2861,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BYVJRQ8"
    },
-   SBG5HD648: {
+   "SBG5HD648": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL CORPORATE BOND EUR",
@@ -2870,7 +2870,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD64"
    },
-   BRSHWWXE1: {
+   "BRSHWWXE1": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10",
@@ -2879,7 +2879,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VTN29"
    },
-   BRSHWWXC5: {
+   "BRSHWWXC5": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3 U",
@@ -2888,7 +2888,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VTMJ9"
    },
-   BRSHWWXD3: {
+   "BRSHWWXD3": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-7 U",
@@ -2897,7 +2897,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VTML1"
    },
-   SBG5HD754: {
+   "SBG5HD754": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES JPM $ EM BOND EUR HGD UCIT",
@@ -2906,7 +2906,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HD75"
    },
-   SB53QG564: {
+   "SB53QG564": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU UCITS ETF",
@@ -2915,7 +2915,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53QG56"
    },
-   BRSHWWX84: {
+   "BRSHWWX84": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU SMALL CAP UCITS E",
@@ -2924,7 +2924,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWMM1"
    },
-   BRSHWWXY7: {
+   "BRSHWWXY7": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES FTSE MIB UCITS ETF (ACC)",
@@ -2933,7 +2933,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53L4X5"
    },
-   BRSHWWXL5: {
+   "BRSHWWXL5": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES COREEURO STOXX50 UCITS ETF",
@@ -2942,7 +2942,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53L3W7"
    },
-   SBVDPS824: {
+   "SBVDPS824": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO GOVERNMENT BOND YR ET",
@@ -2951,7 +2951,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVDPS82"
    },
-   SBG5HCT03: {
+   "SBG5HCT03": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU LARGE CAP UCITS E",
@@ -2960,7 +2960,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HCT0"
    },
-   SBG5HCV26: {
+   "SBG5HCV26": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU MID CAP UCITS ETF",
@@ -2969,7 +2969,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HCV2"
    },
-   SBVYJ4299: {
+   "SBVYJ4299": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EUR MOMENTUM FAC",
@@ -2978,7 +2978,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVYJ429"
    },
-   SBVYJ4182: {
+   "SBVYJ4182": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EUR QUALITY FACT",
@@ -2987,7 +2987,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVYJ418"
    },
-   S76760511: {
+   "S76760511": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50 UCITS (DE) E",
@@ -2996,7 +2996,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "7676051"
    },
-   S76760404: {
+   "S76760404": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES STOXX EUROPE 50 UCITS (DE)",
@@ -3005,7 +3005,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "7676040"
    },
-   BRSHWWWY8: {
+   "BRSHWWWY8": {
       market: "Switzerland",
       asset_class: "Commodity",
       description: "ISHARES GOLD EUR HEDGED (CH)",
@@ -3014,7 +3014,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B4WNY68"
    },
-   SB3DD6V95: {
+   "SB3DD6V95": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 7-10YR UCI",
@@ -3023,7 +3023,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3DD6V9"
    },
-   SBQQ3P094: {
+   "SBQQ3P094": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10",
@@ -3032,7 +3032,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P09"
    },
-   SBQQ3NY92: {
+   "SBQQ3NY92": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3 U",
@@ -3041,7 +3041,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NY9"
    },
-   SBQQ3NZ00: {
+   "SBQQ3NZ00": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-7 U",
@@ -3050,7 +3050,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NZ0"
    },
-   SBQQ3NX85: {
+   "SBQQ3NX85": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 7-10yr UC",
@@ -3059,7 +3059,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NX8"
    },
-   SBQQ3NV61: {
+   "SBQQ3NV61": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 1-3yr UC",
@@ -3068,7 +3068,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NV6"
    },
-   SBQQ3NW78: {
+   "SBQQ3NW78": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 3-7yr UC",
@@ -3077,7 +3077,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NW7"
    },
-   SBFZD3433: {
+   "SBFZD3433": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ ULTRASHORT BOND UCITS ET",
@@ -3086,7 +3086,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFZD343"
    },
-   SBFZD2T12: {
+   "SBFZD2T12": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO ULTRASHORT BOND UCITS",
@@ -3095,7 +3095,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFZD2T1"
    },
-   SB0R47S16: {
+   "SB0R47S16": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO INF-LNK GOVT BD UCITS",
@@ -3104,7 +3104,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0R47S1"
    },
-   SB01S9278: {
+   "SB01S9278": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND LARGE",
@@ -3113,7 +3113,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B01S927"
    },
-   SB1W7DZ10: {
+   "SB1W7DZ10": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 15-30",
@@ -3122,7 +3122,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1W7DZ1"
    },
-   SB1W7F336: {
+   "SB1W7F336": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10Y",
@@ -3131,7 +3131,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1W7F33"
    },
-   SB18YF727: {
+   "SB18YF727": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES UCITS EU GOV BD 1-3YR",
@@ -3140,7 +3140,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B18YF72"
    },
-   SB1W7F112: {
+   "SB1W7F112": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-5YR",
@@ -3149,7 +3149,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1W7F11"
    },
-   SB18YF610: {
+   "SB18YF610": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 1-3YR UCIT",
@@ -3158,7 +3158,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B18YF61"
    },
-   SB3KTQK90: {
+   "SB3KTQK90": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO COVERED BOND UCITS ET",
@@ -3167,7 +3167,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3KTQK9"
    },
-   SB45GRT87: {
+   "SB45GRT87": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROCORBOND UCITS ETF",
@@ -3176,7 +3176,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B45GRT8"
    },
-   SB45GQS07: {
+   "SB45GQS07": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO AGGREGATE BOND UCITS",
@@ -3185,7 +3185,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B45GQS0"
    },
-   SBN575010: {
+   "SBN575010": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROGOVBOND UCITS ETF",
@@ -3194,7 +3194,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BN57501"
    },
-   SB4660D25: {
+   "SB4660D25": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES UCITS EU GOV BD 0-1YR",
@@ -3203,7 +3203,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4660D2"
    },
-   SB4VHCS91: {
+   "SB4VHCS91": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 5-7YR",
@@ -3212,7 +3212,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4VHCS9"
    },
-   SB4VMSS66: {
+   "SB4VMSS66": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 10-15",
@@ -3221,7 +3221,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4VMSS6"
    },
-   SB89KX070: {
+   "SB89KX070": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES FRANCE GOVERNMENT BOND UCI",
@@ -3230,7 +3230,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B89KX07"
    },
-   SB775DL81: {
+   "SB775DL81": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES NETHERLANDS GOVERNMENT BON",
@@ -3239,7 +3239,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B775DL8"
    },
-   SB99KZN12: {
+   "SB99KZN12": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES UCITS EU CORP BD INT RATE",
@@ -3248,7 +3248,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B99KZN1"
    },
-   SB3DD6R58: {
+   "SB3DD6R58": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORPORATE BOND UCITS ETF",
@@ -3257,7 +3257,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3DD6R5"
    },
-   SBFZD3D25: {
+   "SBFZD3D25": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORP BOND INT RATE HGD U",
@@ -3266,7 +3266,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFZD3D2"
    },
-   SBFZD3987: {
+   "SBFZD3987": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION HI YLD CO",
@@ -3275,7 +3275,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFZD398"
    },
-   SBFZD3763: {
+   "SBFZD3763": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION CORPORATE",
@@ -3284,7 +3284,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFZD376"
    },
-   SB3DD6W03: {
+   "SB3DD6W03": {
       market: "Netherlands",
       asset_class: "Fixed Income",
       description: "ISHARES $ TIPS UCITS ETF",
@@ -3293,7 +3293,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3DD6W0"
    },
-   SB2422M14: {
+   "SB2422M14": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES BRIC 50 UCITS ETF",
@@ -3302,7 +3302,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2422M1"
    },
-   SBQQ3PG55: {
+   "SBQQ3PG55": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "iShares MSCI EM Asia UCITS ETF",
@@ -3311,7 +3311,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3PG5"
    },
-   SBQQ3PB01: {
+   "SBQQ3PB01": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -3320,7 +3320,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3PB0"
    },
-   SBQQ3P763: {
+   "SBQQ3P763": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU",
@@ -3329,7 +3329,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P76"
    },
-   SBQQ3NT49: {
+   "SBQQ3NT49": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "iShares MSCI EMU Small Cap UCITS E",
@@ -3338,7 +3338,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NT4"
    },
-   SBQQ3P102: {
+   "SBQQ3P102": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES DJ IND AVG",
@@ -3347,7 +3347,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P10"
    },
-   SBLWDYT04: {
+   "SBLWDYT04": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO CAPPED UCITS E",
@@ -3356,7 +3356,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYT0"
    },
-   SBQQ3P433: {
+   "SBQQ3P433": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES FTSE MIB UCITS ETF (ACC)",
@@ -3365,7 +3365,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P43"
    },
-   SBQQ3P219: {
+   "SBQQ3P219": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES NASDAQ 100 UCIT ETF",
@@ -3374,7 +3374,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P21"
    },
-   SBQQ3P540: {
+   "SBQQ3P540": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES NIKKEI 225 UCIT ETF",
@@ -3383,7 +3383,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P54"
    },
-   SBQQ3P656: {
+   "SBQQ3P656": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES COREMSCIPACEXJAP UCITS ETF",
@@ -3392,7 +3392,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P65"
    },
-   SBLWDYS96: {
+   "SBLWDYS96": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRALIA - B UCITS E",
@@ -3401,7 +3401,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYS9"
    },
-   SBQQ3PC18: {
+   "SBQQ3PC18": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (ACC",
@@ -3410,7 +3410,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3PC1"
    },
-   SBLWDYK11: {
+   "SBLWDYK11": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI CANADA UCITS ETF",
@@ -3419,7 +3419,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYK1"
    },
-   SBQQ3PD25: {
+   "SBQQ3PD25": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "iShares MSCI Chile UCITS ETF",
@@ -3428,7 +3428,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3PD2"
    },
-   SBLWDYP65: {
+   "SBLWDYP65": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (",
@@ -3437,7 +3437,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYP6"
    },
-   SBQQ3PF49: {
+   "SBQQ3PF49": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "iShares MSCI Korea UCITS ETF (Acc)",
@@ -3446,7 +3446,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3PF4"
    },
-   SBLWDYR89: {
+   "SBLWDYR89": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES CORE S&P 500 UCITS ETF",
@@ -3455,7 +3455,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYR8"
    },
-   SBQQ3P870: {
+   "SBQQ3P870": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI RUSSIA ADR/GDR UCITS",
@@ -3464,7 +3464,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P87"
    },
-   SBLWDYM35: {
+   "SBLWDYM35": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI UK UCITS ETF",
@@ -3473,7 +3473,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYM3"
    },
-   SBLWDYL28: {
+   "SBLWDYL28": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI USA UCITS ETF",
@@ -3482,7 +3482,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLWDYL2"
    },
-   SBLWDYN42: {
+   "SBLWDYN42": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX  - B UCITS ETF",
@@ -3491,7 +3491,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYN4"
    },
-   SBLWDYF66: {
+   "SBLWDYF66": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI UK LARGE CAP UCITS ET",
@@ -3500,7 +3500,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BLWDYF6"
    },
-   SBQQ3NR25: {
+   "SBQQ3NR25": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "iShares MSCI UK Small Cap UCITS ET",
@@ -3509,7 +3509,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NR2"
    },
-   SBQQ3P326: {
+   "SBQQ3P326": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES FTSE 100 UCITS ETF (ACC)",
@@ -3518,7 +3518,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3P32"
    },
-   SBQQ3NS32: {
+   "SBQQ3NS32": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "iShares MSCI USA Small Cap UCITS E",
@@ -3527,7 +3527,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQQ3NS3"
    },
-   SB0680740: {
+   "SB0680740": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX MID UCITS ETF",
@@ -3536,7 +3536,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B068074"
    },
-   SB0680856: {
+   "SB0680856": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX SMALL UCITS ETF",
@@ -3545,7 +3545,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B068085"
    },
-   SBN5RLQ98: {
+   "SBN5RLQ98": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EM IMI UCITS ETF",
@@ -3554,7 +3554,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BN5RLQ9"
    },
-   S70210158: {
+   "S70210158": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50 EUR UCITS ET",
@@ -3563,7 +3563,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "7021015"
    },
-   S70209820: {
+   "S70209820": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES STOXX EUROPE 50 UCITS ETF",
@@ -3572,7 +3572,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "7020982"
    },
-   SBJ0JSH23: {
+   "SBJ0JSH23": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50 EX-FIN UCITS",
@@ -3581,7 +3581,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BJ0JSH2"
    },
-   SB0680633: {
+   "SB0680633": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES CHINA LARGE CAP UCITS ETF",
@@ -3590,7 +3590,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B068063"
    },
-   BRSELZ3V8: {
+   "BRSELZ3V8": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES AEX UCITS ETF",
@@ -3599,7 +3599,7 @@ var funds_full_hash = {
       risk_region_country: "Netherlands",
       SEDOL: "B0R40Y8"
    },
-   SB18YF941: {
+   "SB18YF941": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES ASIA PACIFIC DIVIDEND UCIT",
@@ -3608,7 +3608,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Developed",
       SEDOL: "B18YF94"
    },
-   SB0R46Z10: {
+   "SB0R46Z10": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (DIS",
@@ -3617,7 +3617,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B0R46Z1"
    },
-   BRSELZ3W6: {
+   "BRSELZ3W6": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO TOTAL MARKET GROWTH L",
@@ -3626,7 +3626,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0R47D6"
    },
-   BRSELZ3Y2: {
+   "BRSELZ3Y2": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO TOTAL MARKET VALUE LA",
@@ -3635,7 +3635,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0R47J2"
    },
-   SB0R47M53: {
+   "SB0R47M53": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES EURO DIVIDEND UCITS ETF",
@@ -3644,7 +3644,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0R47M5"
    },
-   SB0R47925: {
+   "SB0R47925": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EASTERN EUROPE CAPPED",
@@ -3653,7 +3653,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Emerging",
       SEDOL: "B0R4792"
    },
-   SB4VHDV95: {
+   "SB4VHDV95": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -3662,7 +3662,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B4VHDV9"
    },
-   SB0R47586: {
+   "SB0R47586": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -3671,7 +3671,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B0R4758"
    },
-   SB3MMMX15: {
+   "SB3MMMX15": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE SRI UCITS NA",
@@ -3680,7 +3680,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B3MMMX1"
    },
-   S72354079: {
+   "S72354079": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES FTSEUROFIRST 100 UCITS ETF",
@@ -3689,7 +3689,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "7235407"
    },
-   SB18YFB63: {
+   "SB18YFB63": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE EX-UK UCITS ET",
@@ -3698,7 +3698,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B18YFB6"
    },
-   SB0R46S42: {
+   "SB0R46S42": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI AC FAR EAST EX-JAPAN",
@@ -3707,7 +3707,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B0R46S4"
    },
-   SB3S86647: {
+   "SB3S86647": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES DJ GLBL SUSTAINABILITY SCR",
@@ -3716,7 +3716,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3S8664"
    },
-   SB4V2QW67: {
+   "SB4V2QW67": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES COREMSCI JAP IMI UCITS ETF",
@@ -3725,7 +3725,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B4V2QW6"
    },
-   SB3W6QD14: {
+   "SB3W6QD14": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN EUR HEDGED UCIT",
@@ -3734,7 +3734,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B3W6QD1"
    },
-   SB0680526: {
+   "SB0680526": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (DIS)",
@@ -3743,7 +3743,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B068052"
    },
-   SB0R47149: {
+   "SB0R47149": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (DIS)",
@@ -3752,7 +3752,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "B0R4714"
    },
-   SB4VL7Q40: {
+   "SB4VL7Q40": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (ACC",
@@ -3761,7 +3761,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B4VL7Q4"
    },
-   SB2422T82: {
+   "SB2422T82": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (DIS",
@@ -3770,7 +3770,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B2422T8"
    },
-   SB18YFF02: {
+   "SB18YFF02": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI NORTH AMERICA UCITS E",
@@ -3779,7 +3779,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "B18YFF0"
    },
-   SB1N9M933: {
+   "SB1N9M933": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INFRASTRUCTURE UCIT",
@@ -3788,7 +3788,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1N9M93"
    },
-   SB1WLM780: {
+   "SB1WLM780": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES LISTED PRIVATE EQUITY UCIT",
@@ -3797,7 +3797,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1WLM78"
    },
-   S72494420: {
+   "S72494420": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES CORE FTSE100UCITS ETF(DIST",
@@ -3806,7 +3806,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "7249442"
    },
-   SB1N9MF93: {
+   "SB1N9MF93": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY UCITS ETF",
@@ -3815,7 +3815,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B1N9MF9"
    },
-   SB0R46X95: {
+   "SB0R46X95": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI TAIWAN UCITS ETF",
@@ -3824,7 +3824,7 @@ var funds_full_hash = {
       risk_region_country: "Taiwan (Republic of China)",
       SEDOL: "B0R46X9"
    },
-   SB3QZ9686: {
+   "SB3QZ9686": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES S&P 500 EUR HEDGED UCITS E",
@@ -3833,7 +3833,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3QZ968"
    },
-   SB01S6936: {
+   "SB01S6936": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES S&P 500 UCITS ETF (DIS)",
@@ -3842,7 +3842,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B01S693"
    },
-   SB3VF2P32: {
+   "SB3VF2P32": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD EUR HEDGED UCIT",
@@ -3851,7 +3851,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B3VF2P3"
    },
-   SB0R44245: {
+   "SB0R44245": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD UCITS ETF (DIS)",
@@ -3860,7 +3860,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B0R4424"
    },
-   SB2NFHJ35: {
+   "SB2NFHJ35": {
       market: "Netherlands",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -3869,7 +3869,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "B2NFHJ3"
    },
-   SB1N9LY11: {
+   "SB1N9LY11": {
       market: "Netherlands",
       asset_class: "Speciality",
       description: "ISHARES ASIA PROPERTY YIELD UCITS",
@@ -3878,7 +3878,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B1N9LY1"
    },
-   SB0R47P84: {
+   "SB0R47P84": {
       market: "Netherlands",
       asset_class: "Speciality",
       description: "ISHARES EUROPEAN PROPERTY YIELD UC",
@@ -3887,7 +3887,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0R47P8"
    },
-   SB1N9M263: {
+   "SB1N9M263": {
       market: "Netherlands",
       asset_class: "Speciality",
       description: "ISHARES US PROPERTY YIELD UCITS ET",
@@ -3896,7 +3896,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1N9M26"
    },
-   SB1N9M602: {
+   "SB1N9M602": {
       market: "Netherlands",
       asset_class: "Speciality",
       description: "ISHARES DEVELOPED MARKETS PROP YLD",
@@ -3905,7 +3905,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1N9M60"
    },
-   SB4T5Q502: {
+   "SB4T5Q502": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES EBREXX GOVGO 2.5-5.5",
@@ -3914,7 +3914,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B4T5Q50"
    },
-   SB9L5YG05: {
+   "SB9L5YG05": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL CORPORATE BOND UCIT",
@@ -3923,7 +3923,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9L5YG0"
    },
-   BRSHXH4N5: {
+   "BRSHXH4N5": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10",
@@ -3932,7 +3932,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54CMQ6"
    },
-   BRSHXH4L9: {
+   "BRSHXH4L9": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3 U",
@@ -3941,7 +3941,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54BMN0"
    },
-   BRSHXH4M7: {
+   "BRSHXH4M7": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-7 U",
@@ -3950,7 +3950,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54BQS3"
    },
-   BRSHXH4K1: {
+   "BRSHXH4K1": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 7-10yr UC",
@@ -3959,7 +3959,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54NBW8"
    },
-   BRSHXH4H8: {
+   "BRSHXH4H8": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 1-3yr UC",
@@ -3968,7 +3968,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B544SH5"
    },
-   BRSHXH4J4: {
+   "BRSHXH4J4": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 3-7yr UC",
@@ -3977,7 +3977,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B544WP1"
    },
-   SB9MCNP25: {
+   "SB9MCNP25": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES $ EMERGING MARKETS CORP BD",
@@ -3986,7 +3986,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9MCNP2"
    },
-   SBFTWN028: {
+   "SBFTWN028": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO ULTRASHORT BOND UCITS",
@@ -3995,7 +3995,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFTWN02"
    },
-   SB3Z4YK55: {
+   "SB3Z4YK55": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EB.REXX MONEY MARKET UCITS",
@@ -4004,7 +4004,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B3Z4YK5"
    },
-   SB10S2Z94: {
+   "SB10S2Z94": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO INF-LNK GOVT BD UCITS",
@@ -4013,7 +4013,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B10S2Z9"
    },
-   SB00P3C75: {
+   "SB00P3C75": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND LARGE",
@@ -4022,7 +4022,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B00P3C7"
    },
-   SB1KR0J69: {
+   "SB1KR0J69": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 15-30",
@@ -4031,7 +4031,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1KR0J6"
    },
-   SB1KR0853: {
+   "SB1KR0853": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10Y",
@@ -4040,7 +4040,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1KR085"
    },
-   SB1FL7T29: {
+   "SB1FL7T29": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3YR",
@@ -4049,7 +4049,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1FL7T2"
    },
-   SB1KR0H46: {
+   "SB1KR0H46": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-5YR",
@@ -4058,7 +4058,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1KR0H4"
    },
-   SB5818Y90: {
+   "SB5818Y90": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 5-7YR",
@@ -4067,7 +4067,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B5818Y9"
    },
-   SB581BJ58: {
+   "SB581BJ58": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 10-15",
@@ -4076,7 +4076,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B581BJ5"
    },
-   SB1KR0K75: {
+   "SB1KR0K75": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 7-10YR UCI",
@@ -4085,7 +4085,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1KR0K7"
    },
-   SB1FL7R05: {
+   "SB1FL7R05": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 1-3YR UCIT",
@@ -4094,7 +4094,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1FL7R0"
    },
-   SB3V34H30: {
+   "SB3V34H30": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO COVERED BOND UCITS ET",
@@ -4103,7 +4103,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3V34H3"
    },
-   SB4K71728: {
+   "SB4K71728": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROCORBOND UCITS ETF",
@@ -4112,7 +4112,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4K7172"
    },
-   SB4KRPD67: {
+   "SB4KRPD67": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO AGGREGATE BOND UCITS",
@@ -4121,7 +4121,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4KRPD6"
    },
-   SB4K73211: {
+   "SB4K73211": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 0-1YR",
@@ -4130,7 +4130,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4K7321"
    },
-   SB65BC704: {
+   "SB65BC704": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES J.P. MORGAN $ EMER MKTS BD",
@@ -4139,7 +4139,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B65BC70"
    },
-   SB9MCYX71: {
+   "SB9MCYX71": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD EX-FINANCIALS",
@@ -4148,7 +4148,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9MCYX7"
    },
-   SB1KR0C90: {
+   "SB1KR0C90": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES CORE UK GILTS UCITS ETF",
@@ -4157,7 +4157,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B1KR0C9"
    },
-   SB5SMC737: {
+   "SB5SMC737": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES UCITS EU HIGH YIELD CORP",
@@ -4166,7 +4166,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B5SMC73"
    },
-   SB9MDW476: {
+   "SB9MDW476": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES UCITS $ HIGH YIELD CORP BD",
@@ -4175,7 +4175,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B9MDW47"
    },
-   SB71K6J85: {
+   "SB71K6J85": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES ITALY GOVERNMENT BOND UCIT",
@@ -4184,7 +4184,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B71K6J8"
    },
-   SBFTWMX81: {
+   "SBFTWMX81": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD INTEREST RATE",
@@ -4193,7 +4193,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFTWMX8"
    },
-   SB1KR0D08: {
+   "SB1KR0D08": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES $ TIPS UCITS ETF",
@@ -4202,7 +4202,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1KR0D0"
    },
-   SB10S3124: {
+   "SB10S3124": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORPORATE BOND UCITS ETF",
@@ -4211,7 +4211,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B10S312"
    },
-   SB2PRR647: {
+   "SB2PRR647": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES PFANDBRIEFE UCITS (DE) ETF",
@@ -4220,7 +4220,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B2PRR64"
    },
-   SBFTWMY98: {
+   "SBFTWMY98": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION HI YLD CO",
@@ -4229,7 +4229,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BFTWMY9"
    },
-   SB5BR0370: {
+   "SB5BR0370": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES BC EU CP BD 1-5",
@@ -4238,7 +4238,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B5BR037"
    },
-   SB5BRVZ69: {
+   "SB5BRVZ69": {
       market: "Italy",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROGOVBOND UCITS ETF",
@@ -4247,7 +4247,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B5BRVZ6"
    },
-   SB28PMS28: {
+   "SB28PMS28": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES BRIC 50 UCITS ETF",
@@ -4256,7 +4256,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B28PMS2"
    },
-   BRSHXVGA9: {
+   "BRSHXVGA9": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (ACC",
@@ -4265,7 +4265,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B65GS55"
    },
-   SB63N2M35: {
+   "SB63N2M35": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI CANADA UCITS ETF",
@@ -4274,7 +4274,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B63N2M3"
    },
-   BRSHXVGH4: {
+   "BRSHXVGH4": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI CHILE UCITS ETF",
@@ -4283,7 +4283,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B63R7X1"
    },
-   BRSHXVHR1: {
+   "BRSHXVHR1": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EM ASIA UCITS ETF",
@@ -4292,7 +4292,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B684TB9"
    },
-   BRSHXVG35: {
+   "BRSHXVG35": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -4301,7 +4301,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B67TC50"
    },
-   BRSHXVF28: {
+   "BRSHXVF28": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU UCITS ETF",
@@ -4310,7 +4310,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B644JS0"
    },
-   BRSHXH4G0: {
+   "BRSHXH4G0": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU SMALL CAP UCITS E",
@@ -4319,7 +4319,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5439J1"
    },
-   BRSHXVBF3: {
+   "BRSHXVBF3": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES DOW JONES INDUSTRIAL AVERA",
@@ -4328,7 +4328,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B67MCF9"
    },
-   BRSHXVEL7: {
+   "BRSHXVEL7": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (",
@@ -4337,7 +4337,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B66SCS1"
    },
-   BRSHXVHB6: {
+   "BRSHXVHB6": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (ACC)",
@@ -4346,7 +4346,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B66F1P2"
    },
-   BRSHXVC21: {
+   "BRSHXVC21": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES FTSE MIB UCITS ETF (ACC)",
@@ -4355,7 +4355,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B644JR9"
    },
-   BRSHXVGQ4: {
+   "BRSHXVGQ4": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO CAPPED UCITS E",
@@ -4364,7 +4364,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B65H364"
    },
-   BRSHXVBN6: {
+   "BRSHXVBN6": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES NASDAQ 100 UCITS ETF",
@@ -4373,7 +4373,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B67BJW2"
    },
-   BRSHXVDE4: {
+   "BRSHXVDE4": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES NIKKEI 225 UCITS ETF",
@@ -4382,7 +4382,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B642NR1"
    },
-   BRSHXVDU8: {
+   "BRSHXVDU8": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES COREMSCIPACEXJAP UCITS ETF",
@@ -4391,7 +4391,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B67L3T7"
    },
-   BRSHXVFL6: {
+   "BRSHXVFL6": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI RUSSIA ADR GDR UCITS",
@@ -4400,7 +4400,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B65W4X3"
    },
-   BRSHXVB14: {
+   "BRSHXVB14": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES CORE S&P 500 UCITS ETF",
@@ -4409,7 +4409,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B584YB7"
    },
-   BRSHXVB89: {
+   "BRSHXVB89": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES COREEURO STOXX50 UCITS ETF",
@@ -4418,7 +4418,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B63VMG1"
    },
-   BRSHXVE60: {
+   "BRSHXVE60": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI UK UCITS ETF",
@@ -4427,7 +4427,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B67L784"
    },
-   BRSHXH4A3: {
+   "BRSHXH4A3": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI UK LARGE CAP UCITS ET",
@@ -4436,7 +4436,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B549CY5"
    },
-   BRSHXH4B1: {
+   "BRSHXH4B1": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI UK SMALL CAP UCITS ET",
@@ -4445,7 +4445,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B549BS2"
    },
-   BRSHXVBV8: {
+   "BRSHXVBV8": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES FTSE 100 UCITS ETF (ACC)",
@@ -4454,7 +4454,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B61X6W3"
    },
-   BRSHXVED5: {
+   "BRSHXVED5": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI USA UCITS ETF",
@@ -4463,7 +4463,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B644G01"
    },
-   BRSHXH4D7: {
+   "BRSHXH4D7": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI USA SMALL CAP UCITS E",
@@ -4472,7 +4472,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B549BX7"
    },
-   BRS91L7M8: {
+   "BRS91L7M8": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES CORE DAX UCITS ETF (DE)",
@@ -4481,7 +4481,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B2PRPQ0"
    },
-   SB2PRR191: {
+   "SB2PRR191": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES DOW JONES US SEL DIV",
@@ -4490,7 +4490,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2PRR19"
    },
-   SB068WZ64: {
+   "SB068WZ64": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX MID UCITS ETF",
@@ -4499,7 +4499,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B068WZ6"
    },
-   SB068WW34: {
+   "SB068WW34": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX SMALL UCITS ETF",
@@ -4508,7 +4508,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B068WW3"
    },
-   SBNZC4W16: {
+   "SBNZC4W16": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES CORE EM IMI UCITS ET (EIMI",
@@ -4517,7 +4517,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BNZC4W1"
    },
-   SBNZC4Q54: {
+   "SBNZC4Q54": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU LARGE CAP UCITS E",
@@ -4526,7 +4526,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BNZC4Q5"
    },
-   SBNZC4R61: {
+   "SBNZC4R61": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU MID CAP UCITS ETF",
@@ -4535,7 +4535,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BNZC4R6"
    },
-   S74414863: {
+   "S74414863": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50 EUR UCITS ET",
@@ -4544,7 +4544,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "7441486"
    },
-   S74414533: {
+   "S74414533": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES STOXX EUROPE 50 UCITS ETF",
@@ -4553,7 +4553,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "7441453"
    },
-   SB068WP65: {
+   "SB068WP65": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES CHINA LARGE CAP UCITS ETF",
@@ -4562,7 +4562,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B068WP6"
    },
-   SB1FL6G25: {
+   "SB1FL6G25": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES ASIA PACIFIC DIVIDEND UCIT",
@@ -4571,7 +4571,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Developed",
       SEDOL: "B1FL6G2"
    },
-   SB10RYF06: {
+   "SB10RYF06": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (DIS",
@@ -4580,7 +4580,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B10RYF0"
    },
-   SB10RWD44: {
+   "SB10RWD44": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EURO DIVIDEND UCITS ETF",
@@ -4589,7 +4589,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B10RWD4"
    },
-   SB10S2T34: {
+   "SB10S2T34": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -4598,7 +4598,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B10S2T3"
    },
-   SB10S2V56: {
+   "SB10S2V56": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EASTERN EUROPE CAPPED",
@@ -4607,7 +4607,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Emerging",
       SEDOL: "B10S2V5"
    },
-   SB3V34M83: {
+   "SB3V34M83": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EMERGING MRKT INFRASTRUCTU",
@@ -4616,7 +4616,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B3V34M8"
    },
-   SBVDPH745: {
+   "SBVDPH745": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EUR MOMENTUM FAC",
@@ -4625,7 +4625,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVDPH74"
    },
-   SBVDPH638: {
+   "SBVDPH638": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EUR QUALITY FACT",
@@ -4634,7 +4634,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVDPH63"
    },
-   SB1FL7Q97: {
+   "SB1FL7Q97": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE EX-UK UCITS ET",
@@ -4643,7 +4643,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1FL7Q9"
    },
-   SB10S2G04: {
+   "SB10S2G04": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI AC FAR EAST EX-JAPAN",
@@ -4652,7 +4652,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B10S2G0"
    },
-   SB28PMP96: {
+   "SB28PMP96": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES GLOBAL WATER UCITS ETF",
@@ -4661,7 +4661,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B28PMP9"
    },
-   SB3T6GG77: {
+   "SB3T6GG77": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN EUR HEDGED UCIT",
@@ -4670,7 +4670,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B3T6GG7"
    },
-   SB068WK11: {
+   "SB068WK11": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (DIS)",
@@ -4679,7 +4679,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B068WK1"
    },
-   SB10S2X70: {
+   "SB10S2X70": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (DIS)",
@@ -4688,7 +4688,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "B10S2X7"
    },
-   SB28PMM65: {
+   "SB28PMM65": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (DIS",
@@ -4697,7 +4697,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B28PMM6"
    },
-   SB28PMH12: {
+   "SB28PMH12": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES FTSE MIB UCITS ETF (DIS)",
@@ -4706,7 +4706,7 @@ var funds_full_hash = {
       risk_region_country: "Italy",
       SEDOL: "B28PMH1"
    },
-   SB1FL6M85: {
+   "SB1FL6M85": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI NORTH AMERICA UCITS E",
@@ -4715,7 +4715,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "B1FL6M8"
    },
-   SB1KR0309: {
+   "SB1KR0309": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INFRASTRUCTURE UCIT",
@@ -4724,7 +4724,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1KR030"
    },
-   SB28PMJ36: {
+   "SB28PMJ36": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CLEAN ENERGY UCITS",
@@ -4733,7 +4733,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B28PMJ3"
    },
-   SB10S2Y87: {
+   "SB10S2Y87": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EUROPEAN PROPERTY YIELD UC",
@@ -4742,7 +4742,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B10S2Y8"
    },
-   SB10S3454: {
+   "SB10S3454": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES CORE FTSE100UCITS ETF(DIST",
@@ -4751,7 +4751,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B10S345"
    },
-   SB1KR0416: {
+   "SB1KR0416": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY UCITS ETF",
@@ -4760,7 +4760,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B1KR041"
    },
-   SB10S2W63: {
+   "SB10S2W63": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI TAIWAN UCITS ETF",
@@ -4769,7 +4769,7 @@ var funds_full_hash = {
       risk_region_country: "Taiwan (Republic of China)",
       SEDOL: "B10S2W6"
    },
-   SB10RWV28: {
+   "SB10RWV28": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES UK DIVIDEND UCITS ETF",
@@ -4778,7 +4778,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B10RWV2"
    },
-   BRS2AY3J6: {
+   "BRS2AY3J6": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES S&P 500 UCITS ETF (DIS)",
@@ -4787,7 +4787,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "7557361"
    },
-   SB3VMB791: {
+   "SB3VMB791": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES S&P 500 EUR HEDGED UCITS E",
@@ -4796,7 +4796,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3VMB79"
    },
-   SB44R5103: {
+   "SB44R5103": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD EUR HEDGED UCIT",
@@ -4805,7 +4805,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B44R510"
    },
-   SB10S2F96: {
+   "SB10S2F96": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD UCITS ETF (DIS)",
@@ -4814,7 +4814,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B10S2F9"
    },
-   SB2Q3VK38: {
+   "SB2Q3VK38": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -4823,7 +4823,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "B2Q3VK3"
    },
-   SB2PRR209: {
+   "SB2PRR209": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES ST SEL DIV 30 DE",
@@ -4832,7 +4832,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B2PRR20"
    },
-   SB5830D80: {
+   "SB5830D80": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -4841,7 +4841,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B5830D8"
    },
-   SB58R9P58: {
+   "SB58R9P58": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES COREMSCI JAP IMI UCITS ETF",
@@ -4850,7 +4850,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B58R9P5"
    },
-   SB581DK03: {
+   "SB581DK03": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (ACC",
@@ -4859,7 +4859,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B581DK0"
    },
-   SB58RJC27: {
+   "SB58RJC27": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES MSCI PACIFIC EX-JAPAN UCIT",
@@ -4868,7 +4868,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B58RJC2"
    },
-   SB5835R76: {
+   "SB5835R76": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI WORLD UCITS ETF",
@@ -4877,7 +4877,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B5835R7"
    },
-   SB2PRQS94: {
+   "SB2PRQS94": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX UCITS (DE) ETF",
@@ -4886,7 +4886,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B2PRQS9"
    },
-   SB2PRQT02: {
+   "SB2PRQT02": {
       market: "Italy",
       asset_class: "Equity",
       description: "ISHARES STOXX EUROPE 600 UCITS (DE",
@@ -4895,7 +4895,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B2PRQT0"
    },
-   BRSHXH1S7: {
+   "BRSHXH1S7": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 7-10",
@@ -4904,7 +4904,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5186D2"
    },
-   BRSHXH1P3: {
+   "BRSHXH1P3": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3 U",
@@ -4913,7 +4913,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B506251"
    },
-   BRSHXH1R9: {
+   "BRSHXH1R9": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 3-7 U",
@@ -4922,7 +4922,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54WW22"
    },
-   SB83XJ484: {
+   "SB83XJ484": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL CORPORATE BOND UCIT",
@@ -4931,7 +4931,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B83XJ48"
    },
-   BRSHXH1N8: {
+   "BRSHXH1N8": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 7-10yr UC",
@@ -4940,7 +4940,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B50JPL7"
    },
-   BRSHXH1L2: {
+   "BRSHXH1L2": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 1-3yr UC",
@@ -4949,7 +4949,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B50JNZ7"
    },
-   BRSHXH1M0: {
+   "BRSHXH1M0": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 3-7yr UC",
@@ -4958,7 +4958,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B50LYV6"
    },
-   SB4L62M02: {
+   "SB4L62M02": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CRP BND EXFIN 1-5 ETF EUR",
@@ -4967,7 +4967,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4L62M0"
    },
-   SB4L62428: {
+   "SB4L62428": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR CORP BND EX-FIN ETF EUR DI",
@@ -4976,7 +4976,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4L6242"
    },
-   SB6835Z27: {
+   "SB6835Z27": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ EM CRP BND ETF $ DIST",
@@ -4985,7 +4985,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B6835Z2"
    },
-   SBCRY6665: {
+   "SBCRY6665": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR ULTSHRT BND ETF EUR DIST",
@@ -4994,7 +4994,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY666"
    },
-   SBCRY6442: {
+   "SBCRY6442": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GBP ULTSHRT BND ETF GBP DIST",
@@ -5003,7 +5003,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY644"
    },
-   SBCRY6335: {
+   "SBCRY6335": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ ULTRASHORT BOND UCITS ET",
@@ -5012,7 +5012,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY633"
    },
-   BRSJ05SG2: {
+   "BRSJ05SG2": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL HYCB ? HDG ETF DIST",
@@ -5021,7 +5021,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8KQFS6"
    },
-   SB0M62X28: {
+   "SB0M62X28": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO INF-LNK GOVT BD UCITS",
@@ -5030,7 +5030,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0M62X2"
    },
-   SB3FH7940: {
+   "SB3FH7940": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 0-1 ETF EUR DIST",
@@ -5039,7 +5039,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3FH794"
    },
-   BRS91LQH8: {
+   "BRS91LQH8": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 15-30 ETF EUR DIST",
@@ -5048,7 +5048,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1G52P4"
    },
-   SB1G53066: {
+   "SB1G53066": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 7-10 ETF EUR DIST",
@@ -5057,7 +5057,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1G5306"
    },
-   BRS91LQ70: {
+   "BRS91LQ70": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 1-3 ETF EUR DIST",
@@ -5066,7 +5066,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B14X4Q5"
    },
-   SB1G52T83: {
+   "SB1G52T83": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 3-5 ETF EUR DIST",
@@ -5075,7 +5075,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1G52T8"
    },
-   SB4WXJP24: {
+   "SB4WXJP24": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 5-7 ETF EUR DIST",
@@ -5084,7 +5084,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4WXJP2"
    },
-   SB4WXJQ31: {
+   "SB4WXJQ31": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EUR GVT BND 10-15 ETF EUR DIST",
@@ -5093,7 +5093,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4WXJQ3"
    },
-   SB1G52M15: {
+   "SB1G52M15": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ TRES BND 7-10 ETF $ DIST",
@@ -5102,7 +5102,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1G52M1"
    },
-   BRS91LQA3: {
+   "BRS91LQA3": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ TREAS BND 1-3 ETF USD DIST",
@@ -5111,7 +5111,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B14X4S7"
    },
-   SB3F82J24: {
+   "SB3F82J24": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROCORBOND UCITS ETF",
@@ -5120,7 +5120,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3F82J2"
    },
-   SBKM4H088: {
+   "SBKM4H088": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES MSCI EM CONSU GRO UCITSETF",
@@ -5129,7 +5129,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BKM4H08"
    },
-   SB81BLN78: {
+   "SB81BLN78": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL HIGH YIELD CORP BON",
@@ -5138,7 +5138,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B81BLN7"
    },
-   BRS91LTJ1: {
+   "BRS91LTJ1": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH UK GILTS 0-5 ETF GBP DIST",
@@ -5147,7 +5147,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4WXJK7"
    },
-   SB1G52Y38: {
+   "SB1G52Y38": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH CORE UK GLTS ETF GBP DIST",
@@ -5156,7 +5156,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B1G52Y3"
    },
-   SBCRY5Z81: {
+   "SBCRY5Z81": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ SHRT DUR CRP BD ETF GBP DIST",
@@ -5165,7 +5165,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY5Z8"
    },
-   SB1G52V07: {
+   "SB1G52V07": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GBP INDX-LNKD GLTS ETF GBP DIS",
@@ -5174,7 +5174,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B1G52V0"
    },
-   SB3WFDZ92: {
+   "SB3WFDZ92": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORP BD INTEREST RATE",
@@ -5183,7 +5183,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3WFDZ9"
    },
-   BRSCQ0X90: {
+   "BRSCQ0X90": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES  CORPORATE BOND 0-5YR UCIT",
@@ -5192,7 +5192,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B5L65R3"
    },
-   BRS91LTW2: {
+   "BRS91LTW2": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GBP CORP BND EX-FIN ETF GBP DI",
@@ -5201,7 +5201,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4L60H1"
    },
-   SB1G52W14: {
+   "SB1G52W14": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ TIPS UCITS ETF",
@@ -5210,7 +5210,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1G52W1"
    },
-   SBCRY5S14: {
+   "SBCRY5S14": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ CRP BD INT RTHDG ETF USD DST",
@@ -5219,7 +5219,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BCRY5S1"
    },
-   BRSG8VCM7: {
+   "BRSG8VCM7": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL AAA-AA GOVERNMENT B",
@@ -5228,7 +5228,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B87J6Y1"
    },
-   SB52YSM21: {
+   "SB52YSM21": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES MSCI AUSTRALIA UCITS ETF U",
@@ -5237,7 +5237,7 @@ var funds_full_hash = {
       risk_region_country: "Australia",
       SEDOL: "B52YSM2"
    },
-   SB7RRGX75: {
+   "SB7RRGX75": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES AUSTRIA GOVERNMENT BOND UC",
@@ -5246,7 +5246,7 @@ var funds_full_hash = {
       risk_region_country: "Austria",
       SEDOL: "B7RRGX7"
    },
-   SB7RRH897: {
+   "SB7RRH897": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES BELGIUM GOVERNMENT BOND UC",
@@ -5255,7 +5255,7 @@ var funds_full_hash = {
       risk_region_country: "Belgium",
       SEDOL: "B7RRH89"
    },
-   BRS91LTK8: {
+   "BRS91LTK8": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO COVERED BOND UCITS ET",
@@ -5264,7 +5264,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3B8Q27"
    },
-   SB7RRJ273: {
+   "SB7RRJ273": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GERMANY GOVERNMENT BOND UC",
@@ -5273,7 +5273,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B7RRJ27"
    },
-   SBCRY6111: {
+   "SBCRY6111": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ SHRTDR HY CP BD ETF USD DIST",
@@ -5282,7 +5282,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY611"
    },
-   SB4L62P33: {
+   "SB4L62P33": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES BC EU CP BD 1-5",
@@ -5291,7 +5291,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4L62P3"
    },
-   SB3DKXZ37: {
+   "SB3DKXZ37": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO AGGREGATE BOND UCITS",
@@ -5300,7 +5300,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3DKXZ3"
    },
-   SB4WXJR48: {
+   "SB4WXJR48": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES CORE EUROGOVBOND UCITS ETF",
@@ -5309,7 +5309,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B4WXJR4"
    },
-   SB2NPKV66: {
+   "SB2NPKV66": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES J.P. MORGAN $ EMER MKTS BD",
@@ -5318,7 +5318,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2NPKV6"
    },
-   SB58DV135: {
+   "SB58DV135": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING MARKETS LOCAL GOV",
@@ -5327,7 +5327,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B58DV13"
    },
-   SB7RRJW70: {
+   "SB7RRJW70": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES SPAIN GOVERNMENT BOND UCIT",
@@ -5336,7 +5336,7 @@ var funds_full_hash = {
       risk_region_country: "Spain",
       SEDOL: "B7RRJW7"
    },
-   SB7RRHH89: {
+   "SB7RRHH89": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES FINLAND GOVERNMENT BOND UC",
@@ -5345,7 +5345,7 @@ var funds_full_hash = {
       risk_region_country: "Finland",
       SEDOL: "B7RRHH8"
    },
-   SB7RRHQ71: {
+   "SB7RRHQ71": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES FRANCE GOVERNMENT BOND UCI",
@@ -5354,7 +5354,7 @@ var funds_full_hash = {
       risk_region_country: "France",
       SEDOL: "B7RRHQ7"
    },
-   SB6RQPH42: {
+   "SB6RQPH42": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING ASIA LOCAL GOVT B",
@@ -5363,7 +5363,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Emerging",
       SEDOL: "B6RQPH4"
    },
-   SB3B8PX18: {
+   "SB3B8PX18": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GLBL INFLATION LINKED GOVT",
@@ -5372,7 +5372,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3B8PX1"
    },
-   SB3F82G92: {
+   "SB3F82G92": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GLOBAL GOVERNMENT BOND UCI",
@@ -5381,7 +5381,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B3F82G9"
    },
-   SB650MJ92: {
+   "SB650MJ92": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES EURO HIGH YIELD CORPORATE",
@@ -5390,7 +5390,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B650MJ9"
    },
-   SB4QJ1490: {
+   "SB4QJ1490": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ HIGH YIELD CORPORATE BON",
@@ -5399,7 +5399,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4QJ149"
    },
-   SB7RRJ943: {
+   "SB7RRJ943": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES ITALY GOVERNMENT BOND UCIT",
@@ -5408,7 +5408,7 @@ var funds_full_hash = {
       risk_region_country: "Italy",
       SEDOL: "B7RRJ94"
    },
-   SB00FV010: {
+   "SB00FV010": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH CORE GBP CRP BND ETF GBP DIST",
@@ -5417,7 +5417,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B00FV01"
    },
-   SB7RRJJ42: {
+   "SB7RRJJ42": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES NETHERLANDS GOVERNMENT BON",
@@ -5426,7 +5426,7 @@ var funds_full_hash = {
       risk_region_country: "Netherlands",
       SEDOL: "B7RRJJ4"
    },
-   BRSCVE2N7: {
+   "BRSCVE2N7": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES US AGGREGATE BOND UCITS ET",
@@ -5435,7 +5435,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B462XP3"
    },
-   BRS91LRJ3: {
+   "BRS91LRJ3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH BRIC 50 ETF $ DIST",
@@ -5444,7 +5444,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B1W5MJ2"
    },
-   BRSHXH280: {
+   "BRSHXH280": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI BRAZIL ETF USD",
@@ -5453,7 +5453,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B516R22"
    },
-   BRSHXH298: {
+   "BRSHXH298": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI CHILE UCITS ETF",
@@ -5462,7 +5462,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B51GW50"
    },
-   BRSHXH2F4: {
+   "BRSHXH2F4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EM ASIA ETF $ ACC",
@@ -5471,7 +5471,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5149Q4"
    },
-   BRSHXH1K4: {
+   "BRSHXH1K4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EMU SMLL CAP ETF EUR ACC",
@@ -5480,7 +5480,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B52FJN3"
    },
-   BRSHXH231: {
+   "BRSHXH231": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU UCITS ETF",
@@ -5489,7 +5489,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5497R3"
    },
-   BRSHXH1X6: {
+   "BRSHXH1X6": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH DJ INDUST AV ETF $ ACC",
@@ -5498,7 +5498,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5175L0"
    },
-   BRSHXH2D9: {
+   "BRSHXH2D9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI KOREA ETF USD",
@@ -5507,7 +5507,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B552XD9"
    },
-   BRSHXH1Z1: {
+   "BRSHXH1Z1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSE MIB ETF EUR",
@@ -5516,7 +5516,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4XKCN1"
    },
-   BRSHXH272: {
+   "BRSHXH272": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -5525,7 +5525,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B558K81"
    },
-   BRSHXH2A5: {
+   "BRSHXH2A5": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI MEX CAPD ETF $ ACC",
@@ -5534,7 +5534,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B51PG22"
    },
-   BRSHXH3C0: {
+   "BRSHXH3C0": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH NK225 ETF ? ACC",
@@ -5543,7 +5543,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B502KH7"
    },
-   BRSHXH1Y4: {
+   "BRSHXH1Y4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES NASDAQ 100 UCITS ETF",
@@ -5552,7 +5552,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53HXJ2"
    },
-   BRSHXH207: {
+   "BRSHXH207": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CORE MSCI PAC EX-JPN ETF $ ACC",
@@ -5561,7 +5561,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B580X30"
    },
-   BRSHXH256: {
+   "BRSHXH256": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI RSSIA ADR/GDR ETF $ ACC",
@@ -5570,7 +5570,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B55LJY9"
    },
-   BRSHXH1W8: {
+   "BRSHXH1W8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CORE EURO STOX 50 ETF EUR ACC",
@@ -5579,7 +5579,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B520ZV8"
    },
-   BRSHXH3E6: {
+   "BRSHXH3E6": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI CANADA UCITS ETF",
@@ -5588,7 +5588,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4VG929"
    },
-   BRSHXH3H9: {
+   "BRSHXH3H9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (",
@@ -5597,7 +5597,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4Z1C21"
    },
-   BRSHXH1V0: {
+   "BRSHXH1V0": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CORE SP500 ETF $ ACC",
@@ -5606,7 +5606,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B521C87"
    },
-   BRSHXH3F3: {
+   "BRSHXH3F3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI UK ETF ? ACC",
@@ -5615,7 +5615,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53WKP2"
    },
-   BRSHXH215: {
+   "BRSHXH215": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI USA UCITS ETF",
@@ -5624,7 +5624,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B55Q955"
    },
-   BRSHXH2Q0: {
+   "BRSHXH2Q0": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI UK LRG CAP ETF ? ACC",
@@ -5633,7 +5633,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4Z7Q05"
    },
-   BRSHXH2R8: {
+   "BRSHXH2R8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI UK SMLL CAP ETF ? ACC",
@@ -5642,7 +5642,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4Z6YS6"
    },
-   BRSHXH3A4: {
+   "BRSHXH3A4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSE 100 ETF GBP ACC",
@@ -5651,7 +5651,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B518375"
    },
-   BRSHXH1J7: {
+   "BRSHXH1J7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI USA SMLL CAP ETF $ ACC",
@@ -5660,7 +5660,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4WB860"
    },
-   BRS91LPA4: {
+   "BRS91LPA4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EURO STOXX MID ETF EUR DIST",
@@ -5669,7 +5669,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B02KXL9"
    },
-   SB02KXM04: {
+   "SB02KXM04": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EURO STOX SMLL ETF EUR DIST",
@@ -5678,7 +5678,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B02KXM0"
    },
-   SBSL6V329: {
+   "SBSL6V329": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EURO GOVERNMENT BOND YR ETF",
@@ -5687,7 +5687,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BSL6V32"
    },
-   SB7SXJL32: {
+   "SB7SXJL32": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EM MINIMUM VOL",
@@ -5696,7 +5696,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B7SXJL3"
    },
-   S08471005: {
+   "S08471005": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EURO STOX 50 ETF EUR DIST",
@@ -5705,7 +5705,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "847100"
    },
-   SBCRY6772: {
+   "SBCRY6772": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU LARGE CAP UCITS E",
@@ -5714,7 +5714,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY677"
    },
-   SBCRY6889: {
+   "SBCRY6889": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU MID CAP UCITS ETF",
@@ -5723,7 +5723,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY688"
    },
-   SBVDPJP66: {
+   "SBVDPJP66": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EUR EXUK GBP HDG ETF DIST",
@@ -5732,7 +5732,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVDPJP6"
    },
-   SB02KXK89: {
+   "SB02KXK89": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CHINA LRG CAP ETF USD DIST",
@@ -5741,7 +5741,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B02KXK8"
    },
-   SBKM4H203: {
+   "SBKM4H203": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI USA DIV IQ ETF $ DIST",
@@ -5750,7 +5750,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BKM4H20"
    },
-   BRS91LPT3: {
+   "BRS91LPT3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH AEX ETF EUR DIST",
@@ -5759,7 +5759,7 @@ var funds_full_hash = {
       risk_region_country: "Netherlands",
       SEDOL: "B0M62Y3"
    },
-   SB14X4T85: {
+   "SB14X4T85": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES ASIA PACIFIC DIVIDEND UCIT",
@@ -5768,7 +5768,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Developed",
       SEDOL: "B14X4T8"
    },
-   SB1G53280: {
+   "SB1G53280": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ASIA PROP YLD ETF $ DIST",
@@ -5777,7 +5777,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B1G5328"
    },
-   SB0M63519: {
+   "SB0M63519": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI BRZL ETF USD ETF DIST",
@@ -5786,7 +5786,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B0M6351"
    },
-   BRS91LPR7: {
+   "BRS91LPR7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EUR TOT MK GRT LRG ETF EUR DST",
@@ -5795,7 +5795,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0M62V0"
    },
-   BRS91LPP1: {
+   "BRS91LPP1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EUR TOT MK VAL LRG ETF EUR DST",
@@ -5804,7 +5804,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0M62T8"
    },
-   BRS91LPM8: {
+   "BRS91LPM8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EUR DIV ETF EUR DIST",
@@ -5813,7 +5813,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0M62S7"
    },
-   SB0M63170: {
+   "SB0M63170": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -5822,7 +5822,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B0M6317"
    },
-   BRS91LPZ9: {
+   "BRS91LPZ9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EASTERN EUROPE CAPPED",
@@ -5831,7 +5831,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Emerging",
       SEDOL: "B0M6395"
    },
-   BRS91LT10: {
+   "BRS91LT10": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EMERGING MRKT INFRASTRUCTU",
@@ -5840,7 +5840,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2NPL13"
    },
-   SB54XHW05: {
+   "SB54XHW05": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE SRI ETF LSE",
@@ -5849,7 +5849,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B54XHW0"
    },
-   S04855227: {
+   "S04855227": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSEUROFRST 80 ETF EUR DIST",
@@ -5858,7 +5858,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "485522"
    },
-   S30974075: {
+   "S30974075": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSEUROFRST 100 ETF EUR DIST",
@@ -5867,7 +5867,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "3097407"
    },
-   BRS91LQ54: {
+   "BRS91LQ54": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE EX-UK UCITS ET",
@@ -5876,7 +5876,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B14X4N2"
    },
-   SB0M63733: {
+   "SB0M63733": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI AC FAR EAST EX-JAPAN",
@@ -5885,7 +5885,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B0M6373"
    },
-   BRSCQ1201: {
+   "BRSCQ1201": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH DJ GLBL SUST UCITS ETF $ ACC",
@@ -5894,7 +5894,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B52FK41"
    },
-   BRSCQ0XZ2: {
+   "BRSCQ0XZ2": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 GBP HDG ETF ACC",
@@ -5903,7 +5903,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3Y8X56"
    },
-   BRSCQ0YB4: {
+   "BRSCQ0YB4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI WRLD GBP HDG ETF ACC",
@@ -5912,7 +5912,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B42YS92"
    },
-   BRS91LRC8: {
+   "BRS91LRC8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES GLOBAL WATER UCITS ETF",
@@ -5921,7 +5921,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1TXK62"
    },
-   BRSF3SET4: {
+   "BRSF3SET4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI JPN GBP HDG ETF ACC",
@@ -5930,7 +5930,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B7XYN97"
    },
-   BRS2A4EE1: {
+   "BRS2A4EE1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (DIS)",
@@ -5939,7 +5939,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B02KXH5"
    },
-   SB0M63394: {
+   "SB0M63394": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (DIS)",
@@ -5948,7 +5948,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "B0M6339"
    },
-   BRS91LSM5: {
+   "BRS91LSM5": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EURP ETF EUR  DIST",
@@ -5957,7 +5957,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B1Z2TT9"
    },
-   BRS91LSC7: {
+   "BRS91LSC7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSE MIB ETF EUR DIST",
@@ -5966,7 +5966,7 @@ var funds_full_hash = {
       risk_region_country: "Italy",
       SEDOL: "B1Y9MY7"
    },
-   SB8FJBB58: {
+   "SB8FJBB58": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EURP MIN VOL ETF ? ACC",
@@ -5975,7 +5975,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8FJBB5"
    },
-   BRS91LQ39: {
+   "BRS91LQ39": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI NORTH AMERICA UCITS E",
@@ -5984,7 +5984,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "B14X4M1"
    },
-   BRS3UW0S9: {
+   "BRS3UW0S9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INFRASTRUCTURE UCIT",
@@ -5993,7 +5993,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1G5384"
    },
-   BRS91LSE3: {
+   "BRS91LSE3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CLEAN ENERGY UCITS",
@@ -6002,7 +6002,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1Y9MZ8"
    },
-   SB0M63287: {
+   "SB0M63287": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EURPAN PROP YLD ETF EUR DIST",
@@ -6011,7 +6011,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0M6328"
    },
-   BRS91LRA2: {
+   "BRS91LRA2": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES LISTED PRIVATE EQUITY UCIT",
@@ -6020,7 +6020,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B1TXHL6"
    },
-   BRS91LSX1: {
+   "BRS91LSX1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS ISLA",
@@ -6029,7 +6029,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B27YCP7"
    },
-   S05042452: {
+   "S05042452": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES CORE FTSE100UCITS ETF(DIST",
@@ -6038,7 +6038,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "504245"
    },
-   BRS91LT77: {
+   "BRS91LT77": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI AC F EAST EX-JAPAN SC",
@@ -6047,7 +6047,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B2QWDR1"
    },
-   SBP3QZK48: {
+   "SBP3QZK48": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI FRANCE UCITS ETF",
@@ -6056,7 +6056,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZK4"
    },
-   SB2QWDY80: {
+   "SB2QWDY80": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN SMALLCAP UCITS",
@@ -6065,7 +6065,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B2QWDY8"
    },
-   SB2QWCY17: {
+   "SB2QWCY17": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES S&P SMALLCAP 600 UCITS ETF",
@@ -6074,7 +6074,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2QWCY1"
    },
-   BRS91LSY9: {
+   "BRS91LSY9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI USA ISLAMIC UCITS ETF",
@@ -6083,7 +6083,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B296QM6"
    },
-   BRS91LSU7: {
+   "BRS91LSU7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD ISLAMIC UCITS E",
@@ -6092,7 +6092,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B27YCN5"
    },
-   SB1G53959: {
+   "SB1G53959": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY UCITS ETF",
@@ -6101,7 +6101,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B1G5395"
    },
-   SB0M63626: {
+   "SB0M63626": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI TAIWAN UCITS ETF",
@@ -6110,7 +6110,7 @@ var funds_full_hash = {
       risk_region_country: "Taiwan (Republic of China)",
       SEDOL: "B0M6362"
    },
-   BRS91LPV8: {
+   "BRS91LPV8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH UK DIV ETF GBP DIST",
@@ -6119,7 +6119,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B0M6306"
    },
-   S31442064: {
+   "S31442064": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES S&P 500 UCITS ETF (DIS)",
@@ -6128,7 +6128,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "3144206"
    },
-   SB1G53405: {
+   "SB1G53405": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH US PROP YLD ETF $ DIST",
@@ -6137,7 +6137,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1G5340"
    },
-   SB1G53629: {
+   "SB1G53629": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH DEV MKTS PROP YLD ETF $ DIST",
@@ -6146,7 +6146,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1G5362"
    },
-   SBP3QZ933: {
+   "SBP3QZ933": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI WLD MMT FCT ETF USD AC",
@@ -6155,7 +6155,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZ93"
    },
-   SBP3QZ719: {
+   "SBP3QZ719": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI WLD QUA FCT ETF USD AC",
@@ -6164,7 +6164,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZ71"
    },
-   SBP3QZF93: {
+   "SBP3QZF93": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI WLD SZE FCT ETF USD AC",
@@ -6173,7 +6173,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZF9"
    },
-   SBP3QZC62: {
+   "SBP3QZC62": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI WLD VAL FCT ETF USD AC",
@@ -6182,7 +6182,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZC6"
    },
-   SB0M62Q59: {
+   "SB0M62Q59": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD UCITS ETF (DIS)",
@@ -6191,7 +6191,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B0M62Q5"
    },
-   BRS91LST0: {
+   "BRS91LST0": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -6200,7 +6200,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "B27YCK2"
    },
-   SB00FV127: {
+   "SB00FV127": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FTSE 250 ETF GBP DIST",
@@ -6209,7 +6209,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B00FV12"
    },
-   SB894QH75: {
+   "SB894QH75": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI WRLD MIN VOL ETF $ ACC",
@@ -6218,7 +6218,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B894QH7"
    },
-   SB8BJ9609: {
+   "SB8BJ9609": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED SP500 MIN VOL ETF $ ACC",
@@ -6227,7 +6227,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8BJ960"
    },
-   SB60CDJ74: {
+   "SB60CDJ74": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EMERGING MARKETS DIVIDEND",
@@ -6236,7 +6236,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B60CDJ7"
    },
-   SB4L61123: {
+   "SB4L61123": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -6245,7 +6245,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B4L6112"
    },
-   SB3F82D61: {
+   "SB3F82D61": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS SMAL",
@@ -6254,7 +6254,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B3F82D6"
    },
-   SB3F82925: {
+   "SB3F82925": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI GCC EX-SAUDI ARABIA U",
@@ -6263,7 +6263,7 @@ var funds_full_hash = {
       risk_region_country: "Africa/Middle East Emerging",
       SEDOL: "B3F8292"
    },
-   SB4L61L21: {
+   "SB4L61L21": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES COREMSCI JAP IMI UCITS ETF",
@@ -6272,7 +6272,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B4L61L2"
    },
-   SB4L60K40: {
+   "SB4L60K40": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EUROPE UCITS ETF (ACC",
@@ -6281,7 +6281,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B4L60K4"
    },
-   BRSCYBLZ2: {
+   "BRSCYBLZ2": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH AGRIBUSINESS ETF $ ACC",
@@ -6290,7 +6290,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6R51S4"
    },
-   BRSCYBWN7: {
+   "BRSCYBWN7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES GOLD PRODUCERS UCITS ETF",
@@ -6299,7 +6299,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6R51R3"
    },
-   BRSCYBWD9: {
+   "BRSCYBWD9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES OIL & GAS EXPLORATION & PR",
@@ -6308,7 +6308,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B6R51Q2"
    },
-   SB4LVDS87: {
+   "SB4LVDS87": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI POLAND UCITS ETF",
@@ -6317,7 +6317,7 @@ var funds_full_hash = {
       risk_region_country: "Poland",
       SEDOL: "B4LVDS8"
    },
-   SB4WXJM92: {
+   "SB4WXJM92": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI PACIFIC EX-JAPAN UCIT",
@@ -6326,7 +6326,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B4WXJM9"
    },
-   SB52XR663: {
+   "SB52XR663": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI SOUTH AFRICA UCITS ET",
@@ -6335,7 +6335,7 @@ var funds_full_hash = {
       risk_region_country: "South Africa",
       SEDOL: "B52XR66"
    },
-   SB6R51T52: {
+   "SB6R51T52": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI ACWI UCITS ETF PLC",
@@ -6344,7 +6344,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6R51T5"
    },
-   SB4L60Z93: {
+   "SB4L60Z93": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI WORLD UCITS ETF",
@@ -6353,7 +6353,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B4L60Z9"
    },
-   SBD5J2M86: {
+   "SBD5J2M86": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50  EX-FINANCIA",
@@ -6362,7 +6362,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BD5J2M8"
    },
-   SBRHZ0390: {
+   "SBRHZ0390": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI TGT UK RL EST ETF GBP DIS",
@@ -6371,7 +6371,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BRHZ039"
    },
-   BRS91LSR4: {
+   "BRS91LSR4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TIMBER & FORESTRY U",
@@ -6380,7 +6380,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B27YCF7"
    },
-   SB4R1D939: {
+   "SB4R1D939": {
       market: "United Kingdom",
       asset_class: "Commodity",
       description: "ISHARES PHYSICAL GOLD ETC",
@@ -6389,7 +6389,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4R1D93"
    },
-   SB1TXLS18: {
+   "SB1TXLS18": {
       market: "United Kingdom",
       asset_class: "Speciality",
       description: "ISH UK PROP UCITS ETF GBP DIST",
@@ -6398,7 +6398,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B1TXLS1"
    },
-   SB4JV4D21: {
+   "SB4JV4D21": {
       market: "United Kingdom",
       asset_class: "Other",
       description: "ISHARES PHYSICAL PALLADIUM ETC",
@@ -6407,7 +6407,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4JV4D2"
    },
-   SB4LV3881: {
+   "SB4LV3881": {
       market: "United Kingdom",
       asset_class: "Other",
       description: "ISHARES PHYSICAL PLATINUM ETC",
@@ -6416,7 +6416,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4LV388"
    },
-   SB425ZM77: {
+   "SB425ZM77": {
       market: "United Kingdom",
       asset_class: "Other",
       description: "ISHARES PHYSICAL SILVER ETC",
@@ -6425,7 +6425,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B425ZM7"
    },
-   BRSHWWY00: {
+   "BRSHWWY00": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI UK UCITS ETF",
@@ -6434,7 +6434,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B539F03"
    },
-   BRSHWWX27: {
+   "BRSHWWX27": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI UK LARGE CAP UCITS ET",
@@ -6443,7 +6443,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWKZ0"
    },
-   BRSHWWX43: {
+   "BRSHWWX43": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI UK SMALL CAP UCITS ET",
@@ -6452,7 +6452,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWLG8"
    },
-   BRSHWWXX9: {
+   "BRSHWWXX9": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES FTSE 100 UCITS ETF (ACC)",
@@ -6461,7 +6461,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53HP85"
    },
-   BRSEVPWD7: {
+   "BRSEVPWD7": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (",
@@ -6470,7 +6470,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53QDK0"
    },
-   BRSEVPWF2: {
+   "BRSEVPWF2": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES NIKKEI 225 UCITS ETF",
@@ -6479,7 +6479,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B52MJD4"
    },
-   SB06BTN29: {
+   "SB06BTN29": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (DIS)",
@@ -6488,7 +6488,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B06BTN2"
    },
-   SB43YPB28: {
+   "SB43YPB28": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN SMALLCAP UCITS",
@@ -6497,7 +6497,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B43YPB2"
    },
-   SB4350Q52: {
+   "SB4350Q52": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES COREMSCI JAP IMI UCITS ETF",
@@ -6506,7 +6506,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B4350Q5"
    },
-   BRSQC6LT0: {
+   "BRSQC6LT0": {
       market: "Japan",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREAS BD 7-10YRUCITS ETF",
@@ -6515,7 +6515,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BSLSC79"
    },
-   S63974497: {
+   "S63974497": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES NIKKEI 225 ETF",
@@ -6524,7 +6524,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "6397449"
    },
-   BRSQFAB28: {
+   "BRSQFAB28": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES JPX-NIKKEI400 ETF",
@@ -6533,7 +6533,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "BSLS246"
    },
-   BRSW8U179: {
+   "BRSW8U179": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES TOPIX ETF",
@@ -6542,7 +6542,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "BZ1FCR9"
    },
-   BRSW8U1C8: {
+   "BRSW8U1C8": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES JAPAN REIT ETF",
@@ -6551,7 +6551,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "BZ1FCW4"
    },
-   BRSW8U1F1: {
+   "BRSW8U1F1": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN MINIMUM VOL",
@@ -6560,7 +6560,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "BZ1FD32"
    },
-   SBBMR5X34: {
+   "SBBMR5X34": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES MSCI KOKUSAI ETF-JDR TRUST",
@@ -6569,7 +6569,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BBMR5X3"
    },
-   SBBNBJQ52: {
+   "SBBNBJQ52": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EMERGING J",
@@ -6578,7 +6578,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BBNBJQ5"
    },
-   SBBNBJR69: {
+   "SBBNBJR69": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES MSCI FRONTIER 100 JD",
@@ -6587,7 +6587,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BBNBJR6"
    },
-   SBH36B119: {
+   "SBH36B119": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES S&P 100 ETF-JDR",
@@ -6596,7 +6596,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BH36B11"
    },
-   SBH36B226: {
+   "SBH36B226": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 ETF-JDR",
@@ -6605,7 +6605,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BH36B22"
    },
-   SBH36B333: {
+   "SBH36B333": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES CORE HIGH DIVIDEND ETF (TO",
@@ -6614,7 +6614,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BH36B33"
    },
-   SBH36B440: {
+   "SBH36B440": {
       market: "Japan",
       asset_class: "Equity",
       description: "ISHARES U.S. REAL ESTATE ETF-JDR T",
@@ -6623,7 +6623,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BH36B44"
    },
-   SB18TGF22: {
+   "SB18TGF22": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES CORE TOTAL US BOND MARKET",
@@ -6632,7 +6632,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B18TGF2"
    },
-   SB3MGNB89: {
+   "SB3MGNB89": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES  S&P VALMER MEXICO MEXICO",
@@ -6641,7 +6641,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3MGNB8"
    },
-   SB59ZTM56: {
+   "SB59ZTM56": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES INTERMEDIATE CREDIT BOND E",
@@ -6650,7 +6650,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B59ZTM5"
    },
-   SB9M1HM49: {
+   "SB9M1HM49": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 10+ YEAR CREDIT BOND ETF",
@@ -6659,7 +6659,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9M1HM4"
    },
-   SB43P3S86: {
+   "SB43P3S86": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES MEXICO CORPORATE BOND TRAC",
@@ -6668,7 +6668,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B43P3S8"
    },
-   SB58KWJ93: {
+   "SB58KWJ93": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES CORE US CREDIT BOND ETF (M",
@@ -6677,7 +6677,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B58KWJ9"
    },
-   SB5BJ2045: {
+   "SB5BJ2045": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 1-3 YEAR CREDIT BOND ETF",
@@ -6686,7 +6686,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B5BJ204"
    },
-   SB39P0G26: {
+   "SB39P0G26": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES JPMORGAN USD EMERGING MARK",
@@ -6695,7 +6695,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B39P0G2"
    },
-   SB9LZH162: {
+   "SB9LZH162": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES EMERGING MARKETS HIGH YIEL",
@@ -6704,7 +6704,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9LZH16"
    },
-   SB4YD2Q28: {
+   "SB4YD2Q28": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES EB REXX GOVERNMENT GER ETF",
@@ -6713,7 +6713,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B4YD2Q2"
    },
-   SB4XLQF46: {
+   "SB4XLQF46": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES EB.REXX GOVGERMANY 1.5 2.5",
@@ -6722,7 +6722,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B4XLQF4"
    },
-   SB7FL9Q55: {
+   "SB7FL9Q55": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES FLOATING RATE BOND ETF",
@@ -6731,7 +6731,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7FL9Q5"
    },
-   SB58K1703: {
+   "SB58K1703": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES INTERMEDIATE GOVT CREDIT B",
@@ -6740,7 +6740,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B58K170"
    },
-   SB2R9S328: {
+   "SB2R9S328": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES IBOXX $ HIGH YIELD CORPORA",
@@ -6749,7 +6749,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2R9S32"
    },
-   SB1Y9BN94: {
+   "SB1Y9BN94": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES EURO CORPORATE BOND LARGE",
@@ -6758,7 +6758,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B1Y9BN9"
    },
-   SB5229J06: {
+   "SB5229J06": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES EURO GOVERNMENT BOND 1-3YR",
@@ -6767,7 +6767,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B5229J0"
    },
-   SB4Z6K666: {
+   "SB4Z6K666": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES TREASURY BOND 7 10 ETF",
@@ -6776,7 +6776,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4Z6K66"
    },
-   SB57MW960: {
+   "SB57MW960": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 1-3YR UCIT",
@@ -6785,7 +6785,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B57MW96"
    },
-   SB033W874: {
+   "SB033W874": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 7-10 YEAR TREASURY BOND ET",
@@ -6794,7 +6794,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B033W87"
    },
-   SB2RFJW60: {
+   "SB2RFJW60": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 3-7 YEAR TREASURY BOND ETF",
@@ -6803,7 +6803,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2RFJW6"
    },
-   SB60QW366: {
+   "SB60QW366": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES UK GILTS 0-5YR UCITS ETF P",
@@ -6812,7 +6812,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B60QW36"
    },
-   SB537YB10: {
+   "SB537YB10": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES TIPS ETF",
@@ -6821,7 +6821,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B537YB1"
    },
-   SB29TNP72: {
+   "SB29TNP72": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES IBOXX $ INV GRADE CORPORAT",
@@ -6830,7 +6830,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B29TNP7"
    },
-   SB3M53939: {
+   "SB3M53939": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES  S&P VALMER MEXICO MEXICO",
@@ -6839,7 +6839,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3M5393"
    },
-   SB3M0VL61: {
+   "SB3M0VL61": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES S&P VALMER MEXICO MEXICO M",
@@ -6848,7 +6848,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3M0VL6"
    },
-   SB58G2D17: {
+   "SB58G2D17": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES MBS ETF",
@@ -6857,7 +6857,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B58G2D1"
    },
-   SB58T2967: {
+   "SB58T2967": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES US PREFERRED STOCK ETF",
@@ -6866,7 +6866,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B58T296"
    },
-   SB922GS63: {
+   "SB922GS63": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES AAA - A RATED CORPORATE BO",
@@ -6875,7 +6875,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B922GS6"
    },
-   SB58SM378: {
+   "SB58SM378": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES SHORT TREASURY BOND ETF",
@@ -6884,7 +6884,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B58SM37"
    },
-   SB033W767: {
+   "SB033W767": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 1-3 YEAR TREASURY BOND ETF",
@@ -6893,7 +6893,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B033W76"
    },
-   SB18XCV28: {
+   "SB18XCV28": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES TIPS BOND ETF TRUST",
@@ -6902,7 +6902,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B18XCV2"
    },
-   SB2RFJX77: {
+   "SB2RFJX77": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 10-20 YEAR TREASURY BOND E",
@@ -6911,7 +6911,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2RFJX7"
    },
-   SB034DG50: {
+   "SB034DG50": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES 20+ YEAR TREASURY BOND ETF",
@@ -6920,7 +6920,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B034DG5"
    },
-   SB3M0W351: {
+   "SB3M0W351": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "ISHARES  S&P VALMER MEXICO MEXICO",
@@ -6929,7 +6929,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3M0W35"
    },
-   SB68NB210: {
+   "SB68NB210": {
       market: "Mexico",
       asset_class: "Fixed Income",
       description: "iShs CAD ST Bnd Idx ETF (MXN)",
@@ -6938,7 +6938,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B68NB21"
    },
-   SB56MWP31: {
+   "SB56MWP31": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI ALL COUNTRY ASIA EX J",
@@ -6947,7 +6947,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B56MWP3"
    },
-   SB3D0N310: {
+   "SB3D0N310": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI ACWI ETF",
@@ -6956,7 +6956,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3D0N31"
    },
-   SB3D0N757: {
+   "SB3D0N757": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI ACWI EX US ETF",
@@ -6965,7 +6965,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3D0N75"
    },
-   SB2NTMQ72: {
+   "SB2NTMQ72": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI BRIC ETF",
@@ -6974,7 +6974,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2NTMQ7"
    },
-   SBZ2YY359: {
+   "SBZ2YY359": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE S&P  UCITS ETF",
@@ -6983,7 +6983,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BZ2YY35"
    },
-   SB668TB38: {
+   "SB668TB38": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES SELECT DIVIDEND ETF",
@@ -6992,7 +6992,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B668TB3"
    },
-   SBLWDMW97: {
+   "SBLWDMW97": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EMERGING MARKETS DIVIDEND",
@@ -7001,7 +7001,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLWDMW9"
    },
-   SB2R9S104: {
+   "SB2R9S104": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI CHILE CAPPED ETF",
@@ -7010,7 +7010,7 @@ var funds_full_hash = {
       risk_region_country: "Chile",
       SEDOL: "B2R9S10"
    },
-   SB67K4Y65: {
+   "SB67K4Y65": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI CHINA SMALL-CAP ETF",
@@ -7019,7 +7019,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B67K4Y6"
    },
-   SB947M145: {
+   "SB947M145": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI DENMARK CAPPED ETF",
@@ -7028,7 +7028,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B947M14"
    },
-   SB0BFVX36: {
+   "SB0BFVX36": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS ETF",
@@ -7037,7 +7037,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B0BFVX3"
    },
-   SB0BFW071: {
+   "SB0BFW071": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE ETF",
@@ -7046,7 +7046,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B0BFW07"
    },
-   SBLWDMS50: {
+   "SBLWDMS50": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MINVOL EAFE ETF(MXN)",
@@ -7055,7 +7055,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLWDMS5"
    },
-   SB5WN5062: {
+   "SB5WN5062": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE GROWTH ETF",
@@ -7064,7 +7064,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B5WN506"
    },
-   SB9M04H52: {
+   "SB9M04H52": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI FINLAND CAPPED ETF",
@@ -7073,7 +7073,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9M04H5"
    },
-   SB5VK2S56: {
+   "SB5VK2S56": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE VALUE ETF",
@@ -7082,7 +7082,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B5VK2S5"
    },
-   SB65F7S81: {
+   "SB65F7S81": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI INDONESIA ETF",
@@ -7091,7 +7091,7 @@ var funds_full_hash = {
       risk_region_country: "Indonesia",
       SEDOL: "B65F7S8"
    },
-   SBLWDMR44: {
+   "SBLWDMR44": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI IRELAND ETF",
@@ -7100,7 +7100,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLWDMR4"
    },
-   SB3D0N864: {
+   "SB3D0N864": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI ISRAEL CAPPED ETF",
@@ -7109,7 +7109,7 @@ var funds_full_hash = {
       risk_region_country: "Israel",
       SEDOL: "B3D0N86"
    },
-   SB4ZFQW15: {
+   "SB4ZFQW15": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EMERG MARKETS INFRASTRUCTU",
@@ -7118,7 +7118,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B4ZFQW1"
    },
-   SB9M1LH79: {
+   "SB9M1LH79": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI NORWAY CAPPED ETF",
@@ -7127,7 +7127,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9M1LH7"
    },
-   SB62Y8Y13: {
+   "SB62Y8Y13": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI NEW ZEALAND CAPPED ET",
@@ -7136,7 +7136,7 @@ var funds_full_hash = {
       risk_region_country: "New Zealand",
       SEDOL: "B62Y8Y1"
    },
-   SB4WC8M99: {
+   "SB4WC8M99": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI PHILIPPINES ETF",
@@ -7145,7 +7145,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4WC8M9"
    },
-   SB61TLL57: {
+   "SB61TLL57": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI POLAND CAPPED ETF",
@@ -7154,7 +7154,7 @@ var funds_full_hash = {
       risk_region_country: "Poland",
       SEDOL: "B61TLL5"
    },
-   SB0BFW188: {
+   "SB0BFW188": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI PACIFIC EX JAPAN ETF",
@@ -7163,7 +7163,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B0BFW18"
    },
-   SB4W0M103: {
+   "SB4W0M103": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI ALL PERU CAPPED ETF",
@@ -7172,7 +7172,7 @@ var funds_full_hash = {
       risk_region_country: "Peru",
       SEDOL: "B4W0M10"
    },
-   SB2R8R545: {
+   "SB2R8R545": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX 50 EUR UCITS ET",
@@ -7181,7 +7181,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B2R8R54"
    },
-   SB828J229: {
+   "SB828J229": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI USA ETF",
@@ -7190,7 +7190,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B828J22"
    },
-   SB2NB7Y67: {
+   "SB2NB7Y67": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRALIA ETF INC",
@@ -7199,7 +7199,7 @@ var funds_full_hash = {
       risk_region_country: "Australia",
       SEDOL: "B2NB7Y6"
    },
-   SB0BFVV12: {
+   "SB0BFVV12": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI CANADA ETF",
@@ -7208,7 +7208,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B0BFVV1"
    },
-   SB3X5T169: {
+   "SB3X5T169": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI SWEDEN CAP ETF",
@@ -7217,7 +7217,7 @@ var funds_full_hash = {
       risk_region_country: "Sweden",
       SEDOL: "B3X5T16"
    },
-   SB2NB7Z74: {
+   "SB2NB7Z74": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI GERMANY ETF",
@@ -7226,7 +7226,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B2NB7Z7"
    },
-   SB2NB7N51: {
+   "SB2NB7N51": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI HONG KONG ETF",
@@ -7235,7 +7235,7 @@ var funds_full_hash = {
       risk_region_country: "Hong Kong",
       SEDOL: "B2NB7N5"
    },
-   SB3LTF896: {
+   "SB3LTF896": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI BELGIUM CAPPED ETF",
@@ -7244,7 +7244,7 @@ var funds_full_hash = {
       risk_region_country: "Belgium",
       SEDOL: "B3LTF89"
    },
-   SB5V2MH05: {
+   "SB5V2MH05": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI SWITZERLAND CAPPED ET",
@@ -7253,7 +7253,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B5V2MH0"
    },
-   SB2NB7T14: {
+   "SB2NB7T14": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI NETHERLANDS ETF",
@@ -7262,7 +7262,7 @@ var funds_full_hash = {
       risk_region_country: "Netherlands",
       SEDOL: "B2NB7T1"
    },
-   SB2NB7X50: {
+   "SB2NB7X50": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRIA CAPPED ETF",
@@ -7271,7 +7271,7 @@ var funds_full_hash = {
       risk_region_country: "Austria",
       SEDOL: "B2NB7X5"
    },
-   SB2NB7V37: {
+   "SB2NB7V37": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI SPAIN CAPPED ETF",
@@ -7280,7 +7280,7 @@ var funds_full_hash = {
       risk_region_country: "Spain",
       SEDOL: "B2NB7V3"
    },
-   SB2NB7S07: {
+   "SB2NB7S07": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI FRANCE ETF",
@@ -7289,7 +7289,7 @@ var funds_full_hash = {
       risk_region_country: "France",
       SEDOL: "B2NB7S0"
    },
-   SB2NB7R99: {
+   "SB2NB7R99": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI SOUTH KOREA CAPPED ET",
@@ -7298,7 +7298,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "B2NB7R9"
    },
-   SB2NDBM85: {
+   "SB2NDBM85": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL CAPPED ETF",
@@ -7307,7 +7307,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B2NDBM8"
    },
-   SB67CJW55: {
+   "SB67CJW55": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL SMALL-CAP ETF",
@@ -7316,7 +7316,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B67CJW5"
    },
-   SB4YDB430: {
+   "SB4YDB430": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INDUSTRIALS ETF",
@@ -7325,7 +7325,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B4YDB43"
    },
-   SB57TL678: {
+   "SB57TL678": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE DAX UCITS ETF (DE)",
@@ -7334,7 +7334,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B57TL67"
    },
-   SB4YD2513: {
+   "SB4YD2513": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES STOXX EUROPE 600 UCITS (DE",
@@ -7343,7 +7343,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B4YD251"
    },
-   SB2NB8104: {
+   "SB2NB8104": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI SOUTH AFRICA ETF",
@@ -7352,7 +7352,7 @@ var funds_full_hash = {
       risk_region_country: "South Africa",
       SEDOL: "B2NB810"
    },
-   SB0BFVY43: {
+   "SB0BFVY43": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI EMU ETF",
@@ -7361,7 +7361,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B0BFVY4"
    },
-   SB9L76B58: {
+   "SB9L76B58": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI FRONTIER 100 ETF",
@@ -7370,7 +7370,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9L76B5"
    },
-   SB1SNWV21: {
+   "SB1SNWV21": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CHINA LARGE-CAP ETF",
@@ -7379,7 +7379,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B1SNWV2"
    },
-   SBWK2B175: {
+   "SBWK2B175": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI GERMA",
@@ -7388,7 +7388,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWK2B17"
    },
-   SBWK2B407: {
+   "SBWK2B407": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI EMU E",
@@ -7397,7 +7397,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWK2B40"
    },
-   SB65CFN08: {
+   "SB65CFN08": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHS US BROKER-DLRS & SEC EXCH ETF",
@@ -7406,7 +7406,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B65CFN0"
    },
-   SB65RX974: {
+   "SB65RX974": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US INSURANCE ETF",
@@ -7415,7 +7415,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B65RX97"
    },
-   SB65FDW42: {
+   "SB65FDW42": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US REGIONAL BANKS ETF",
@@ -7424,7 +7424,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B65FDW4"
    },
-   SB3M0Q776: {
+   "SB3M0Q776": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES NASDAQ BIOTECHNOLOGY ETF",
@@ -7433,7 +7433,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3M0Q77"
    },
-   SB4ZFXY26: {
+   "SB4ZFXY26": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CLEAN ENERGY ETF",
@@ -7442,7 +7442,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B4ZFXY2"
    },
-   SB3KS0D70: {
+   "SB3KS0D70": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES IRT COMPMX TOTAL RETURN TR",
@@ -7451,7 +7451,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3KS0D7"
    },
-   SB1Z9TT05: {
+   "SB1Z9TT05": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US UTILITIES ETF TRUST",
@@ -7460,7 +7460,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TT0"
    },
-   SB3LNHY16: {
+   "SB3LNHY16": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES INTERNATIONAL SELECT DIVID",
@@ -7469,7 +7469,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3LNHY1"
    },
-   SB9F9YP79: {
+   "SB9F9YP79": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EAFE ETF",
@@ -7478,7 +7478,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9F9YP7"
    },
-   SB8JZ0J09: {
+   "SB8JZ0J09": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EMERGING MARKETS",
@@ -7487,7 +7487,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8JZ0J0"
    },
-   SB1Z9TG74: {
+   "SB1Z9TG74": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US OIL & GAS EXPLORATION &",
@@ -7496,7 +7496,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TG7"
    },
-   SB0VYVK76: {
+   "SB0VYVK76": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EUROPE ETF TRUST",
@@ -7505,7 +7505,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B0VYVK7"
    },
-   SB6571J34: {
+   "SB6571J34": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US OIL EQUIPMENT & SERVICE",
@@ -7514,7 +7514,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B6571J3"
    },
-   SB3M0PR01: {
+   "SB3M0PR01": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EUROPE DEVELOPED REAL ESTA",
@@ -7523,7 +7523,7 @@ var funds_full_hash = {
       risk_region_country: "Europe All",
       SEDOL: "B3M0PR0"
    },
-   SB3M0PQ93: {
+   "SB3M0PQ93": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES INTERNATIONAL DEVELOPED RE",
@@ -7532,7 +7532,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3M0PQ9"
    },
-   SB51G6R00: {
+   "SB51G6R00": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INFRASTRUCTURE ETF",
@@ -7541,7 +7541,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B51G6R0"
    },
-   SB667GX17: {
+   "SB667GX17": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US PHARMACEUTICALS ETF",
@@ -7550,7 +7550,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B667GX1"
    },
-   SB64P1870: {
+   "SB64P1870": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US HEALTHCARE PROVIDERS ET",
@@ -7559,7 +7559,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B64P187"
    },
-   SB3MTK273: {
+   "SB3MTK273": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US MEDICAL DEVICES ETF",
@@ -7568,7 +7568,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3MTK27"
    },
-   SB031PG07: {
+   "SB031PG07": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE S&P MID-CAP ETF",
@@ -7577,7 +7577,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B031PG0"
    },
-   SB61GJ786: {
+   "SB61GJ786": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P MID-CAP 400 VALUE ETF",
@@ -7586,7 +7586,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B61GJ78"
    },
-   SB61DGJ09: {
+   "SB61DGJ09": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P MID-CAP 400 GROWTH ETF",
@@ -7595,7 +7595,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B61DGJ0"
    },
-   SBYSJTV01: {
+   "SBYSJTV01": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI JAPAN IMI UCITS",
@@ -7604,7 +7604,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BYSJTV0"
    },
-   SB031PH14: {
+   "SB031PH14": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE S&P SMALL-CAP ETF",
@@ -7613,7 +7613,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B031PH1"
    },
-   SB1ZC0963: {
+   "SB1ZC0963": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P SMALL-CAP 600 VALUE ET",
@@ -7622,7 +7622,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1ZC096"
    },
-   SB1ZC0B86: {
+   "SB1ZC0B86": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P SMALL-CAP 600 GROWTH E",
@@ -7631,7 +7631,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1ZC0B8"
    },
-   SB3KS0827: {
+   "SB3KS0827": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES IPC LARGE",
@@ -7640,7 +7640,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3KS082"
    },
-   SB0VYVL83: {
+   "SB0VYVL83": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES LATIN AMERICA 40 ETF",
@@ -7649,7 +7649,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "B0VYVL8"
    },
-   SB3KS0C63: {
+   "SB3KS0C63": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES IPC MIDCAP TOTAL RETURN TR",
@@ -7658,7 +7658,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3KS0C6"
    },
-   SB3KS0G02: {
+   "SB3KS0G02": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES INMEX TOTAL RETURN ETF",
@@ -7667,7 +7667,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "B3KS0G0"
    },
-   SB9N3CN52: {
+   "SB9N3CN52": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI INDIA ETF",
@@ -7676,7 +7676,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9N3CN5"
    },
-   SB6840J41: {
+   "SB6840J41": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES INDIA 50 ETF",
@@ -7685,7 +7685,7 @@ var funds_full_hash = {
       risk_region_country: "India",
       SEDOL: "B6840J4"
    },
-   SB05H0M78: {
+   "SB05H0M78": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL 100 ETF TRUST",
@@ -7694,7 +7694,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B05H0M7"
    },
-   SB1Z9TH81: {
+   "SB1Z9TH81": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US AEROSPACE & DEFENSE ETF",
@@ -7703,7 +7703,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TH8"
    },
-   SB1Z9TJ06: {
+   "SB1Z9TJ06": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US HOME CONSTRUCTION ETF",
@@ -7712,7 +7712,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TJ0"
    },
-   SB614YK08: {
+   "SB614YK08": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE S&P TOTAL US STOCK MA",
@@ -7721,7 +7721,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B614YK0"
    },
-   SB4Y2V628: {
+   "SB4Y2V628": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P 500 UCITS ETF (DIS)",
@@ -7730,7 +7730,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4Y2V62"
    },
-   BRT06W515: {
+   "BRT06W515": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE SP US GRTH ETF (MXN)",
@@ -7739,7 +7739,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7STJ55"
    },
-   BRT06W9H6: {
+   "BRT06W9H6": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE S&P US VALUE ETF (MXN",
@@ -7748,7 +7748,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B81SK31"
    },
-   SB1SNWY51: {
+   "SB1SNWY51": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P 500 VALUE ETF",
@@ -7757,7 +7757,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1SNWY5"
    },
-   SB031PF99: {
+   "SB031PF99": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE S&P  ETF",
@@ -7766,7 +7766,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B031PF9"
    },
-   SBRWQWW04: {
+   "SBRWQWW04": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P 500 PESO HEDGED TRAC",
@@ -7775,7 +7775,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "BRWQWW0"
    },
-   SB1SNWX45: {
+   "SB1SNWX45": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P 500 GROWTH ETF TRUST",
@@ -7784,7 +7784,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1SNWX4"
    },
-   SB0BJPF50: {
+   "SB0BJPF50": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 1000 ETF",
@@ -7793,7 +7793,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B0BJPF5"
    },
-   SBLWDMQ37: {
+   "SBLWDMQ37": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MICRO-CAP ETF",
@@ -7802,7 +7802,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLWDMQ3"
    },
-   SB7T8CK75: {
+   "SB7T8CK75": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 1000 VALUE ETF TRU",
@@ -7811,7 +7811,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7T8CK7"
    },
-   SB7T8KN66: {
+   "SB7T8KN66": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 1000 GROWTH ETF TR",
@@ -7820,7 +7820,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7T8KN6"
    },
-   SB0BJPG67: {
+   "SB0BJPG67": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 ETF",
@@ -7829,7 +7829,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B0BJPG6"
    },
-   SB7JKFP97: {
+   "SB7JKFP97": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 VALUE ETF",
@@ -7838,7 +7838,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7JKFP9"
    },
-   SB7T88W14: {
+   "SB7T88W14": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 2000 GROWTH ETF",
@@ -7847,7 +7847,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7T88W1"
    },
-   SB29NCX08: {
+   "SB29NCX08": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD UCITS ETF (DIS)",
@@ -7856,7 +7856,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B29NCX0"
    },
-   SB0BJPH74: {
+   "SB0BJPH74": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RUSSELL 3000 ETF",
@@ -7865,7 +7865,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B0BJPH7"
    },
-   SB51TQF70: {
+   "SB51TQF70": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL ENERGY ETF TRUST",
@@ -7874,7 +7874,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B51TQF7"
    },
-   SB54Z3173: {
+   "SB54Z3173": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL FINANCIALS ETF",
@@ -7883,7 +7883,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B54Z317"
    },
-   SB542YH17: {
+   "SB542YH17": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL HEALTHCARE ETF TRUS",
@@ -7892,7 +7892,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B542YH1"
    },
-   SB559F784: {
+   "SB559F784": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TECH ETF",
@@ -7901,7 +7901,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B559F78"
    },
-   SB6172B62: {
+   "SB6172B62": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TELECOM ETF TRUST",
@@ -7910,7 +7910,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6172B6"
    },
-   SB8KYLS27: {
+   "SB8KYLS27": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI TOTAL INTERNATIO",
@@ -7919,7 +7919,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8KYLS2"
    },
-   SB1Z9TQ73: {
+   "SB1Z9TQ73": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US CONSUMER SERVICES ETF",
@@ -7928,7 +7928,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TQ7"
    },
-   SB2844Y99: {
+   "SB2844Y99": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US ENERGY ETF",
@@ -7937,7 +7937,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2844Y9"
    },
-   SB1Z9TN43: {
+   "SB1Z9TN43": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US FINANCIALS ETF TRUST",
@@ -7946,7 +7946,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TN4"
    },
-   SB662LN12: {
+   "SB662LN12": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US FINANCIAL SERVICES ETF",
@@ -7955,7 +7955,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B662LN1"
    },
-   SB1Z9TL29: {
+   "SB1Z9TL29": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US HEALTHCARE ETF TRUST",
@@ -7964,7 +7964,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TL2"
    },
-   SB1Z9TK12: {
+   "SB1Z9TK12": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US INDUSTRIALS ETF TRUST",
@@ -7973,7 +7973,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TK1"
    },
-   SB1Z9TS97: {
+   "SB1Z9TS97": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US CONSUMER GOODS ETF",
@@ -7982,7 +7982,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TS9"
    },
-   SB1Z9TR80: {
+   "SB1Z9TR80": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US BASIC MATERIALS ETF",
@@ -7991,7 +7991,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TR8"
    },
-   SB62G5R90: {
+   "SB62G5R90": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US REAL ESTATE ETF TRUST",
@@ -8000,7 +8000,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B62G5R9"
    },
-   SB3PZC152: {
+   "SB3PZC152": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES TRANSPORTATION AVERAGE ETF",
@@ -8009,7 +8009,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3PZC15"
    },
-   SB1Z9TP66: {
+   "SB1Z9TP66": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US TECHNOLOGY ETF",
@@ -8018,7 +8018,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TP6"
    },
-   SB688MW36: {
+   "SB688MW36": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES DOW JONES US ETF",
@@ -8027,7 +8027,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B688MW3"
    },
-   SB1Z9TM36: {
+   "SB1Z9TM36": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES US TELECOMMUNICATIONS ETF",
@@ -8036,7 +8036,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1Z9TM3"
    },
-   SBSN5BS23: {
+   "SBSN5BS23": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES JPX-NIKKEI 400 ETF",
@@ -8045,7 +8045,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BSN5BS2"
    },
-   SB504XS54: {
+   "SB504XS54": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL UTILITIES ETF",
@@ -8054,7 +8054,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B504XS5"
    },
-   SB4ZVKT48: {
+   "SB4ZVKT48": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CONSUMER STAPLES ET",
@@ -8063,7 +8063,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B4ZVKT4"
    },
-   SB708QR13: {
+   "SB708QR13": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI CHINA ETF",
@@ -8072,7 +8072,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B708QR1"
    },
-   SBQY6ZY46: {
+   "SBQY6ZY46": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO MOMENTUM TRAC",
@@ -8081,7 +8081,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "BQY6ZY4"
    },
-   SBQY70080: {
+   "SBQY70080": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO RISK TRAC",
@@ -8090,7 +8090,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "BQY7008"
    },
-   SBSNBHW69: {
+   "SBSNBHW69": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA MOM FCT ETF(MXN)",
@@ -8099,7 +8099,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BSNBHW6"
    },
-   SBW9JPM86: {
+   "SBW9JPM86": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI EUROPE MIN VOL",
@@ -8108,7 +8108,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BW9JPM8"
    },
-   SB55HV525: {
+   "SB55HV525": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL MATERIALS ETF",
@@ -8117,7 +8117,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B55HV52"
    },
-   SBCKG0C33: {
+   "SBCKG0C33": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES NACIONAL FINANCIERA TRAC E",
@@ -8126,7 +8126,7 @@ var funds_full_hash = {
       risk_region_country: "Mexico",
       SEDOL: "BCKG0C3"
    },
-   SB0CHH856: {
+   "SB0CHH856": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P 100 ETF",
@@ -8135,7 +8135,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B0CHH85"
    },
-   SBSN5BN77: {
+   "SBSN5BN77": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA QUL FCT ETF(MXN)",
@@ -8144,7 +8144,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BSN5BN7"
    },
-   SBLWDMJ68: {
+   "SBLWDMJ68": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES RESIDENTIAL REAL ESTATE CA",
@@ -8153,7 +8153,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLWDMJ6"
    },
-   SB504GR52: {
+   "SB504GR52": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CONSUMER DISCRETION",
@@ -8162,7 +8162,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B504GR5"
    },
-   SB2R9S435: {
+   "SB2R9S435": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN SMALL-CAP ETF",
@@ -8171,7 +8171,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B2R9S43"
    },
-   SB2R9S658: {
+   "SB2R9S658": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE SMALL-CAP ETF",
@@ -8180,7 +8180,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B2R9S65"
    },
-   SBSN5BM60: {
+   "SBSN5BM60": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA SZ FCTR ETF(MXN)",
@@ -8189,7 +8189,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BSN5BM6"
    },
-   SB3MWFF43: {
+   "SB3MWFF43": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX BANKS (DE) ETF",
@@ -8198,7 +8198,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3MWFF4"
    },
-   SB3MX7K69: {
+   "SB3MX7K69": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES EURO STOXX TELECOMMUNICATI",
@@ -8207,7 +8207,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Developed",
       SEDOL: "B3MX7K6"
    },
-   SB3D0N971: {
+   "SB3D0N971": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI THAILAND CAPPED ETF",
@@ -8216,7 +8216,7 @@ var funds_full_hash = {
       risk_region_country: "Thailand",
       SEDOL: "B3D0N97"
    },
-   SB3D0NB94: {
+   "SB3D0NB94": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY ETF",
@@ -8225,7 +8225,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B3D0NB9"
    },
-   SB9BP1W58: {
+   "SB9BP1W58": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD ETF",
@@ -8234,7 +8234,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9BP1W5"
    },
-   SBSN56N29: {
+   "SBSN56N29": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA VAL FCT ETF(MXN)",
@@ -8243,7 +8243,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BSN56N2"
    },
-   SB55C0Y91: {
+   "SB55C0Y91": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES GLOBAL TIMBER & FORESTRY E",
@@ -8252,7 +8252,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B55C0Y9"
    },
-   SB1FLZ879: {
+   "SB1FLZ879": {
       market: "Mexico",
       asset_class: "Equity",
       description: "ISHARES S&P TSX 60 INDEX",
@@ -8261,7 +8261,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B1FLZ87"
    },
-   SBW9JPL79: {
+   "SBW9JPL79": {
       market: "Mexico",
       asset_class: "Commodity",
       description: "ISHARES COMMODITY OPTIMIZED ETF TR",
@@ -8270,7 +8270,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BW9JPL7"
    },
-   SB2RFJY84: {
+   "SB2RFJY84": {
       market: "Mexico",
       asset_class: "Commodity",
       description: "ISHARES S&P GSCI COMMODITY-INDEXED",
@@ -8279,7 +8279,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2RFJY8"
    },
-   SB06K7R98: {
+   "SB06K7R98": {
       market: "Mexico",
       asset_class: "Commodity",
       description: "ISHARES GOLD ETF TRUST",
@@ -8288,7 +8288,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B06K7R9"
    },
-   SB3BX1N89: {
+   "SB3BX1N89": {
       market: "Mexico",
       asset_class: "Commodity",
       description: "ISHARES SILVER ETF TRUST",
@@ -8297,7 +8297,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3BX1N8"
    },
-   SB93L5296: {
+   "SB93L5296": {
       market: "Mexico",
       asset_class: "Speciality",
       description: "ISHARES COHEN & STEERS REIT ETF",
@@ -8306,7 +8306,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B93L529"
    },
-   SBWLXC946: {
+   "SBWLXC946": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES MSCI EUROPE FINANCIALS ETF",
@@ -8315,7 +8315,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWLXC94"
    },
-   SBYT7H085: {
+   "SBYT7H085": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES CURRENCY HEDGED MSCI EMERG",
@@ -8324,7 +8324,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYT7H08"
    },
-   SBYT7H192: {
+   "SBYT7H192": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES CURRENCY HEDGED MSCI EAFE",
@@ -8333,7 +8333,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYT7H19"
    },
-   SBWK2B399: {
+   "SBWK2B399": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES CURRENCY HEDGED MSCI JAPAN",
@@ -8342,7 +8342,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWK2B39"
    },
-   SBD07RF59: {
+   "SBD07RF59": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES CORE MSCI EUROPE ETF",
@@ -8351,7 +8351,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD07RF5"
    },
-   SBD073M47: {
+   "SBD073M47": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES CORE MSCI PACIFIC ETF",
@@ -8360,7 +8360,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD073M4"
    },
-   SBYQT7741: {
+   "SBYQT7741": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES -5 YEAR HIGH YIELD CORPORA",
@@ -8369,7 +8369,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYQT774"
    },
-   SBYQT7Y17: {
+   "SBYQT7Y17": {
       market: "Mexico",
       asset_class: "Other",
       description: "ISHARES -5 YEAR INVEST GRADE CORPO",
@@ -8378,7 +8378,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYQT7Y1"
    },
-   SB5MR1K00: {
+   "SB5MR1K00": {
       market: "Singapore",
       asset_class: "Fixed Income",
       description: "ISHARES BARCLAYS USD ASIA HY BOND",
@@ -8387,7 +8387,7 @@ var funds_full_hash = {
       risk_region_country: "Singapore",
       SEDOL: "B5MR1K0"
    },
-   SB7R7KZ76: {
+   "SB7R7KZ76": {
       market: "Singapore",
       asset_class: "Fixed Income",
       description: "ISHARES USD ASIA BOND ETF",
@@ -8396,7 +8396,7 @@ var funds_full_hash = {
       risk_region_country: "Singapore",
       SEDOL: "B7R7KZ7"
    },
-   SB83F0634: {
+   "SB83F0634": {
       market: "Singapore",
       asset_class: "Equity",
       description: "ISHARES MSCI INDIA INDEX ETF",
@@ -8405,7 +8405,7 @@ var funds_full_hash = {
       risk_region_country: "Singapore",
       SEDOL: "B83F063"
    },
-   46434V787: {
+   "46434V787": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES YIELD OPTIMIZED BOND ETF",
@@ -8414,7 +8414,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLTW650"
    },
-   46431W812: {
+   "46431W812": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INT RT HED 10+ YR CREDIT B",
@@ -8423,7 +8423,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYVH4V6"
    },
-   46429B366: {
+   "46429B366": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CMBS ETF",
@@ -8432,7 +8432,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7GH0Z8"
    },
-   SB48X3P48: {
+   "SB48X3P48": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES S&P TSX CAD PRF IDX UNT ET",
@@ -8441,7 +8441,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B48X3P4"
    },
-   46431W820: {
+   "46431W820": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INT RT HED EM BD ETF",
@@ -8450,7 +8450,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYVH4W7"
    },
-   46435G474: {
+   "46435G474": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES FALLEN ANGELS USD BOND ETF",
@@ -8459,7 +8459,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BDC5YW3"
    },
-   46431W846: {
+   "46431W846": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHS EDG US FIXED INC BAL RISK ETF",
@@ -8468,7 +8468,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BW0DBL0"
    },
-   46429B655: {
+   "46429B655": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES FLOATING RATE BOND ETF",
@@ -8477,7 +8477,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3SRYM3"
    },
-   46429B333: {
+   "46429B333": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES GNMA BOND ETF",
@@ -8486,7 +8486,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B6Q8Q78"
    },
-   46429B267: {
+   "46429B267": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES US TREASURY BOND ETF",
@@ -8495,7 +8495,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B6XTKK5"
    },
-   46435G797: {
+   "46435G797": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHS CURR HDGD INTL HY BND ETF",
@@ -8504,7 +8504,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYW3NW7"
    },
-   46431W606: {
+   "46431W606": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTEREST RATE HEDGED HIGH",
@@ -8513,7 +8513,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN40JR6"
    },
-   46435G441: {
+   "46435G441": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES IBOXX $ HIGH YIELD EX OIL",
@@ -8522,7 +8522,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BDC5YX4"
    },
-   46435G672: {
+   "46435G672": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "iShares Core Intl Aggregate Bnd ET",
@@ -8531,7 +8531,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYQKX57"
    },
-   46432FAG2: {
+   "46432FAG2": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRBD MAR 2018 TRM CRP XFINETF",
@@ -8540,7 +8540,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BB22DK1"
    },
-   46432FAK3: {
+   "46432FAK3": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRBD MAR 2020 TRM CRP XFIN ETF",
@@ -8549,7 +8549,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BB22F27"
    },
-   46432FAN7: {
+   "46432FAN7": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRBD MAR 2023 TRM CRP XFIN ETF",
@@ -8558,7 +8558,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BBHX569"
    },
-   46432FAW7: {
+   "46432FAW7": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS MAR 2018 TERM CORP ETF",
@@ -8567,7 +8567,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BC9ZSL6"
    },
-   46432FBC0: {
+   "46432FBC0": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS MAR 2020 TERM CORP ETF",
@@ -8576,7 +8576,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BC9ZSM7"
    },
-   46432FAZ0: {
+   "46432FAZ0": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS MAR 2023 TERM CORP ETF",
@@ -8585,7 +8585,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BC9ZSN8"
    },
-   46434VAJ9: {
+   "46434VAJ9": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2016 TERM CORP ETF",
@@ -8594,7 +8594,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN56GY9"
    },
-   46434VAA8: {
+   "46434VAA8": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2018 TERM CORP ETF",
@@ -8603,7 +8603,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN56GW7"
    },
-   46434VAR1: {
+   "46434VAR1": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2017 TERM CORP ETF",
@@ -8612,7 +8612,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54L5"
    },
-   46434VAU4: {
+   "46434VAU4": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2019 TERM CORP ETF",
@@ -8621,7 +8621,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54C6"
    },
-   46434VAQ3: {
+   "46434VAQ3": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2020 TERM CORP ETF",
@@ -8630,7 +8630,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BT9QFC8"
    },
-   46434VBK5: {
+   "46434VBK5": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2021 TERM CORP ETF",
@@ -8639,7 +8639,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54K4"
    },
-   46434VBA7: {
+   "46434VBA7": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2022 TERM CORP ETF",
@@ -8648,7 +8648,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54G0"
    },
-   46434VAX8: {
+   "46434VAX8": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2023 TERM CORP ETF",
@@ -8657,7 +8657,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54J3"
    },
-   46434VBG4: {
+   "46434VBG4": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2024 TERM CORP ETF",
@@ -8666,7 +8666,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54D7"
    },
-   46434VBD1: {
+   "46434VBD1": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRS IBDS DEC 2025 TERM CORP ETF",
@@ -8675,7 +8675,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWC54H1"
    },
-   46435GAA0: {
+   "46435GAA0": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES IBONDS DEC 2026 TERM CORP",
@@ -8684,7 +8684,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD8CS15"
    },
-   46429B580: {
+   "46429B580": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRSBDS SEP 2018 TERM MUNI BD ETF",
@@ -8693,7 +8693,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7Y83N2"
    },
-   46429B564: {
+   "46429B564": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRSBDS SEP 2019 TERM MUNI BD ETF",
@@ -8702,7 +8702,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BJSVLG0"
    },
-   46434V571: {
+   "46434V571": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRSBDS SEP 2020 TERM MUNI BD ETF",
@@ -8711,7 +8711,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BQ1FYP8"
    },
-   46435G789: {
+   "46435G789": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRSBDS SEP 2021 TERM MUNI BD ETF",
@@ -8720,7 +8720,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYNJ3G8"
    },
-   46435G755: {
+   "46435G755": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHRSBDS SEP 2022 TERM MUNI BD ETF",
@@ -8729,7 +8729,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYNJ2V6"
    },
-   SB6089R53: {
+   "SB6089R53": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "iShs CAD Real Rtn Bd Idx ETF (OTC)",
@@ -8738,7 +8738,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B6089R5"
    },
-   SB4WM2W74: {
+   "SB4WM2W74": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "iShs CAD Hybrd Cp Bd Idx ETF (OTC)",
@@ -8747,7 +8747,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B4WM2W7"
    },
-   46434V878: {
+   "46434V878": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES ULTRA SHORT-TERM BOND ETF",
@@ -8756,7 +8756,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BH7CTW2"
    },
-   46435G102: {
+   "46435G102": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CONVERTIBLE BOND ETF",
@@ -8765,7 +8765,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYZFXF3"
    },
-   SB3Y95975: {
+   "SB3Y95975": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISH $ TIPS UCITS ETF $ ACC",
@@ -8774,7 +8774,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B3Y9597"
    },
-   SB3DGTJ70: {
+   "SB3DGTJ70": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISH EUR CRP BND LRG CAP ETF DIST",
@@ -8783,7 +8783,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3DGTJ7"
    },
-   46435G417: {
+   "46435G417": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE 5-10 YEAR USD BD ETF",
@@ -8792,7 +8792,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYMS6Q7"
    },
-   SB244PR32: {
+   "SB244PR32": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "iShs CAD ST Bnd Idx ETF (OTC)",
@@ -8801,7 +8801,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B244PR3"
    },
-   SB4V1FF95: {
+   "SB4V1FF95": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "IS CORE CANADIAN LT BOND IND ETF",
@@ -8810,7 +8810,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B4V1FF9"
    },
-   46429B135: {
+   "46429B135": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTERNATIONAL PREFERRED ST",
@@ -8819,7 +8819,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B6XTQ30"
    },
-   SB559VM58: {
+   "SB559VM58": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "iShs CAD Univ Bnd Idx ETF (OTC)",
@@ -8828,7 +8828,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B559VM5"
    },
-   SB62YMW71: {
+   "SB62YMW71": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES DEX ALL GOVERNMENT BOND ET",
@@ -8837,7 +8837,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B62YMW7"
    },
-   SB1W64555: {
+   "SB1W64555": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISH $ CRP BND ETF USD DIST",
@@ -8846,7 +8846,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B1W6455"
    },
-   46432F859: {
+   "46432F859": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE 1-5 YEAR USD BOND ETF",
@@ -8855,7 +8855,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B6XRXR7"
    },
-   46434V613: {
+   "46434V613": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES CORE TOTAL USD BOND MARKET",
@@ -8864,7 +8864,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN90WM7"
    },
-   46431W705: {
+   "46431W705": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES INTEREST RATE HEDGED CORPO",
@@ -8873,7 +8873,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN40JX2"
    },
-   46431W838: {
+   "46431W838": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHS SHRT MAT MUNI BD ETF",
@@ -8882,7 +8882,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BW9H5V1"
    },
-   46431W507: {
+   "46431W507": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES SHORT MATURITY BOND ETF",
@@ -8891,7 +8891,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BF2H6S3"
    },
-   46429B291: {
+   "46429B291": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES AAA - A RATED CORPORATE BO",
@@ -8900,7 +8900,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B7M1946"
    },
-   46434V407: {
+   "46434V407": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 0-5 YEAR HIGH YIELD CORPOR",
@@ -8909,7 +8909,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BFS2LL0"
    },
-   46434V100: {
+   "46434V100": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 0-5 YEAR INVEST GRADE CORP",
@@ -8918,7 +8918,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BFS2LK9"
    },
-   46429B747: {
+   "46429B747": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES 0-5 YEAR TIPS BOND ETF",
@@ -8927,7 +8927,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4N6VX2"
    },
-   46434V860: {
+   "46434V860": {
       market: "United States",
       asset_class: "Fixed Income",
       description: "ISHARES TREASURY FLOATING RATE BON",
@@ -8936,7 +8936,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BJS9476"
    },
-   46434V316: {
+   "46434V316": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI MULTIFCTR GLOBL ETF",
@@ -8945,7 +8945,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWTM3G7"
    },
-   46434V746: {
+   "46434V746": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MINVOL ASIA XJPN ETF",
@@ -8954,7 +8954,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN70HB3"
    },
-   SB01ZKB42: {
+   "SB01ZKB42": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH CORE FTSE 100 ETF GBP DIST",
@@ -8963,7 +8963,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B01ZKB4"
    },
-   SB7GXQY79: {
+   "SB7GXQY79": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CANADIAN IDX UNT ETF",
@@ -8972,7 +8972,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B7GXQY7"
    },
-   SB70Y0333: {
+   "SB70Y0333": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL AGRI INDX UNT ETF",
@@ -8981,7 +8981,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B70Y033"
    },
-   SB7TTNW91: {
+   "SB7TTNW91": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P GLBL WTR IDX UNT ETF",
@@ -8990,7 +8990,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B7TTNW9"
    },
-   46435G623: {
+   "46435G623": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MFC DISC ETF",
@@ -8999,7 +8999,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD02SM4"
    },
-   46435G615: {
+   "46435G615": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF CS ETF",
@@ -9008,7 +9008,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD02SQ8"
    },
-   46434V514: {
+   "46434V514": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI CHINA A ETF",
@@ -9017,7 +9017,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYM79X2"
    },
-   46434V464: {
+   "46434V464": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI ACWI LOW CARBON TARGE",
@@ -9026,7 +9026,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BT9Q3Y6"
    },
-   SB7TTMV11: {
+   "SB7TTMV11": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES BRIC INDEX UNT ETF",
@@ -9035,7 +9035,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B7TTMV1"
    },
-   SB06MLT51: {
+   "SB06MLT51": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE DAX UCITS ETF (DE)",
@@ -9044,7 +9044,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B06MLT5"
    },
-   46435G656: {
+   "46435G656": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES ADAPTIVE CURRENCY HEDGED M",
@@ -9053,7 +9053,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD0SQD9"
    },
-   46435G649: {
+   "46435G649": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES ADAPTIVE CURRENCY HEDGED M",
@@ -9062,7 +9062,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD0SXT4"
    },
-   46435G664: {
+   "46435G664": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES ADAPTIVE CURRENCY HEDGED M",
@@ -9071,7 +9071,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD0SXW7"
    },
-   46434V621: {
+   "46434V621": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE DIVIDEND GROWTH ETF",
@@ -9080,7 +9080,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN90WP0"
    },
-   46429B200: {
+   "46429B200": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI CHINA SMALL-CAP ETF",
@@ -9089,7 +9089,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B4NZ9J1"
    },
-   46429B523: {
+   "46429B523": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI DENMARK CAPPED ETF",
@@ -9098,7 +9098,7 @@ var funds_full_hash = {
       risk_region_country: "Denmark",
       SEDOL: "B58PLP3"
    },
-   46429B689: {
+   "46429B689": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MINVOL EAFE ETF(USD)",
@@ -9107,7 +9107,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B74T2D8"
    },
-   46429B515: {
+   "46429B515": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI FINLAND CAPPED ETF",
@@ -9116,7 +9116,7 @@ var funds_full_hash = {
       risk_region_country: "Finland",
       SEDOL: "B72X8K1"
    },
-   46429B309: {
+   "46429B309": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI INDONESIA ETF",
@@ -9125,7 +9125,7 @@ var funds_full_hash = {
       risk_region_country: "Indonesia",
       SEDOL: "B3X6KJ4"
    },
-   46429B507: {
+   "46429B507": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI IRELAND ETF",
@@ -9134,7 +9134,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B42W6Y7"
    },
-   46434G889: {
+   "46434G889": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MULTIFCTR EM ETF",
@@ -9143,7 +9143,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD3GP55"
    },
-   46429B499: {
+   "46429B499": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI NORWAY CAPPED ETF",
@@ -9152,7 +9152,7 @@ var funds_full_hash = {
       risk_region_country: "Norway",
       SEDOL: "B78LW85"
    },
-   46429B408: {
+   "46429B408": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI PHILIPPINES ETF",
@@ -9161,7 +9161,7 @@ var funds_full_hash = {
       risk_region_country: "Philippines",
       SEDOL: "B4PP7P1"
    },
-   46429B606: {
+   "46429B606": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI POLAND CAPPED ETF",
@@ -9170,7 +9170,7 @@ var funds_full_hash = {
       risk_region_country: "Poland",
       SEDOL: "B575DH0"
    },
-   46435G599: {
+   "46435G599": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF ENRGY ETF",
@@ -9179,7 +9179,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD6JHL1"
    },
-   46435G516: {
+   "46435G516": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE ESG OPTIM ETF",
@@ -9188,7 +9188,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD06LG1"
    },
-   46434G863: {
+   "46434G863": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EM ESG OPTIM ETF",
@@ -9197,7 +9197,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD06LN8"
    },
-   SB28ZLP22: {
+   "SB28ZLP22": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH MSCI TURKEY ETF $ DIST",
@@ -9206,7 +9206,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B28ZLP2"
    },
-   46434V720: {
+   "46434V720": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI MIN VOL EUROPE ETF",
@@ -9215,7 +9215,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN70HC4"
    },
-   46429B465: {
+   "46429B465": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI GERMANY SMALL-CAP ETF",
@@ -9224,7 +9224,7 @@ var funds_full_hash = {
       risk_region_country: "Germany",
       SEDOL: "B3W43T0"
    },
-   46429B416: {
+   "46429B416": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI UNITED KINGDOM SMALL-",
@@ -9233,7 +9233,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B7DQR02"
    },
-   46435G581: {
+   "46435G581": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF FIN ETF",
@@ -9242,7 +9242,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BDGNK92"
    },
-   46435G854: {
+   "46435G854": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI ACWI ETF",
@@ -9251,7 +9251,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSW0"
    },
-   46435G607: {
+   "46435G607": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI AUSTR",
@@ -9260,7 +9260,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSY2"
    },
-   46435G847: {
+   "46435G847": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS CCY MSCI ACWI EX U.S. ETF",
@@ -9269,7 +9269,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSX1"
    },
-   46435G565: {
+   "46435G565": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF HC ETF",
@@ -9278,7 +9278,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD02SK2"
    },
-   46429B663: {
+   "46429B663": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE HIGH DIVIDEND ETF",
@@ -9287,7 +9287,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B5BT1L8"
    },
-   46434G509: {
+   "46434G509": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI EMERG",
@@ -9296,7 +9296,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BR1HQY4"
    },
-   46434V803: {
+   "46434V803": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI EAFE",
@@ -9305,7 +9305,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BJN7914"
    },
-   46435G714: {
+   "46435G714": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MV EAFE CCY HDG ETF",
@@ -9314,7 +9314,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BZ1MW69"
    },
-   46434G871: {
+   "46434G871": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MINVOL EM CCY HD ETF",
@@ -9323,7 +9323,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BZ1MW70"
    },
-   46435G680: {
+   "46435G680": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS CCY MSCI EUR SM- CAP ETF",
@@ -9332,7 +9332,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BZ1MW81"
    },
-   46435G698: {
+   "46435G698": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MV EUR CCY HDG ETF",
@@ -9341,7 +9341,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BZ1MW92"
    },
-   46435G706: {
+   "46435G706": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI CANADA ETF",
@@ -9350,7 +9350,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYST7"
    },
-   46434V704: {
+   "46434V704": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI GERMA",
@@ -9359,7 +9359,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BJN7958"
    },
-   46435G821: {
+   "46435G821": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI ITALY ETF",
@@ -9368,7 +9368,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSR5"
    },
-   46434V886: {
+   "46434V886": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI JAPAN",
@@ -9377,7 +9377,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BJN79C5"
    },
-   46435G870: {
+   "46435G870": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI SWITZRLND ETF",
@@ -9386,7 +9386,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSQ4"
    },
-   46435G813: {
+   "46435G813": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI SPAIN ETF",
@@ -9395,7 +9395,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSP3"
    },
-   46435G862: {
+   "46435G862": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI UK ETF",
@@ -9404,7 +9404,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYT05"
    },
-   46435G805: {
+   "46435G805": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI MEXICO ETF",
@@ -9413,7 +9413,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSS6"
    },
-   46435G888: {
+   "46435G888": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CCY MSCI S KOREA ETF",
@@ -9422,7 +9422,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSZ3"
    },
-   46434V639: {
+   "46434V639": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CURRENCY HEDGED MSCI EMU E",
@@ -9431,7 +9431,7 @@ var funds_full_hash = {
       risk_region_country: "European Union",
       SEDOL: "BP480Z9"
    },
-   46435G722: {
+   "46435G722": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS CCY HDGD JPX-NIKKEI 400 ETF",
@@ -9440,7 +9440,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYXGTD8"
    },
-   46435G839: {
+   "46435G839": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS CCY MSCI EAFE SM-CAP ETF",
@@ -9449,7 +9449,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYRYSV9"
    },
-   46434G202: {
+   "46434G202": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI COLOMBIA CAPPED ETF",
@@ -9458,7 +9458,7 @@ var funds_full_hash = {
       risk_region_country: "Colombia",
       SEDOL: "BBP6Y85"
    },
-   46432F842: {
+   "46432F842": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EAFE ETF",
@@ -9467,7 +9467,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8JW585"
    },
-   46434G103: {
+   "46434G103": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EMERGING MARKETS",
@@ -9476,7 +9476,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8NDCB6"
    },
-   46434V738: {
+   "46434V738": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EUROPE ETF",
@@ -9485,7 +9485,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN90WN8"
    },
-   SB3KBSW19: {
+   "SB3KBSW19": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARE FTSE XINHUA A50 CHINA IDX E",
@@ -9494,7 +9494,7 @@ var funds_full_hash = {
       risk_region_country: "Hong Kong",
       SEDOL: "B3KBSW1"
    },
-   46435G524: {
+   "46435G524": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES INTERNATIONAL DIVIDEND GRO",
@@ -9503,7 +9503,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD8CQ44"
    },
-   BRS93NTP1: {
+   "BRS93NTP1": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH S&P 500 ETF USD DIST",
@@ -9512,7 +9512,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2Q8N35"
    },
-   SB39XY087: {
+   "SB39XY087": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH MSCI EURP EX-UK ETF EUR DIST",
@@ -9521,7 +9521,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B39XY08"
    },
-   SB2Q8M506: {
+   "SB2Q8M506": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH MSCI JPN USD ETF DIST",
@@ -9530,7 +9530,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B2Q8M50"
    },
-   SB3WF1F58: {
+   "SB3WF1F58": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH ASIA PAC DIV ETF USD DIST",
@@ -9539,7 +9539,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3WF1F5"
    },
-   SB3Y95C06: {
+   "SB3Y95C06": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH MSCI NRTH AMRICA ETF USD DIST",
@@ -9548,7 +9548,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3Y95C0"
    },
-   SB3WF1Z56: {
+   "SB3WF1Z56": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH MSCI EM LAT AMRICA ETF $ DIST",
@@ -9557,7 +9557,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3WF1Z5"
    },
-   46434V449: {
+   "46434V449": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI INTL MOM FACTOR ETF",
@@ -9566,7 +9566,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BVCY459"
    },
-   46429B598: {
+   "46429B598": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI INDIA ETF",
@@ -9575,7 +9575,7 @@ var funds_full_hash = {
       risk_region_country: "India",
       SEDOL: "B6XGR72"
    },
-   46435G557: {
+   "46435G557": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF INDUS ETF",
@@ -9584,7 +9584,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD02SN5"
    },
-   46434V274: {
+   "46434V274": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MULTIFCTR INTL ETF",
@@ -9593,7 +9593,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWTM2Z9"
    },
-   46434V696: {
+   "46434V696": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI PACIFIC ETF",
@@ -9602,7 +9602,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN90WL6"
    },
-   46434V456: {
+   "46434V456": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI INTL QUAL FACT ETF",
@@ -9611,7 +9611,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BVCY437"
    },
-   46434V266: {
+   "46434V266": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MULTFCT INT SMCP ETF",
@@ -9620,7 +9620,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWTM312"
    },
-   SB1W7CP47: {
+   "SB1W7CP47": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P TSX CAPPED MAT INDEX E",
@@ -9629,7 +9629,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B1W7CP4"
    },
-   SB01Y5R23: {
+   "SB01Y5R23": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI CHINA TRACKER ETF",
@@ -9638,7 +9638,7 @@ var funds_full_hash = {
       risk_region_country: "Hong Kong",
       SEDOL: "B01Y5R2"
    },
-   SB1634M98: {
+   "SB1634M98": {
       market: "United States",
       asset_class: "Equity",
       description: "ISH MSCI EASTN EUR CPD ETF USD DST",
@@ -9647,7 +9647,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B1634M9"
    },
-   46435G508: {
+   "46435G508": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI INTL SIZE FACTOR ET",
@@ -9656,7 +9656,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYNQJB6"
    },
-   SB06M9M48: {
+   "SB06M9M48": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES CDN S&P/TSX CAPPED FINANCI",
@@ -9665,7 +9665,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B06M9M4"
    },
-   SB1R9B813: {
+   "SB1R9B813": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P TSX CAPPED ENERGY ETF",
@@ -9674,7 +9674,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B1R9B81"
    },
-   SB244PS49: {
+   "SB244PS49": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI EAFE INDEX ETF",
@@ -9683,7 +9683,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B244PS4"
    },
-   SB1YWHS58: {
+   "SB1YWHS58": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P TSX CAPPED REIT INDX E",
@@ -9692,7 +9692,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B1YWHS5"
    },
-   46428M108: {
+   "46428M108": {
       market: "United States",
       asset_class: "Equity",
       description: "iShares S&P/TSX Global Gold Index",
@@ -9701,7 +9701,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B2QFBN2"
    },
-   SB06M9N54: {
+   "SB06M9N54": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES S&P TSX 60 INDEX ETF",
@@ -9710,7 +9710,7 @@ var funds_full_hash = {
       risk_region_country: "Canada",
       SEDOL: "B06M9N5"
    },
-   46435G409: {
+   "46435G409": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI INTL VALUE FCTR ETF",
@@ -9719,7 +9719,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYNNJ17"
    },
-   46432F834: {
+   "46432F834": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI TOTAL INTL STOCK ETF",
@@ -9728,7 +9728,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8DPR39"
    },
-   46434V712: {
+   "46434V712": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI MIN VOL JAPAN ETF",
@@ -9737,7 +9737,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BN70HD5"
    },
-   46434V423: {
+   "46434V423": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI SAUDI ARABIA CAPPED E",
@@ -9746,7 +9746,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BYQR2M8"
    },
-   46434V282: {
+   "46434V282": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI MULTIFACTOR USA ETF",
@@ -9755,7 +9755,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWTM3B2"
    },
-   46435G573: {
+   "46435G573": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MF MSCI MAT ETF",
@@ -9764,7 +9764,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD02SR9"
    },
-   46429B671: {
+   "46429B671": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI CHINA ETF",
@@ -9773,7 +9773,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B5LX1Z4"
    },
-   46435G532: {
+   "46435G532": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI GLOBAL IMPACT ETF",
@@ -9782,7 +9782,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD0Z3R3"
    },
-   46432F396: {
+   "46432F396": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA MOM FCT ETF(USD)",
@@ -9791,7 +9791,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B94W3K5"
    },
-   SB1P16R31: {
+   "SB1P16R31": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES NIKKEI 225 UCITS (DE) ETF",
@@ -9800,7 +9800,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B1P16R3"
    },
-   46434V779: {
+   "46434V779": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI QATAR CAPPED ETF",
@@ -9809,7 +9809,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLRKZL5"
    },
-   46432F339: {
+   "46432F339": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA QUL FCT ETF(USD)",
@@ -9818,7 +9818,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BCDL393"
    },
-   46434V647: {
+   "46434V647": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES GLOBAL REIT ETF",
@@ -9827,7 +9827,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BP49M12"
    },
-   46432F370: {
+   "46432F370": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA SZ FCTR ETF(USD)",
@@ -9836,7 +9836,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B9LHDX6"
    },
-   46429B614: {
+   "46429B614": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI INDIA SMALL-CAP ETF",
@@ -9845,7 +9845,7 @@ var funds_full_hash = {
       risk_region_country: "India",
       SEDOL: "B76QRD2"
    },
-   46434V290: {
+   "46434V290": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI MULTFCT USA SMCP ETF",
@@ -9854,7 +9854,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWTM378"
    },
-   46435G433: {
+   "46435G433": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDGE MSCI MIN VL US SM-CP ETF",
@@ -9863,7 +9863,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BDDW3N7"
    },
-   46435G540: {
+   "46435G540": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF TECH ETF",
@@ -9872,7 +9872,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD6JHK0"
    },
-   46434V761: {
+   "46434V761": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES MSCI UAE CAPPED ETF",
@@ -9881,7 +9881,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BLRKZP9"
    },
-   46429B697: {
+   "46429B697": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MIN VOL USA ETF",
@@ -9890,7 +9890,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B74T2B6"
    },
-   46435G631: {
+   "46435G631": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI MF UTIL ETF",
@@ -9899,7 +9899,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BD02SH9"
    },
-   46432F388: {
+   "46432F388": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHS EDG MSCI USA VAL FCT ETF(USD)",
@@ -9908,7 +9908,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B8PLRM4"
    },
-   46434V381: {
+   "46434V381": {
       market: "United States",
       asset_class: "Equity",
       description: "ISHARES EXPONENTIAL TECHNOLOGIES",
@@ -9917,7 +9917,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BWFRFF9"
    },
-   45032K102: {
+   "45032K102": {
       market: "United States",
       asset_class: "Commodity",
       description: "ISHARES COMMODITY OPTIMIZED TRUST",
@@ -9926,7 +9926,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BCZNHF1"
    },
-   46431W853: {
+   "46431W853": {
       market: "United States",
       asset_class: "Commodity",
       description: "ISHARES COMMODITIES SELECT STRATEG",
@@ -9935,7 +9935,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BRK1335"
    },
-   46428R107: {
+   "46428R107": {
       market: "United States",
       asset_class: "Commodity",
       description: "ISHARES GSCI COMMODITY INDEXED TRU",
@@ -9944,7 +9944,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B19FL43"
    },
-   46428Q109: {
+   "46428Q109": {
       market: "United States",
       asset_class: "Commodity",
       description: "ISHARES SILVER TRUST",
@@ -9953,7 +9953,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B13YTD1"
    },
-   46432F875: {
+   "46432F875": {
       market: "United States",
       asset_class: "Speciality",
       description: "ISHARES MORNINGSTAR MULTI-ASSET IN",
@@ -9962,7 +9962,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B7N3GY0"
    },
-   SBZ0XT173: {
+   "SBZ0XT173": {
       market: "United States",
       asset_class: "Other",
       description: "ISH ED MSCI WLD MLTIFTR ETF USD AC",
@@ -9971,7 +9971,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BZ0XT17"
    },
-   BRSHXH2Z0: {
+   "BRSHXH2Z0": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ TRES BND 7-10 ETF USD",
@@ -9980,7 +9980,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B50M721"
    },
-   BRSHXH2X5: {
+   "BRSHXH2X5": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ TRES BND 1-3 ETF USD",
@@ -9989,7 +9989,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5139V6"
    },
-   BRSHXH2Y3: {
+   "BRSHXH2Y3": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH USD TRES BND 3-7 ETF $ ACC",
@@ -9998,7 +9998,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4ZS7L6"
    },
-   SBKM4H195: {
+   "SBKM4H195": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH MSCI EM CONS GRTH ETF $ ACC",
@@ -10007,7 +10007,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BKM4H19"
    },
-   SB7J7TB48: {
+   "SB7J7TB48": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL CRP BND ETF USD DIST",
@@ -10016,7 +10016,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B7J7TB4"
    },
-   BRSEHPL86: {
+   "BRSEHPL86": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ EMERGING MARKETS CORP BD",
@@ -10025,7 +10025,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B6TLBW4"
    },
-   SBCRY6228: {
+   "SBCRY6228": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ ULTSHRT BND ETF USD DIST",
@@ -10034,7 +10034,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY622"
    },
-   BRSFSJQ07: {
+   "BRSFSJQ07": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "IS GLBL HY CP BD UCITS USD DIST",
@@ -10043,7 +10043,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B74DQ49"
    },
-   BRSG20MS7: {
+   "BRSG20MS7": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL AAA-AA GVT BND ETF $ DIST",
@@ -10052,7 +10052,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B87G8S0"
    },
-   SB1CDM072: {
+   "SB1CDM072": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 1-3YR UCIT",
@@ -10061,7 +10061,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1CDM07"
    },
-   SBSKRJZ46: {
+   "SBSKRJZ46": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ TRES BND 20+YR ETF USD DIST",
@@ -10070,7 +10070,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BSKRJZ4"
    },
-   SB1GJF353: {
+   "SB1GJF353": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 7-10YR UCI",
@@ -10079,7 +10079,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1GJF35"
    },
-   SB1GJFH90: {
+   "SB1GJFH90": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ TIPS UCITS ETF",
@@ -10088,7 +10088,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1GJFH9"
    },
-   SB2NXVM89: {
+   "SB2NXVM89": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES J.P. MORGAN $ EMER MKTS BD",
@@ -10097,7 +10097,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2NXVM8"
    },
-   SB5M4WH50: {
+   "SB5M4WH50": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EM LCL GVT BND ETF $ DIST",
@@ -10106,7 +10106,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B5M4WH5"
    },
-   BRSDSHQ06: {
+   "BRSDSHQ06": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH EM ASIA LCL GVT BND ETF $ DIST",
@@ -10115,7 +10115,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Emerging",
       SEDOL: "B6QGFW0"
    },
-   BRS93NR57: {
+   "BRS93NR57": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES GLBL INFLATION LINKED GOVT",
@@ -10124,7 +10124,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B3B8QD8"
    },
-   SB3F81K65: {
+   "SB3F81K65": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH GLBL GVT BND ETF $ DIST",
@@ -10133,7 +10133,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B3F81K6"
    },
-   BRSCVDXZ8: {
+   "BRSCVDXZ8": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH $ HY CRP BND ETF $ DIST",
@@ -10142,7 +10142,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B4PY7Y7"
    },
-   SBYZJCH08: {
+   "SBYZJCH08": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH US MBS ETF USD DIST",
@@ -10151,7 +10151,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BYZJCH0"
    },
-   BRSCYJNS9: {
+   "BRSCYJNS9": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH US AGG BND ETF $ DIST",
@@ -10160,7 +10160,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B44CGS9"
    },
-   S32895948: {
+   "S32895948": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORPORATE BOND UCITS ETF",
@@ -10169,7 +10169,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "3289594"
    },
-   SBCLWRB84: {
+   "SBCLWRB84": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORP BOND INT RATE HGD U",
@@ -10178,7 +10178,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCLWRB8"
    },
-   SBCRY6004: {
+   "SBCRY6004": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION HI YLD CO",
@@ -10187,7 +10187,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY600"
    },
-   SBCRY5Y74: {
+   "SBCRY5Y74": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISHARES $ SHORT DURATION CORPORATE",
@@ -10196,7 +10196,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCRY5Y7"
    },
-   SBVC3VM27: {
+   "SBVC3VM27": {
       market: "United Kingdom",
       asset_class: "Fixed Income",
       description: "ISH IBND SEP 2018 $ CRP ETF USD DS",
@@ -10205,7 +10205,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "BVC3VM2"
    },
-   SBYZK4663: {
+   "SBYZK4663": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH AGE POP ETF USD ACC",
@@ -10214,7 +10214,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BYZK466"
    },
-   BRSQ7NET7: {
+   "BRSQ7NET7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH US EQ BYBCK ACHVRS ETF USD ACC",
@@ -10223,7 +10223,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQT3VL9"
    },
-   SBJWHZQ29: {
+   "SBJWHZQ29": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI CANADA ETF $ ACC",
@@ -10232,7 +10232,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BJWHZQ2"
    },
-   BRSHXH3W6: {
+   "BRSHXH3W6": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EM ASIA UCITS ETF",
@@ -10241,7 +10241,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5L8K96"
    },
-   BRSHXH3P1: {
+   "BRSHXH3P1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -10250,7 +10250,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5KMFT4"
    },
-   BRSHXH389: {
+   "BRSHXH389": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES DOW JONES INDUSTRIAL AVERA",
@@ -10259,7 +10259,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4ZL5X3"
    },
-   SBJWHZC81: {
+   "SBJWHZC81": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI JPN ETF USD",
@@ -10268,7 +10268,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BJWHZC8"
    },
-   SB5WHFQ44: {
+   "SB5WHFQ44": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO CAPPED UCITS E",
@@ -10277,7 +10277,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5WHFQ4"
    },
-   BRSHXH397: {
+   "BRSHXH397": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH NASDAQ 100 ETF $ ACC",
@@ -10286,7 +10286,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B542V81"
    },
-   SBQT3WF06: {
+   "SBQT3WF06": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI CHINA A ETF USD ACC",
@@ -10295,7 +10295,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BQT3WF0"
    },
-   BRSHXH3D8: {
+   "BRSHXH3D8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES COREMSCIPACEXJAP UCITS ETF",
@@ -10304,7 +10304,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4ZYLW3"
    },
-   BRSHXH3Q9: {
+   "BRSHXH3Q9": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (ACC",
@@ -10313,7 +10313,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B59L7C9"
    },
-   BRSHXH3R7: {
+   "BRSHXH3R7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI CHILE UCITS ETF",
@@ -10322,7 +10322,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5NLL89"
    },
-   BRSHXH3U0: {
+   "BRSHXH3U0": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (ACC)",
@@ -10331,7 +10331,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5W4TY1"
    },
-   BRSHXH363: {
+   "BRSHXH363": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES CORE S&P 500 UCITS ETF",
@@ -10340,7 +10340,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B50YWZ5"
    },
-   BRSHXH3M8: {
+   "BRSHXH3M8": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI RUSSIA ADR GDR UCITS",
@@ -10349,7 +10349,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5V8739"
    },
-   BRSHXH3G1: {
+   "BRSHXH3G1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI USA ETF $ ACC",
@@ -10358,7 +10358,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B54F5T9"
    },
-   BRSHXH2T4: {
+   "BRSHXH2T4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI USA SMALL CAP UCITS E",
@@ -10367,7 +10367,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53N420"
    },
-   SB1W5NN39: {
+   "SB1W5NN39": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES BRIC 50 UCITS ETF",
@@ -10376,7 +10376,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B1W5NN3"
    },
-   SB2NXVD97: {
+   "SB2NXVD97": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EM INFRA UCITS ETF $ DIST",
@@ -10385,7 +10385,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B2NXVD9"
    },
-   SB1TYGH85: {
+   "SB1TYGH85": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH GLBL WTER ETF $ DIST",
@@ -10394,7 +10394,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1TYGH8"
    },
-   SB27Z1T73: {
+   "SB27Z1T73": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -10403,7 +10403,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "B27Z1T7"
    },
-   SB1Y9N226: {
+   "SB1Y9N226": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH GLBL CLN ENRGY ETF $ DIST",
@@ -10412,7 +10412,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1Y9N22"
    },
-   SB27Z1R59: {
+   "SB27Z1R59": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH GLBL TMBR & FRSTRY ETF $ DIST",
@@ -10421,7 +10421,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B27Z1R5"
    },
-   SBKM4GZ66: {
+   "SBKM4GZ66": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CORE MSCI EM IMI ETF USD ACC",
@@ -10430,7 +10430,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BKM4GZ6"
    },
-   SB8KGV553: {
+   "SB8KGV553": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI EM MIN VOL ETF $ ACC",
@@ -10439,7 +10439,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8KGV55"
    },
-   SBWZN1T30: {
+   "SBWZN1T30": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EMU USD HDG ETF",
@@ -10448,7 +10448,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BWZN1T3"
    },
-   BRSCYJHC1: {
+   "BRSCYJHC1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH GOLD PRODUCERS ETF $ ACC",
@@ -10457,7 +10457,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6R5203"
    },
-   SB5377D41: {
+   "SB5377D41": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI AUSTRALIA UCITS ETF U",
@@ -10466,7 +10466,7 @@ var funds_full_hash = {
       risk_region_country: "Australia",
       SEDOL: "B5377D4"
    },
-   SB1CDNF90: {
+   "SB1CDNF90": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES ASIA PACIFIC DIVIDEND UCIT",
@@ -10475,7 +10475,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Developed",
       SEDOL: "B1CDNF9"
    },
-   SB1CDJV75: {
+   "SB1CDJV75": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (DIS",
@@ -10484,7 +10484,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B1CDJV7"
    },
-   SB1CDHR90: {
+   "SB1CDHR90": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI EASTERN EUROPE CAPPED",
@@ -10493,7 +10493,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Emerging",
       SEDOL: "B1CDHR9"
    },
-   SB1CDGK57: {
+   "SB1CDGK57": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EM USD ETF DIST",
@@ -10502,7 +10502,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B1CDGK5"
    },
-   BRS93NU04: {
+   "BRS93NU04": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH FREST EX-JPN SMLL CP ETF $DIST",
@@ -10511,7 +10511,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B2QWF42"
    },
-   SB1CDJX99: {
+   "SB1CDJX99": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI FR EST EX-JPN ETF USD DST",
@@ -10520,7 +10520,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B1CDJX9"
    },
-   BRS93NTG1: {
+   "BRS93NTG1": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES CHINA LARGE CAP UCITS ETF",
@@ -10529,7 +10529,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B1CDKD6"
    },
-   SB1G53H35: {
+   "SB1G53H35": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH GLBL INFRA ETF $ DIST",
@@ -10538,7 +10538,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1G53H3"
    },
-   BRS93NU12: {
+   "BRS93NU12": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI JPN SMLL CAP ETF $ DIST",
@@ -10547,7 +10547,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B2QWFB9"
    },
-   SB1CDJZ14: {
+   "SB1CDJZ14": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI KOR USD ETF DIST",
@@ -10556,7 +10556,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "B1CDJZ1"
    },
-   SB1CDG612: {
+   "SB1CDG612": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI NORTH AMERICA UCITS E",
@@ -10565,7 +10565,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "B1CDG61"
    },
-   SB2QWF082: {
+   "SB2QWF082": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH S&P SMLL CAP 600 ETF $ DIST",
@@ -10574,7 +10574,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B2QWF08"
    },
-   BRS93NTJ5: {
+   "BRS93NTJ5": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH LSTD PRIVATE EQUITY ETF $ DIST",
@@ -10583,7 +10583,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1TYG23"
    },
-   SB1GJF023: {
+   "SB1GJF023": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY UCITS ETF",
@@ -10592,7 +10592,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B1GJF02"
    },
-   BRS93NU53: {
+   "BRS93NU53": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI TAIWN ETF USD DIST",
@@ -10601,7 +10601,7 @@ var funds_full_hash = {
       risk_region_country: "Taiwan (Republic of China)",
       SEDOL: "B1CDK14"
    },
-   SB1CDG497: {
+   "SB1CDG497": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES S&P 500 UCITS ETF (DIS)",
@@ -10610,7 +10610,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1CDG49"
    },
-   SB1CDGF04: {
+   "SB1CDGF04": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI WRLD ETF USD DIST",
@@ -10619,7 +10619,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B1CDGF0"
    },
-   BRSD3FBE3: {
+   "BRSD3FBE3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH EM DIV ETF $ DIST",
@@ -10628,7 +10628,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B652H90"
    },
-   BRS91LZV7: {
+   "BRS91LZV7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EM ETF $ ACC",
@@ -10637,7 +10637,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B4L5YC1"
    },
-   SB3F81G29: {
+   "SB3F81G29": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EM SMLL CAP ETF $ DIST",
@@ -10646,7 +10646,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B3F81G2"
    },
-   SBZ0PKS72: {
+   "SBZ0PKS72": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH ED MSCI USA MLTIFTR ETF USD AC",
@@ -10655,7 +10655,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BZ0PKS7"
    },
-   BRS91L8N5: {
+   "BRS91L8N5": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI GCC EXSDI ABIA ETF $ DIST",
@@ -10664,7 +10664,7 @@ var funds_full_hash = {
       risk_region_country: "Africa/Middle East Emerging",
       SEDOL: "B3F8162"
    },
-   BRSCQJEY5: {
+   "BRSCQJEY5": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES DJ GLBL SUSTAINABILITY SCR",
@@ -10673,7 +10673,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B57X3V8"
    },
-   BRS91LZX3: {
+   "BRS91LZX3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CORE MSCI JPN IMI ETF $ ACC",
@@ -10682,7 +10682,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B4L5YX2"
    },
-   SBCLWRG30: {
+   "SBCLWRG30": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI JPN USD HDG ETF ACC",
@@ -10691,7 +10691,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BCLWRG3"
    },
-   SB6W3RN03: {
+   "SB6W3RN03": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN UCITS ETF (DIS)",
@@ -10700,7 +10700,7 @@ var funds_full_hash = {
       risk_region_country: "Japan",
       SEDOL: "B6W3RN0"
    },
-   BRSCYJDD3: {
+   "BRSCYJDD3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH OIL&G EXP&PROD ETF $ ACC",
@@ -10709,7 +10709,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B6R51Z1"
    },
-   BRSCQ11M4: {
+   "BRSCQ11M4": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI POLAND ETF $ ACC",
@@ -10718,7 +10718,7 @@ var funds_full_hash = {
       risk_region_country: "Poland",
       SEDOL: "B4M7GH5"
    },
-   BRS91LZG0: {
+   "BRS91LZG0": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI PAC EX-JPN ETF $ DIST",
@@ -10727,7 +10727,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B4WXJD0"
    },
-   SB52XQP80: {
+   "SB52XQP80": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI STH AFRCA ETF $ ACC",
@@ -10736,7 +10736,7 @@ var funds_full_hash = {
       risk_region_country: "South Africa",
       SEDOL: "B52XQP8"
    },
-   SB6R52259: {
+   "SB6R52259": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI ACWI ETF $ ACC",
@@ -10745,7 +10745,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6R5225"
    },
-   BRS93NTR7: {
+   "BRS93NTR7": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI EM ISLAMIC ETF $ DIST",
@@ -10754,7 +10754,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B27Z227"
    },
-   BRS93NTS5: {
+   "BRS93NTS5": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI USA ISLAMIC ETF $ DIST",
@@ -10763,7 +10763,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B29HF11"
    },
-   BRS93NZC3: {
+   "BRS93NZC3": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI WRLD ISLAMIC ETF $ DIST",
@@ -10772,7 +10772,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B27Z216"
    },
-   SB4MCHD34: {
+   "SB4MCHD34": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 CONS DISC SCTR ETF $ ACC",
@@ -10781,7 +10781,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4MCHD3"
    },
-   SB42NKQ01: {
+   "SB42NKQ01": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 ENERGY SCTR ETF $ ACC",
@@ -10790,7 +10790,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B42NKQ0"
    },
-   SB4JNQZ43: {
+   "SB4JNQZ43": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 FIN SCTR ETF $ ACC",
@@ -10799,7 +10799,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B4JNQZ4"
    },
-   SB43HR371: {
+   "SB43HR371": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 HLTH CARE SCTR ETF $ ACC",
@@ -10808,7 +10808,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B43HR37"
    },
-   SB3WJKG10: {
+   "SB3WJKG10": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH SP500 IT SCTR ETF $ ACC",
@@ -10817,7 +10817,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3WJKG1"
    },
-   BRS91LZT2: {
+   "BRS91LZT2": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH CORE MSCI WORLD ETF $ ACC",
@@ -10826,7 +10826,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B4L5Y98"
    },
-   SBP3QZ826: {
+   "SBP3QZ826": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI WORLD MOMENTUM",
@@ -10835,7 +10835,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZ82"
    },
-   SBP3QZ602: {
+   "SBP3QZ602": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI WRLD QUALITY FAC",
@@ -10844,7 +10844,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZ60"
    },
-   SBP3QZD79: {
+   "SBP3QZD79": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI WRLD SIZE FACTOR",
@@ -10853,7 +10853,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZD7"
    },
-   SBP3QZB55: {
+   "SBP3QZB55": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI WORLD VALUE",
@@ -10862,7 +10862,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZB5"
    },
-   SB8FHGS10: {
+   "SB8FHGS10": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE MSCI WORLD MIN VOL",
@@ -10871,7 +10871,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B8FHGS1"
    },
-   SBKM4H310: {
+   "SBKM4H310": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES MSCI USA DIV IQ UCITS ETF",
@@ -10880,7 +10880,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BKM4H31"
    },
-   SB6SPMN58: {
+   "SB6SPMN58": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES EDGE S&P 500 MIN VOL",
@@ -10889,7 +10889,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B6SPMN5"
    },
-   SBYVJRR94: {
+   "SBYVJRR94": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI USA SRI ETF USD ACC",
@@ -10898,7 +10898,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BYVJRR9"
    },
-   SBP3QZG01: {
+   "SBP3QZG01": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISHARES TA-35 ISRAEL UCITS ETF",
@@ -10907,7 +10907,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3QZG0"
    },
-   SBRHZ0622: {
+   "SBRHZ0622": {
       market: "United Kingdom",
       asset_class: "Equity",
       description: "ISH MSCI TGT US RL EST ETF $ DIST",
@@ -10916,7 +10916,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BRHZ062"
    },
-   BRSCDR8B8: {
+   "BRSCDR8B8": {
       market: "United Kingdom",
       asset_class: "Commodity",
       description: "ISHARES PHYSICAL GOLD",
@@ -10925,7 +10925,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4ND360"
    },
-   BRSCYJMY7: {
+   "BRSCYJMY7": {
       market: "United Kingdom",
       asset_class: "Commodity",
       description: "ISHARES AGRIBUSINESS UCITS ETF",
@@ -10934,7 +10934,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B6R5214"
    },
-   BRS93NSZ0: {
+   "BRS93NSZ0": {
       market: "United Kingdom",
       asset_class: "Speciality",
       description: "ISHARES ASIA PROPERTY YIELD UCITS",
@@ -10943,7 +10943,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B1G53C8"
    },
-   BRS91M6H8: {
+   "BRS91M6H8": {
       market: "United Kingdom",
       asset_class: "Speciality",
       description: "ISHARES US PROPERTY YIELD UCITS ET",
@@ -10952,7 +10952,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1GJDY2"
    },
-   SB1G53G28: {
+   "SB1G53G28": {
       market: "United Kingdom",
       asset_class: "Speciality",
       description: "ISHARES DEVELOPED MARKETS PROP YLD",
@@ -10961,7 +10961,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1G53G2"
    },
-   BRSCDR901: {
+   "BRSCDR901": {
       market: "United Kingdom",
       asset_class: "Other",
       description: "ISHARES PHYSICAL PALLADIUM ETC",
@@ -10970,7 +10970,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4556L0"
    },
-   SB4LHWP68: {
+   "SB4LHWP68": {
       market: "United Kingdom",
       asset_class: "Other",
       description: "ISHARES PHYSICAL PLATINUM ETC",
@@ -10979,7 +10979,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4LHWP6"
    },
-   BRSCDRVJ5: {
+   "BRSCDRVJ5": {
       market: "United Kingdom",
       asset_class: "Other",
       description: "ISHARES PHYSICAL SILVER ETC",
@@ -10988,7 +10988,7 @@ var funds_full_hash = {
       risk_region_country: "United Kingdom",
       SEDOL: "B4NCWG0"
    },
-   BRSHWWXB7: {
+   "BRSHWWXB7": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 7-10yr UC",
@@ -10997,7 +10997,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWN51"
    },
-   BRSHWWX92: {
+   "BRSHWWX92": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 1-3yr UC",
@@ -11006,7 +11006,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWN17"
    },
-   BRSHWWXA9: {
+   "BRSHWWXA9": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "iShares $ Treasury Bond 3-7yr UC",
@@ -11015,7 +11015,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWN39"
    },
-   SB1S54J01: {
+   "SB1S54J01": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 7-10YR UCI",
@@ -11024,7 +11024,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1S54J0"
    },
-   SB1FL8119: {
+   "SB1FL8119": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ TREASURY BOND 1-3YR UCIT",
@@ -11033,7 +11033,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1FL811"
    },
-   SB5NVS667: {
+   "SB5NVS667": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES J.P. MORGAN $ EMER MKTS BD",
@@ -11042,7 +11042,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B5NVS66"
    },
-   SB424JD33: {
+   "SB424JD33": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES GLBL INFLATION LINKED GOVT",
@@ -11051,7 +11051,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B424JD3"
    },
-   SB1S57681: {
+   "SB1S57681": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ TIPS UCITS ETF",
@@ -11060,7 +11060,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1S5768"
    },
-   SB11XF657: {
+   "SB11XF657": {
       market: "Switzerland",
       asset_class: "Fixed Income",
       description: "ISHARES $ CORPORATE BOND UCITS ETF",
@@ -11069,7 +11069,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B11XF65"
    },
-   SBVDPS600: {
+   "SBVDPS600": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES US EQUITY BUYBACK ACHIEVER",
@@ -11078,7 +11078,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVDPS60"
    },
-   BRS93NT48: {
+   "BRS93NT48": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES BRIC 50 UCITS ETF",
@@ -11087,7 +11087,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B28PMV5"
    },
-   SBP3R1218: {
+   "SBP3R1218": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS CNSM",
@@ -11096,7 +11096,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3R121"
    },
-   BRSHWWY83: {
+   "BRSHWWY83": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (ACC",
@@ -11105,7 +11105,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B625T29"
    },
-   SB60KYN25: {
+   "SB60KYN25": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI CHILE UCITS ETF",
@@ -11114,7 +11114,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B60KYN2"
    },
-   BRSHWWYE0: {
+   "BRSHWWYE0": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EM ASIA UCITS ETF",
@@ -11123,7 +11123,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5ZY108"
    },
-   BRSHWWY75: {
+   "BRSHWWY75": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -11132,7 +11132,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5ZR583"
    },
-   BRSHWWXN1: {
+   "BRSHWWXN1": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES DOW JONES INDUSTRIAL AVERA",
@@ -11141,7 +11141,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53L435"
    },
-   BRSHWWYB6: {
+   "BRSHWWYB6": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (ACC)",
@@ -11150,7 +11150,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3NBPJ4"
    },
-   SB66SMY77: {
+   "SB66SMY77": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI MEXICO CAPPED UCITS E",
@@ -11159,7 +11159,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B66SMY7"
    },
-   BRSHWWXU5: {
+   "BRSHWWXU5": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES NASDAQ 100 UCITS ETF",
@@ -11168,7 +11168,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B53SZB1"
    },
-   BRSHWWXZ4: {
+   "BRSHWWXZ4": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES COREMSCIPACEXJAP UCITS ETF",
@@ -11177,7 +11177,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B52MJY5"
    },
-   BRSHWWY59: {
+   "BRSHWWY59": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI RUSSIA ADR GDR UCITS",
@@ -11186,7 +11186,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B625ML9"
    },
-   BRSHWWXK7: {
+   "BRSHWWXK7": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES CORE S&P 500 UCITS ETF",
@@ -11195,7 +11195,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B5BMR08"
    },
-   BRSHWWY26: {
+   "BRSHWWY26": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI USA UCITS ETF",
@@ -11204,7 +11204,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B52SFT0"
    },
-   BRSHWWX76: {
+   "BRSHWWX76": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI USA SMALL CAP UCITS E",
@@ -11213,7 +11213,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "B3VWM09"
    },
-   SBP3R1549: {
+   "SBP3R1549": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI EMERGING MARKETS",
@@ -11222,7 +11222,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3R154"
    },
-   SB06BTQ59: {
+   "SB06BTQ59": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES CHINA LARGE CAP UCITS ETF",
@@ -11231,7 +11231,7 @@ var funds_full_hash = {
       risk_region_country: "China",
       SEDOL: "B06BTQ5"
    },
-   SB1FL6P17: {
+   "SB1FL6P17": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES ASIA PACIFIC DIVIDEND UCIT",
@@ -11240,7 +11240,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Developed",
       SEDOL: "B1FL6P1"
    },
-   SB11XDY93: {
+   "SB11XDY93": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI BRAZIL UCITS ETF (DIS",
@@ -11249,7 +11249,7 @@ var funds_full_hash = {
       risk_region_country: "Brazil",
       SEDOL: "B11XDY9"
    },
-   SBH0WHK38: {
+   "SBH0WHK38": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES S&P SMALLCAP 600 UCITS ETF",
@@ -11258,7 +11258,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BH0WHK3"
    },
-   SB11XDT40: {
+   "SB11XDT40": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -11267,7 +11267,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B11XDT4"
    },
-   BRSBHVDU9: {
+   "BRSBHVDU9": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EASTERN EUROPE CAPPED",
@@ -11276,7 +11276,7 @@ var funds_full_hash = {
       risk_region_country: "Europe Emerging",
       SEDOL: "B11XDV6"
    },
-   SB436VV08: {
+   "SB436VV08": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES EMERGING MRKT INFRASTRUCTU",
@@ -11285,7 +11285,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B436VV0"
    },
-   SB55CLK25: {
+   "SB55CLK25": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS SMAL",
@@ -11294,7 +11294,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B55CLK2"
    },
-   BRS93NTN6: {
+   "BRS93NTN6": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI AC FAR EAST EX-JAPAN",
@@ -11303,7 +11303,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B11XDS3"
    },
-   SB28PMZ95: {
+   "SB28PMZ95": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES GLOBAL WATER UCITS ETF",
@@ -11312,7 +11312,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B28PMZ9"
    },
-   SBG5HCX40: {
+   "SBG5HCX40": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI JAPAN USD HEDGED UCIT",
@@ -11321,7 +11321,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BG5HCX4"
    },
-   BRS93NTV8: {
+   "BRS93NTV8": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI KOREA UCITS ETF (DIS)",
@@ -11330,7 +11330,7 @@ var funds_full_hash = {
       risk_region_country: "Korea (South), Republic of",
       SEDOL: "B11XDX8"
    },
-   SB1FL7W58: {
+   "SB1FL7W58": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI NORTH AMERICA UCITS E",
@@ -11339,7 +11339,7 @@ var funds_full_hash = {
       risk_region_country: "North America Developed",
       SEDOL: "B1FL7W5"
    },
-   SB1S5D829: {
+   "SB1S5D829": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES GLOBAL INFRASTRUCTURE UCIT",
@@ -11348,7 +11348,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1S5D82"
    },
-   SB28PN349: {
+   "SB28PN349": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES GLOBAL CLEAN ENERGY UCITS",
@@ -11357,7 +11357,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B28PN34"
    },
-   SB28PMX71: {
+   "SB28PMX71": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES LISTED PRIVATE EQUITY UCIT",
@@ -11366,7 +11366,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B28PMX7"
    },
-   SB4K3NW91: {
+   "SB4K3NW91": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI AC F EAST EX-JAPAN SC",
@@ -11375,7 +11375,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B4K3NW9"
    },
-   SB1S5F204: {
+   "SB1S5F204": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI TURKEY UCITS ETF",
@@ -11384,7 +11384,7 @@ var funds_full_hash = {
       risk_region_country: "Turkey",
       SEDOL: "B1S5F20"
    },
-   SB11XDW79: {
+   "SB11XDW79": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI TAIWAN UCITS ETF",
@@ -11393,7 +11393,7 @@ var funds_full_hash = {
       risk_region_country: "Taiwan (Republic of China)",
       SEDOL: "B11XDW7"
    },
-   S77193548: {
+   "S77193548": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES S&P 500 UCITS ETF (DIS)",
@@ -11402,7 +11402,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "7719354"
    },
-   SB1S5BZ56: {
+   "SB1S5BZ56": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES US PROPERTY YIELD UCITS ET",
@@ -11411,7 +11411,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "B1S5BZ5"
    },
-   SB1S5CN08: {
+   "SB1S5CN08": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES DEVELOPED MARKETS PROP YLD",
@@ -11420,7 +11420,7 @@ var funds_full_hash = {
       risk_region_country: "World All",
       SEDOL: "B1S5CN0"
    },
-   SB11XDR26: {
+   "SB11XDR26": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI WORLD UCITS ETF (DIS)",
@@ -11429,7 +11429,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B11XDR2"
    },
-   SB2QBZ057: {
+   "SB2QBZ057": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EM LATIN AMERICA UCIT",
@@ -11438,7 +11438,7 @@ var funds_full_hash = {
       risk_region_country: "Latin America Emerging",
       SEDOL: "B2QBZ05"
    },
-   SBP3R1432: {
+   "SBP3R1432": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI USA DIVIDEND IQ UCITS",
@@ -11447,7 +11447,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BP3R143"
    },
-   SB4Q6CQ96: {
+   "SB4Q6CQ96": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI EMERGING MARKETS UCIT",
@@ -11456,7 +11456,7 @@ var funds_full_hash = {
       risk_region_country: "World Emerging",
       SEDOL: "B4Q6CQ9"
    },
-   SB48X8S28: {
+   "SB48X8S28": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI PACIFIC EX-JAPAN UCIT",
@@ -11465,7 +11465,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B48X8S2"
    },
-   SB4KFTC71: {
+   "SB4KFTC71": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES CORE MSCI WORLD UCITS ETF",
@@ -11474,7 +11474,7 @@ var funds_full_hash = {
       risk_region_country: "World Developed",
       SEDOL: "B4KFTC7"
    },
-   SBVDPS378: {
+   "SBVDPS378": {
       market: "Switzerland",
       asset_class: "Equity",
       description: "ISHARES MSCI TARGET US REAL ESTATE",
@@ -11483,7 +11483,7 @@ var funds_full_hash = {
       risk_region_country: "Ireland",
       SEDOL: "BVDPS37"
    },
-   BRSHWWWU6: {
+   "BRSHWWWU6": {
       market: "Switzerland",
       asset_class: "Commodity",
       description: "ISHARES GOLD (CH)",
@@ -11492,7 +11492,7 @@ var funds_full_hash = {
       risk_region_country: "Switzerland",
       SEDOL: "B4WQLC2"
    },
-   SB1S58S77: {
+   "SB1S58S77": {
       market: "Switzerland",
       asset_class: "Speciality",
       description: "ISHARES ASIA PROPERTY YIELD UCITS",
@@ -11501,7 +11501,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific All",
       SEDOL: "B1S58S7"
    },
-   SB6XDTQ60: {
+   "SB6XDTQ60": {
       market: "Singapore",
       asset_class: "Fixed Income",
       description: "ISHARES BARCLAYS USD ASIA HY BOND",
@@ -11510,7 +11510,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Emerging",
       SEDOL: "B6XDTQ6"
    },
-   SB4QN4L90: {
+   "SB4QN4L90": {
       market: "Singapore",
       asset_class: "Fixed Income",
       description: "ISHARES JPM USD ASIA CREDIT BOND",
@@ -11519,7 +11519,7 @@ var funds_full_hash = {
       risk_region_country: "Asia/Pacific Emerging",
       SEDOL: "B4QN4L9"
    },
-   S63507875: {
+   "S63507875": {
       market: "Singapore",
       asset_class: "Equity",
       description: "ISHARES MSCI SING CAPPED ETF",
@@ -11528,7 +11528,7 @@ var funds_full_hash = {
       risk_region_country: "Singapore",
       SEDOL: "6350787"
    },
-   SB174ZJ58: {
+   "SB174ZJ58": {
       market: "Singapore",
       asset_class: "Equity",
       description: "ISHARES MSCI INDIA INDEX ETF",
@@ -11537,7 +11537,7 @@ var funds_full_hash = {
       risk_region_country: "India",
       SEDOL: "B174ZJ5"
    },
-   S63508287: {
+   "S63508287": {
       market: "Singapore",
       asset_class: "Equity",
       description: "ISHARES CORE S&P  ETF",
@@ -11546,7 +11546,7 @@ var funds_full_hash = {
       risk_region_country: "United States",
       SEDOL: "6350828"
    },
-   S63508063: {
+   "S63508063": {
       market: "Singapore",
       asset_class: "Equity",
       description: "ISHARES US TECHNOLOGY ETF",
