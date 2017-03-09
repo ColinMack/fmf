@@ -48,11 +48,33 @@ var port_info = {
 var user_info = {
     cmack: {
         fname:"Colin",
-        lname:"Mack"
+        lname:"Mack",
+        about_me:"Handsome, suave",
+        age_group:"18-24",
+        location:"San Francisco",
+        school:"Georgetown University",
+        employer:"BlackRock",
+        available_funds:1000
     },
     wbuck: {
         fname:"Weston",
-        lname:"Buck"
+        lname:"Buck",
+        about_me:"Wears glasses",
+        age_group:"30+",
+        location:"San Francisco",
+        school:"Kansas University",
+        employer:"BlackRock",
+        available_funds:5000
+    },
+    lreeves: {
+        fname:"Lauren",
+        lname:"Reeves",
+        about_me:"Has friend named Josh",
+        age_group:"18-24",
+        location:"San Francisco",
+        school:"University of Michigan",
+        employer:"BlackRock",
+        available_funds:5000
     }
 }
 
@@ -272,6 +294,7 @@ function loadManageTab(portname){
     $("#nav button").css("font-size", "20px");
 
     var portname = (portname != null)?portname:user_ports[user][0].name;
+    var manage_port = user_ports[user][0];
     $("#banner").html(portname);
 
     $("#manageNav").empty();
@@ -280,6 +303,7 @@ function loadManageTab(portname){
         var elem = $(tmpl(port));
         if(user_ports[user][index].name==portname){
             elem.addClass("selected");
+            manage_port = port;
         }
         $("#manageNav").append(elem);
     });
@@ -289,6 +313,35 @@ function loadManageTab(portname){
         navPort.addClass("selected");
         $("#banner").html(navPort.find(".portName").html());
     });
+
+
+    _.each(funds, function(fund, index) {
+        var tmpl = _.template($('#fund-row-template').html());
+        fund["price"] = (perf_data_hash[fund.cusip] != null)?perf_data_hash[fund.cusip]['3/10/2017'].toFixed(2):0.00;
+        var elem = $(tmpl(fund));
+        $("#fund_table").append(elem);
+        elem.click(function(event){
+            $("#menu_fund").val(fund.description);
+            $("#menu_shares").val(1);
+            $("#menu_cost").val(fund["price"]);
+        });
+    });
+
+    /*_.each(manage_port.contents, function(fund, index) {
+        var tmpl = _.template($('#fund-row-template').html());
+        fund["price"] = (perf_data_hash[fund.cusip] != null)?perf_data_hash[fund.cusip]['3/10/2017'].toFixed(2):0.00;
+        var elem = $(tmpl(fund));
+        $("#sell_fund_table").append(elem);
+        elem.click(function(event){
+            $("#sell_menu_fund").val(fund.description);
+            $("#sell_menu_shares").val(1);
+            $("#sell_menu_cost").val(fund["price"]);
+        });
+    });*/
+
+    $("#port_new_value").html(portname + " New Value:")
+    $("#sell_port_new_value").html(portname + " New Value:")
+
 
     $("#manageWrapper").show();
     $("#manageButton").animate({fontSize:'24px'},{ duration: 200, queue: false });
@@ -361,5 +414,18 @@ function loadCompareTab(portname){
 }
 
 $("#goToMyProfile").click(function(event){
-    window.location.href='profile/index.html';
+    window.location.href='profile/';
 });
+
+$("#manage_buy").click(function(event){
+    $("#sellTab").hide();
+    $("#buyTab").show();
+});
+
+$("#manage_sell").click(function(event){
+    $("#buyTab").hide();
+    $("#sellTab").show();
+});
+
+
+
