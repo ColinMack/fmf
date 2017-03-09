@@ -11,6 +11,13 @@ body {
 	width: 100%;
 	background-color:#ebf0f2;
 }
+#profWrapper{
+	width: 950px;
+	margin: auto;
+	margin-top: 40px;
+	display:table;
+}
+
 #banner{
 	height:60px;
 	width:100%;
@@ -34,11 +41,24 @@ body {
 	float:left;
 }
 
-#searchcontainer {
-	border-color: "white";
-	width: 100%; 
-	text-align: left;
-	margin: 20px;
+.prof_block.header{
+	margin-bottom:5px;
+}
+.prof_block.header div{
+	margin-left:5px;
+	font-size:20px;
+}
+.prof_block.header span{
+	margin-left:15px;
+	font-size:14px;
+}
+
+.prof_block.content{
+	background-color:white;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom:20px;
 }
 
 
@@ -57,19 +77,47 @@ body {
 	color:#5a5a5a;
 	margin-right:20px;
 }
-#personal img{
+
+#profile_personal_info{
+	border-radius: 5px;
+}
+
+#profile_personal_info img{
 	height:200px;
 	width:200px;
 	border-radius:100px;
+	text-align:center;
+	margin-bottom:20px;
 }
-#personal input{
-	font-size:20px;
+#profile_personal_info input{
 	border:none;
-	width:200px;
-	border-radius:100px;
+	width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
-#personal input:focus{
+
+#profile_personal_info input.name{
+	width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+table.full_name input{
+	font-size: 30px;
+}
+
+#profile_personal_info input:focus{
 	outline:none;
+}
+
+#profile_content{
+	width:630px;
+	float:left;
+}
+
+.edit{
+	cursor: pointer;
+	color:rgb(0, 129, 201);
 }
 
 #nav button{
@@ -87,10 +135,22 @@ body {
 	outline:none;
 }
 
-#profWrapper{
-	width: 950px;
-	margin: auto;
-	margin-top: 40px;
+table.info{
+	text-align:center;
+	width:100%;
+}
+
+table.info div{
+	font-size:14px;
+}
+
+table.info input{
+	font-size:20px;
+	text-align:center;
+}
+
+table.info tr{
+	margin-bottom:5px;
 }
 
 .block{
@@ -103,350 +163,3 @@ body {
 	margin-bottom:20px;
 }
 
-.homeBlock{
-	width:100%;
-	color:#5a5a5a;
-	text-align:left;
-	border-radius:4px;
-	margin-bottom: 20px;
-}
-.homeBlockTitle{
-	margin-left: 10px;
-	margin-bottom: 3px;
-	color:rgb(0, 94, 184);
-	font-size:20px;
-}
-.homeBlockContent{
-	background-color:#fff;
-	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
-	border-radius:5px;
-}
-#homeWrapper .left_column{
-	float:left;
-	width:545px;
-}
-#homeWrapper .right_column{
-	margin-left:10px;
-	float:left;
-	width:380px;
-}
-
-.port{
-	box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 80px;
-    vertical-align: middle;
-    width: 250px;
-    float:left;
-    margin-right:20px;
-    margin-bottom:15px;
-}
-
-.port_row{
-	border-spacing:0px;
-}
-
-.port_info{
-	background-color:white;
-	border-radius: 5px 5px 0px 0px;
-	height:110px;
-	text-align:center;
-	padding-top:20px;
-	padding-bottom:20px;
-	line-height:40px;
-}
-
-.port_info .port_name{
-	font-size:14px;
-}
-.port_info .port_val{
-	font-size:20px;
-}
-.port_info .port_bps{
-	font-size:14px;
-}
-
-.port table{
-	border-spacing:0px;
-}
-
-.course.locked{
-	opacity:0.5;
-}
-.course.complete{
-	border:4px solid #ebf0f2;
-	color:#ebf0f2;
-	background-color:transparent;
-}
-
-#managecompare{
-	padding-top:20px;
-	width:150px;
-	text-align: right;
-}
-#managecompare div{
-	margin-bottom:5px;
-}
-
-#courseBlock{
-	width:522px;
-}
-
-.homeBoxHeader{
-	font-size:20px;
-	margin-bottom: 20px;
-}
-
-.socialRank{
-	padding-top:10px;
-}
-
-.socialRank .rank {
-	text-align:right;
-	width:130px;
-	font-size:30px;
-}
-
-.port_manage {
-	cursor:pointer;
-	width: 125px;
-    color: rgb(0, 129, 201);
-    background-color:white;
-    border-right:1px solid #ebf0f2;
-    border-top:1px solid #ebf0f2;
-    border-radius: 0px 0px 0px 5px;
-}
-.port_manage:hover{
-	width: 125px;
-    background-color: rgb(0, 129, 201);
-    color:white;
-    border-radius: 0px 0px 0px 5px;
-}
-
-.port_compare {
-	cursor:pointer;
-	width: 125px;
-    color: rgb(39, 175, 175);
-    border-top:1px solid #ebf0f2;
-    background-color:white;
-    border-radius: 0px 0px 5px 0px;
-}
-
-.port_compare:hover{
-	width: 125px;
-    background-color: rgb(39, 175, 175);
-    color:white;
-    border-radius: 0px 0px 5px 0px;
-}
-
-.port_buttons{
-	color: white;
-	text-align: center;
-	height:40px;
-}
-.homeBlock_button{
-	cursor:pointer;
-	font-size:16px;
-	border-radius:0px 0px 5px 5px;
-	background-color: white;
-	padding-top:10px;
-	padding-bottom:10px;
-	border-top:1px solid #ebf0f2;
-	text-align:center;
-}
-
-#goToAllCoursesButton{
-	color:rgb(17, 124, 142);
-}
-
-#goToAllCoursesButton:hover{
-	color:white;
-	background-color:rgb(17, 124, 142);
-}
-
-#goToSocialStatsButton{
-	color:rgb(39, 175, 175);
-}
-#goToSocialStatsButton:hover{
-	color:white;
-	background-color:rgb(39, 175, 175);
-}
-
-#goToAllInsightsButton{
-	color:rgb(17, 124, 142);
-}
-
-#goToAllInsightsButton:hover{
-	color:white;
-	background-color:rgb(17, 124, 142);
-}
-
-.homeBlockCourse{
-	cursor:pointer;
-	margin-left: 30px;
-	margin-bottom:20px;
-}
-
-.homeBlockCourse .percent{
-	font-size:30px;
-	color:#82bc00;
-}
-
-.homeBlockCourse .courseTitle{
-	font-size:16px;
-	color:rgb(17, 124, 142);
-}
-
-.insightUpdate{
-	cursor:pointer;
-	margin-left: 30px;
-	margin-bottom:20px;
-}
-
-.insightUpdate .insightTitle{
-	font-weight: bold;
-}
-
-.insightUpdate .insightSubTitle{
-	font-size:12px;
-	color:rgb(17, 124, 142);
-}
-
-.socialRank{
-	cursor:pointer;
-	margin-left: 30px;
-	margin-bottom:20px;
-}
-
-.socialRank .rank{
-	text-align:center;
-	color:#82bc00;
-}
-
-.socialRank .rankGroup{
-	font-size:16px;
-	font-weight:bold;
-}
-
-.socialRank .getBreakdown{
-	font-size:12px;
-}
-
-#compareNav{
-	float: left;
-    background-color: white;
-    border-radius: 5px;
-    text-align: center;
-    height: 400px;
-    width: 100px;
-}
-
-.compareNavPort{
-	cursor:pointer;
-	height: 80px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-	filter: gray;
-	-webkit-filter: grayscale(1);
-	filter: grayscale(1);
-}
-
-.compareNavPort:hover{
-	filter: none;
-	-webkit-filter: none;
-	filter: none;
-}
-
-.compareNavPort.selected{
-	filter: none;
-	-webkit-filter: none;
-	filter: none;
-}
-
-#portPie{
-	background-image: url("../img/icons/pie-chart.svg");
-	background-repeat: no-repeat;
-	width: 50px; 
-	height: 50px;
-	margin: 0;
-	padding: 0;
-	margin:auto;
-}
-
-#portType{
-	background-image: url("../img/icons/robo.svg");
-	background-repeat: no-repeat;
-	width: 50px; 
-	height: 50px;
-	margin: 0;
-	padding: 0;
-}
-
-#port_overview{
-	width:800px;
-	height:500px;
-	background-color:white;
-	border-radius: 5px;
-}
-
-.portName {
-	font-size:12px;
-	margin-top:10px;
-}
-
-#compareWrapper .column{
-	margin-left:20px;
-}
-
-#piechartWrapper{
-	float:right;
-	margin-top: 20px;
-    margin-right: 20px;
-}
-
-#piechart{
-}
-
-.piechart_tooltip{
-    text-align: center;
-    color: #5a5a5a;
-    position: absolute;
-    margin-left: 100px;
-    width: 200px;
-    height: 125px;
-    margin-top: 125px;
-    margin-bottom: 150px;
-}
-
-#piechart_tooltip{
-	margin-top:150px;
-}
-
-#piechart_tooltip .label{
-    font-size:24px;
-}
-
-#piechart_tooltip .shares{
-	margin-top: 5px;
-    font-size: 18px;
-}
-
-
-#piechart_tooltip .percent{
-	margin-top: 5px;
-    font-size: 20px;
-}
-
-#piechart_tooltip_default .content{
-    font-size: 16px;
-}
-
-#piechart_tooltip_default .percent{
-    margin-top: 0px;
-    text-align:right;
-    width:50px;
-    padding-right:10px;
-}
-
-#piechart_tooltip_default .label{
-    margin-top: 0px;
-    width:150px;
-}

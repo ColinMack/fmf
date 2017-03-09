@@ -67,7 +67,7 @@ var loadPieChart = function(data, category){
         var percent = Math.round(1000 * d.data.shares / total) / 10;
         tooltip.find('.label').html(d.data.name);
         tooltip.find('.label').css("color", d.data.color);
-        tooltip.find('.shares').html(d.data.shares + " Shares");
+        if(data.fund_type != "robo")tooltip.find('.shares').html(d.data.shares + " Shares");
         tooltip.find('.percent').html(percent + "%");
         tooltip.show();
     });

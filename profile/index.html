@@ -1,6 +1,11 @@
 <html>
 <head> <link rel="stylesheet" type="text/css" href="../css/profile.css">
     <title>Profile | FundMyFuture</title></head>
+    <script src="../js/shared/jquery-3.1.1.min.js"></script>
+    <script src="../data/cred.js"></script>
+    <script src="../js/shared/d3.min.js"></script>
+    <script src="../js/shared/underscore-min.js"></script>
+    <script src="../js/piechart.js"></script>
     <!--<script> 
         $(function(){
           $("body").load("masthead.html"); 
@@ -9,26 +14,75 @@
 <body ng-app="fmf">
     <div id="masthead" ng-controller="MainController">
         <div id="nav" style="float:left;">
-        	<button id="dashButton" value="dash" style="color:#005EB8;">&lt; Back To Dashboard</button>
+        	<button id="dashButton" value="dash" style="cursor:pointer;color:#005EB8;">&lt; Back To Dashboard</button>
     	</div>
     </div>
     <div id="banner">My Profile</div>
 
     <div id="profWrapper">
-        <div id="personal" class="block" style="height:400px">
-            <div><img src="../img/cmack.jpg"></div>
-            <input type="text" value="Colin" name="firstname"><br>
-            <input type="text" value="Mack" name="lastname"><br>
-            <input type="text" value="cmack" name="username"><br>
-            <input type="text" value="colin.mack@fmf.com" name="email"><br>
-            <div>Age: </div>
+        <div id="profile_personal_info" class="" style="float:left;margin-right:20px;width:300px;">
+            <div class="prof_block">
+                <div class="prof_block header"><div>My Info<span class="edit">Edit</span></div></div>
+                <div class="prof_block content">
+                    <div style="text-align:center;margin-bottom:20px"><img src="../img/cmack.jpg"></div>
+                    <table class="full_name">
+                        <tr><td><input readonly type="text" value="Colin" name="firstname" class="name" style="text-align:right;"></td><td><input readonly type="text" value="Mack" name="lastname" class="name" ></td></tr>
+                    </table>
+                    <table class="info">
+                        <tr><td>
+                            <div></div>
+                            <input readonly type="text" value="cmack" name="username">
+                        </td></tr>
+                        <tr><td>
+                            <div>About Me</div>
+                            <input readonly type="text" value="Handsome; suave" name="about me">
+                        </td></tr>
+                        <tr><td>
+                            <div>Age Group</div>
+                            <input readonly type="text" value="18-24" class="age" name="age group" >
+                        </td></tr>
+                        <tr><td>
+                            <div>Location</div>
+                            <input readonly type="text" value="San Francisco" name="location" >
+                        </td></tr>
+                        <tr><td>
+                            <div>Company</div>
+                            <input readonly type="text" value="BlackRock" name="work" >
+                        </td></tr>
+                        <tr><td>
+                            <div>School</div>
+                            <input readonly type="text" value="Georgetown University" name="school" >
+                        </td></tr>
+                        <tr><td>
+                            <input readonly type="text" value="Colin" name="grad/transferschool" >
+                        </td></tr>
+                        <tr><td>
+                            <div></div>
+                            <input readonly type="text" value="colin.mack@fmf.com" name="email">
+                        </td></tr>
+                    </table>
+                </div>
+            </div>
         </div>
-        <div id="portfolios" class="block" style="height:400px"></div>
-        <div id="awards" class="block" style="height:400px"></div>
-        <div id="stats" class="block" style="height:400px"></div>
+        <div id="profile_content">
+            <div class="prof_block header"><div>My Portfolios<span class="edit">Edit</span></div></div>
+            <div class="prof_block content">
+            </div>
+            <div class="prof_block header"><div>My Achievements<span class="edit">Edit</span></div></div>
+            <div class="prof_block content">
+            </div>
+            <div class="prof_block header"><div>My Stats<span class="edit">Edit</span></div></div>
+            <div class="prof_block content">
+            </div>
+        </div>
+
 
     </div>
     <div id="footer"></div>
+
+    <!-- Modules -->
+    <script src="../js/prof.js"></script>
+
 
 </body>
 </html>

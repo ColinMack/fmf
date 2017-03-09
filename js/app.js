@@ -219,9 +219,6 @@ $("#goToSocialStatsButton").click(function(event){
     loadCompareTab("Social Stats");
 });
 
-$(".compareNavPort").click(function(event){
-
-});
 
 $(function() {
     loadHomeTab();
@@ -274,7 +271,24 @@ function loadManageTab(portname){
     $("#nav button").css("border-bottom", "none");
     $("#nav button").css("font-size", "20px");
 
-    $("#banner").html((portname != null)?portname:user_ports[user][0].name)
+    var portname = (portname != null)?portname:user_ports[user][0].name;
+    $("#banner").html(portname);
+
+    $("#manageNav").empty();
+    _.each(user_ports["cmack"], function(port, index) {
+        var tmpl = _.template($('#nav-template').html());
+        var elem = $(tmpl(port));
+        if(user_ports[user][index].name==portname){
+            elem.addClass("selected");
+        }
+        $("#manageNav").append(elem);
+    });
+    $(".navPort").click(function(event) {
+        $(".navPort.selected").removeClass("selected");
+        var navPort = $(event.target).closest(".navPort")
+        navPort.addClass("selected");
+        $("#banner").html(navPort.find(".portName").html());
+    });
 
     $("#manageWrapper").show();
     $("#manageButton").animate({fontSize:'24px'},{ duration: 200, queue: false });
@@ -317,27 +331,26 @@ function loadCompareTab(portname){
     $("#nav button").css("border-bottom", "none");
     $("#nav button").css("font-size", "20px");
 
-    $("#banner").html((portname != null)?portname:user_ports[user][0].name)
-
-    loadPieChart((portname != null)?(_.filter(user_ports[user], function(d){if(d.name==portname)return d;}))[0]:user_ports[user][0]);
+    var portname = (portname != null)?portname:user_ports[user][0].name;
+    $("#banner").html(portname);
 
     $("#compareNav").empty();
     _.each(user_ports["cmack"], function(port, index) {
-        var tmpl = _.template($('#compareNav-template').html());
+        var tmpl = _.template($('#nav-template').html());
         var elem = $(tmpl(port));
-        if(index==0){
+        if(user_ports[user][index].name==portname){
             elem.addClass("selected");
         }
         $("#compareNav").append(elem);
     });
-    $(".compareNavPort").click(function(event) {
-        $(".compareNavPort.selected").removeClass("selected");
-        var navPort = $(event.target).closest(".compareNavPort")
+    $(".navPort").click(function(event) {
+        $(".navPort.selected").removeClass("selected");
+        var navPort = $(event.target).closest(".navPort")
         navPort.addClass("selected");
         loadPieChart(_.filter(user_ports[user], function(d){if(d.name==navPort.find(".portName").html())return d;})[0]);
         $("#banner").html(navPort.find(".portName").html());
     });
-
+    loadPieChart(_.filter(user_ports[user], function(d){if(d.name==portname)return d;})[0]);
     $("#compareWrapper").show();
     $("#compareButton").animate({fontSize:'24px'},{ duration: 200, queue: false });
     $("#banner").css("background-color", "rgb(39, 175, 175)");
@@ -346,3 +359,7 @@ function loadCompareTab(portname){
 
     
 }
+
+$("#goToMyProfile").click(function(event){
+    window.location.href='profile/index.html';
+});
