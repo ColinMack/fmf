@@ -6,6 +6,7 @@
     <script src="data/cred.js"></script>
     <script src="data/funds_full.js"></script>
     <script src="data/perf_data_hash.js"></script>
+    <script src="data/funds_full_hash.js"></script>
     <script src="js/shared/d3.min.js"></script>
     <script src="js/shared/underscore-min.js"></script>
     <script src="js/piechart.js"></script>
@@ -201,8 +202,8 @@
                             <input readonly id="menu_port_new_value">
                             <div id="remaining_funds">Remaining Funds:</div>
                             <input readonly id="remaining_funds_value">
-                            <div>Buy</div>
-                            <div>Reset</div>
+                            <div id="buy_execute">Buy</div>
+                            <div id="buy_reset">Reset</div>
                         </div>
                     </div>
                 </div>
@@ -270,10 +271,14 @@
                             <input readonly id="sell_menu_fund">
                             <div>Shares:</div>
                             <input id="sell_menu_shares">
-                            <div>Cost:</div>
+                            <div>Price:</div>
                             <input readonly id="sell_menu_cost">
                             <div id="sell_port_new_value"></div>
-                            <input id="sell_menu_port_new_value">
+                            <input readonly id="sell_menu_port_new_value">
+                            <div id="sell_available_funds">Funds Available:</div>
+                            <input readonly id="sell_menu_available_funds_value">
+                            <div id="sell_execute">Sell</div>
+                            <div id="sell_reset">Reset</div>
                         </div>
                     </div>
                 </div>
@@ -373,6 +378,15 @@
             <td><%=currency%></td>
             <td><%=cusip%></td>
             <td>$<%=price%></td>
+        </tr>
+    </script>
+    <script id="sell_fund-row-template" type="text">
+        <tr class="fund">
+            <td><%=description%></td>
+            <td><%=ticker%></td>
+            <td><%=shares%></td>
+            <td>$<%=purchase_price%></td>
+            <td>$<%=current_price%></td>
         </tr>
     </script>
     

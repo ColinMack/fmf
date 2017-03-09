@@ -472,6 +472,7 @@ body {
 }
 
 #buy_sell{
+	cursor: pointer;
 	font-size:24px;
 	margin-left:125px;
 	margin-bottom:5px;
@@ -567,6 +568,10 @@ body {
 	margin-bottom:10px;
 }
 
+#sell_transaction_menu input{
+	margin-bottom:10px;
+}
+
 #fund_table_container{
 	float:left;
 	width: 500px;
@@ -611,6 +616,7 @@ body {
 	border-bottom:1px solid #ebf0f2;
 }
 #sell_fund_table tr:hover{
+	cursor: pointer;
 	background-color:#ebf0f2;
 }
 
@@ -633,6 +639,10 @@ body {
 }
 
 #menu_fund{
+	margin-bottom: 10px;
+	width: 250px;
+}
+#sell_menu_fund{
 	margin-bottom: 10px;
 	width: 250px;
 }
