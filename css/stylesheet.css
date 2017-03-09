@@ -14,7 +14,7 @@ body {
 	color: #636363;
 	margin: 0px auto;
 	width: 100%;
-	background-color:#ebf0f2;
+	background-color: white;
 }
 
 hr {
@@ -24,8 +24,40 @@ hr {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
+.imgSteps > div > img:hover{
+    -webkit-transform:scale(1.25); /* Safari and Chrome */
+    -moz-transform:scale(1.25); /* Firefox */
+    -ms-transform:scale(1.25); /* IE 9 */
+    -o-transform:scale(1.25); /* Opera */
+     transform:scale(1.25);
+}
+
+.imgSteps > div > img {
+	z-index: -10;
+    -webkit-transition: all 1s ease; /* Safari and Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* IE 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
+}
+
+
+
+p{
+	font-size: 18px;
+}
+
+section{
+	height: 100vh;
+	background-color: white;
+}
+
 #about{
 	background-color: white;
+}
+
+.aboutTitle{
+	font-family: 'Oswald', sans-serif;
 }
 
 #banner {
@@ -112,10 +144,9 @@ hr {
 	margin: 20px;
 }
 
-#showcase{
+#showcase, #FAQ, #about{
 	padding-top: 60px;
 	background-color: white;
-	height: 940px;
 }
 
 #showcase h1{
@@ -126,6 +157,15 @@ hr {
 	width: 950px;
 	margin: auto;
 	margin-top: 15px;
+}
+
+#visionpt2{
+	padding-top: 1em;
+}
+
+.vision{
+	font-family: AkkuratLight;
+	font-size: 24px;
 }
 
 .active{
@@ -154,7 +194,10 @@ hr {
 }
 
 .faqs{
-	color: black;
+}
+
+.faq{
+	font-family: 'Oswald', sans-serif;
 }
 
 .form-control{
@@ -184,6 +227,11 @@ hr {
 .homeBoxHeader{
 	font-size:20px;
 	margin-bottom: 20px;
+}
+
+.imgCaptions{
+	color: #337ab7;
+	font-family: 'Oswald', sans-serif;
 }
 
 .navbar{
@@ -252,6 +300,14 @@ hr {
 	border-spacing:0px;
 }
 
+.question{
+	font-family: Akkurat;
+}
+
+.answer{
+	font-family: AkkuratLight;
+}
+
 .row{
 	padding: 6px;
 }
@@ -268,6 +324,10 @@ hr {
 
 .tab {
     color:#ebf0f2;
+}
+
+.tag{
+	color: #337ab7;
 }
 
 .tagline {
