@@ -202,6 +202,10 @@ body {
 	color: black;
 }
 
+.newuserform{
+	padding-top: 3.5em;
+}
+
 #showcase{
 	padding-top: 60px;
 	background-color: white;
@@ -213,5 +217,18 @@ body {
 
 #FAQ{
 	background-color: white;
+}
+
+.active{
+	font-color: blue;
+	text-decoration: underline;
+}
+
+.row{
+	padding: 6px;
+}
+
+.form-control{
+	height: 50px;
 }
 
