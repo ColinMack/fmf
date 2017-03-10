@@ -289,6 +289,14 @@ var loadLineGraph = function(data, category){
           .attr("stroke-width", 1.5)
           .attr("d", line);
 
+        var rectangle = svg.append("rect")
+            .attr("x", margin.left)
+            .attr("y", margin.top)
+            .attr("width", width)
+            .attr("height", height)
+            .style('opacity', 0.5)
+            .style('fill', '#ebf0f2');
+
       
 
 };
