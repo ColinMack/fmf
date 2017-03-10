@@ -362,6 +362,8 @@ function loadManageTab(portname){
 
     
     loadSellTable(manage_port);
+    $("#manage_buy").css("color", "#5a5a5a")
+    $("#manage_sell").css("color", "#ccc")
 
     $("#port_new_value").html(portname + " New Value:")
     $("#sell_port_new_value").html(portname + " New Value:")
@@ -425,9 +427,11 @@ function loadCompareTab(portname){
         var navPort = $(event.target).closest(".navPort")
         navPort.addClass("selected");
         loadPieChart(_.filter(user_ports[user], function(d){if(d.name==navPort.find(".portName").html())return d;})[0]);
+        loadLineGraph(_.filter(user_ports[user], function(d){if(d.name==navPort.find(".portName").html())return d;})[0]);
         $("#banner").html(navPort.find(".portName").html());
     });
     loadPieChart(_.filter(user_ports[user], function(d){if(d.name==portname)return d;})[0]);
+    loadLineGraph(_.filter(user_ports[user], function(d){if(d.name==portname)return d;})[0]);
     $("#compareWrapper").show();
     $("#compareButton").animate({fontSize:'24px'},{ duration: 200, queue: false });
     $("#banner").css("background-color", "rgb(39, 175, 175)");
@@ -470,11 +474,15 @@ $("#sell_menu_shares").on("input", function(){
 $("#manage_buy").click(function(event){
     $("#sellTab").hide();
     $("#buyTab").show();
+    $("#manage_sell").css("color", "#ccc")
+    $("#manage_buy").css("color", "#5a5a5a")
 });
 
 $("#manage_sell").click(function(event){
     $("#buyTab").hide();
     $("#sellTab").show();
+    $("#manage_buy").css("color", "#ccc")
+    $("#manage_sell").css("color", "#5a5a5a")
 });
 
 function loadSellTable(port) {
