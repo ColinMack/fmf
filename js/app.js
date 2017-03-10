@@ -438,7 +438,7 @@ function loadCompareTab(portname){
 }
 
 $("#goToMyProfile").click(function(event){
-    window.location.href='profile/';
+    window.location.href='../profile/';
 });
 
 $("#menu_shares").on("input", function(){
