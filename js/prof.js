@@ -242,7 +242,7 @@ $(".edit").click( function(event){
 });
 
 $("#dashButton").click(function(event){
-    window.location.href='../';
+    window.location.href='../dashboard/';
 });
 
 $(function() {
