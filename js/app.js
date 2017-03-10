@@ -3,13 +3,15 @@ var app = angular.module("fmf", []);
 var port_val = {
     464288596:141.98,
     464287291:148.94,
-    464285105:40.81
+    464285105:40.81,
+    "fmfraf":1018
 };
 
 var port_val_year_start = {
     464288596:135.50,
     464287291:101.36,
-    464285105:35.90
+    464285105:35.90,
+    "fmfraf":1000
 };
 
 var port_info = {
@@ -152,7 +154,14 @@ var user_ports = {
         {
             name:"Colin's Robo Fund",
             fund_type:"robo",
-            deposited: 1000
+            deposited: 1000,
+            contents:[
+                {
+                    cusip:"fmfraf",
+                    shares:1,
+                    price:1000
+                }
+            ]
         }
     ],
     wbuck: [
@@ -299,7 +308,9 @@ function loadHomeTab(){
         });
         elem.find(".port_val").html("$" + Math.round(sum*100)/100);
         
-        elem.find(".port_bps").html((port.fund_type != "robo")?(Math.round(((sum-bp_sum)/bp_sum)*100)/100 + "%"):"");
+        var bps = (((sum-bp_sum)/bp_sum)*100).toFixed(2)
+        elem.find(".port_bps").html(((bps > 0)?"+":"-") + bps + "%");
+        elem.find(".port_bps").css("color", (bps > 0)?"#82bc00":"red")
 
 
         var row = $("#port_row" + Math.floor(index/2+1) + " #port" + (index%2+1));

@@ -163,3 +163,52 @@ table.info tr{
 	margin-bottom:20px;
 }
 
+#weighted_avg_bps{
+	font-size: 35px;
+	color:rgb(130, 188, 0);
+}
+
+#num_connections{
+	font-size: 35px;
+	color: rgb(0, 129, 201);
+}
+
+.award img{
+	height:50px;
+	width: 50px;
+	margin-right:50px;
+}
+
+.award{
+	margin-left:50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.award .title{
+	font-size: 20px;
+}
+
+.award .description{
+	font-size: 14px;
+}
+
+.port{
+	margin-left:50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.port img{
+	height:50px;
+	width: 50px;
+	margin-right:50px;
+}
+
+.port .title{
+	font-size: 20px;
+}
+
+
