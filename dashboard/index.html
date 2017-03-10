@@ -18,6 +18,7 @@
     <script src="../js/jquery.bxslider.min.js"></script>
     <script src="../js/piechart.js"></script>
     <script src="../js/education.js"></script>
+    <script src="../js/lineGraph.js"></script>
 
     
     <!--<script> 
@@ -96,7 +97,7 @@
                                 <tr>
                                     <td class="icon"><img src="../img/icons/globe.svg" style="height:50px;width:50px;"></td>
                                     <td style="padding-left:30px;">
-                                        <div class="insightTitle">Markets freak out</div>
+                                        <div class="insightTitle">Market Healine</div>
                                         <div class="insightSubTitle">Here is a more detailed snippet about title.</div>
                                     </td>
                                 </tr>
@@ -209,8 +210,10 @@
                             <input readonly id="menu_port_new_value">
                             <div id="remaining_funds">Remaining Funds:</div>
                             <input readonly id="remaining_funds_value">
-                            <div id="buy_execute">Buy</div>
-                            <div id="buy_reset">Reset</div>
+                            <table><tr>
+                                <td><div id="buy_execute">Buy</div></td>
+                                <td><div id="buy_reset">Reset</div></td>
+                            </tr></table>
                         </div>
                     </div>
                 </div>
@@ -284,8 +287,12 @@
                             <input readonly id="sell_menu_port_new_value">
                             <div id="sell_available_funds">Funds Available:</div>
                             <input readonly id="sell_menu_available_funds_value">
-                            <div id="sell_execute">Sell</div>
-                            <div id="sell_reset">Reset</div>
+                            <table><tr>
+                                <td><div id="sell_execute">Sell</div></td>
+                                <td><div id="sell_reset">Reset</div></td>
+                            </tr></table>
+                            
+                            
                         </div>
                     </div>
                 </div>
@@ -359,6 +366,9 @@
         <div id="compareWrapper" class="tab">
             <div id="compareNav" class="tabNav"></div>
             <div id="port_overview" class="column">
+                <div id="lineGraphWrapper">
+                    <div id="lineGraph"><svg height="300" width="350"></svg></div>
+                </div>
                 <div id="piechartWrapper">
                     <table id="piechart_tooltip" class="piechart_tooltip" display="none">
                         <tr><td>
