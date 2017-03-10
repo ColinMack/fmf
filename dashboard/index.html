@@ -1,5 +1,7 @@
 <html>
-<head> <link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+<head> 
+    <link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="../css/education.css"
     <title>FundMyFuture</title></head>
     <script src="../js/shared/jquery-3.1.1.min.js"></script>
     <script src="../js/shared/angular.min.js"></script>
@@ -285,40 +287,34 @@
             </div>
         </div>
         <div id="learnWrapper" class="tab">
-            <div id="column0" style="width:50px;float:left;margin-right:-15px;">
-                <div id="homebox1" style="" class="block">
-                    <div style="height:400px"></div>
+            <div id="dailyTipBorder">
+                <div id="homebox1" class="block">
+                    <div id="dailyTipContent" style="height:400px">
+                        <h4>Tip of the Day</h4>
+                        <div class="date"></div>
+                    </div>
                 </div>
             </div>
-            <div id="column1" style="width:530px;margin-left:60px;float:left;">
-                <div id="homebox1" style="" class="block">
-                    <div style="height:400px">Some sort of welcome? Article? Course Progress?</div>
-                </div>
-            </div>
-            <div id="column2" style="width:280px;float:right">
-                <div id="homebox2" class="block" style="margin-bottom:-15px;">
-                    <div style="height:150px;font-size:20px;">Tips</div><br> 
-                </div>
-                <div id="homebox4" class="block">
-                    <div style="height:165px;font-size:20px">Articles</div><br> 
-                </div>
-            </div>
-            <div style="margin-top:-35px;width:100%;float:right">
+
+            <div id="articleFeedBorder">
                 <div id="homebox2" class="block">
-                    <div style="text-align:center;height:20px;font-size:20px">Courses</div>
+                    <div id="articles" style="height:400px;"></div>
                 </div>
-                <div class="block" style="float:left;height:235px;width:235px;">Course 2
+            </div>
+
+            <div id="progressBorder">
+                <div id="homebox3" class="block">
+                    <div id="progressBars"></div>
                 </div>
-                <div class="block" style="float:left;height:235px;width:235px;">Course 3
-                </div>
-                <div class="block" style="float:left;height:235px;width:235px;">Course 4
-                </div>
-                <div class="block" style="float:left;height:235px;width:235px;">Course 5
-                </div>
-                <div class="block course locked" style="float:left;height:235px;width:235px;">Course 6 (Locked)
-                </div>
-                <div class="block course complete" style="float:left;height:235px;width:235px;">Course 1 Complete
-                </div>
+            </div>
+
+            <div id="coursesBorderWrapper">
+                <div class="course block">Course 2</div>
+                <div class="course block">Course 3</div>
+                <div class="course block">Course 4</div>
+                <div class="course block">Course 5</div>
+                <div class="block course locked">Course 6 (Locked)</div>
+                <div class="block course complete">Course 1 Complete</div>
             </div>
         </div>
         <div id="compareWrapper" class="tab">
