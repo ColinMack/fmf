@@ -1,11 +1,13 @@
 <html>
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
     <link rel="stylesheet" type="text/css" href="../css/jquery.bxslider.min.css"/>
     <link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
     <link rel="stylesheet" type="text/css" href="../css/education.css">
     <title>FundMyFuture</title></head>
     <script src="../js/shared/jquery-3.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script src="../js/shared/angular.min.js"></script>
     <script src="../data/cred.js"></script>
     <script src="../data/funds_full.js"></script>
@@ -304,14 +306,28 @@
             </div>
 
             <div id="articleFeedBorder">
+                <h2>Today's Headlines</h2>
                 <div id="homebox2" class="block">
-                    <div id="articles" style="height:400px;"></div>
+                    <div id="articles">
+                        <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="16594/"></script>
+                    </div>
                 </div>
             </div>
 
             <div id="progressBorder">
                 <div id="homebox3" class="block">
-                    <div id="progressBars"></div>
+                    <h2>Current Courses </h2>
+                    <div id="progressBars">
+                        <h4>Finance 101: Getting Started</h4>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">75%</div>
+                        </div>
+                        <h4>Finance 102: Student of the Markets</h4>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="42" aria-valuemin="0" aria-valuemax="100" style="width: 42%;">42%</div>
+
+                        </div>
+                    </div>
                 </div>
             </div>
 
