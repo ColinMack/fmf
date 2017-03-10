@@ -26,7 +26,7 @@
                 <div class="prof_block content">
                     <div style="text-align:center;margin-bottom:20px"><img src="../img/cmack.jpg"></div>
                     <table class="full_name">
-                        <tr><td><input readonly type="text" value="Colin" name="firstname" class="name" style="text-align:right;"></td><td><input readonly type="text" value="Mack" name="lastname" class="name" ></td></tr>
+                        <tr><td><input readonly type="text" value="Colin" name="fname" class="name" style="text-align:right;"></td><td><input readonly type="text" value="Mack" name="lname" class="name" ></td></tr>
                     </table>
                     <table class="info">
                         <tr><td>
@@ -35,11 +35,11 @@
                         </td></tr>
                         <tr><td>
                             <div>About Me</div>
-                            <input readonly type="text" value="Handsome; suave" name="about me">
+                            <input readonly type="text" value="Handsome; suave" name="about_me">
                         </td></tr>
                         <tr><td>
                             <div>Age Group</div>
-                            <input readonly type="text" value="18-24" class="age" name="age group" >
+                            <input readonly type="text" value="18-24" class="age" name="age_group" >
                         </td></tr>
                         <tr><td>
                             <div>Location</div>
@@ -47,38 +47,99 @@
                         </td></tr>
                         <tr><td>
                             <div>Company</div>
-                            <input readonly type="text" value="BlackRock" name="work" >
+                            <input readonly type="text" value="BlackRock" name="employer" >
                         </td></tr>
                         <tr><td>
                             <div>School</div>
                             <input readonly type="text" value="Georgetown University" name="school" >
-                        </td></tr>
-                        <tr><td>
-                            <input readonly type="text" value="Colin" name="grad/transferschool" >
-                        </td></tr>
-                        <tr><td>
-                            <div></div>
-                            <input readonly type="text" value="colin.mack@fmf.com" name="email">
                         </td></tr>
                     </table>
                 </div>
             </div>
         </div>
         <div id="profile_content">
-            <div class="prof_block header"><div>My Portfolios<span class="edit">Edit</span></div></div>
-            <div class="prof_block content">
+            <div class="prof_block header">
+                <div>My Stats<span class="edit">Edit</span></div>
             </div>
-            <div class="prof_block header"><div>My Achievements<span class="edit">Edit</span></div></div>
-            <div class="prof_block content">
+            <div class="prof_block content" style="height:70px;">
+                <div style="float:left;width:314px;text-align:center;border-right:1px solid #ebf0f2;">
+                    <div id="weighted_avg_bps"></div>
+                    <div style="font-size:14px;">Average Weighted Portfolio Performance</div>
+                </div>
+                <div style="float:left;width:50%;text-align:center;">
+                    <div id="num_connections"></div>
+                    <div style="font-size:14px;">Investors in your Network</div>
+                </div>
             </div>
-            <div class="prof_block header"><div>My Stats<span class="edit">Edit</span></div></div>
+            <div class="prof_block header">
+                <div>My Achievements<span class="edit">Edit</span></div>
+            </div>
             <div class="prof_block content">
+                <div class="award">
+                    <table>
+                    <tr>
+                    <td>
+                        <img src="../img/icons/medal.svg">
+                    </td>
+                    <td>
+                        <div class="title">College Bound</div>
+                        <div class="description">Add a College to your profile and open a 529 Porfolio!</div>
+                    </td>
+                    </tr>
+                    </table>
+                </div>
+                <div class="award">
+                    <table>
+                    <tr>
+                    <td>
+                        <img src="../img/icons/medal.svg">
+                    </td>
+                    <td>
+                        <div class="title">Investing Champ</div>
+                        <div class="description">One portfolio has increased by over 50% in value!</div>
+                    </td>
+                    </tr>
+                    </table>
+                </div>
+                <div class="award">
+                    <table>
+                        <tr>
+                            <td>
+                                <img src="../img/icons/medal.svg">
+                            </td>
+                            <td>
+                                <div class="title">Book Worm</div>
+                                <div class="description">Complete 10 hours of courses in Learn</div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div class="prof_block header">
+                <div>My Portfolios<span class="edit">Edit</span></div>
+            </div>
+            <div id="port_block" class="prof_block content">
             </div>
         </div>
 
 
     </div>
     <div id="footer"></div>
+
+    <script id="port-template" type="text">
+        <div class="port">
+            <table>
+                <tr>
+                    <td>
+                        <img src="../img/icons/<%=fund_type%>.svg">
+                    </td>
+                    <td>
+                        <div class="title"><%=name%></div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </script>
 
     <!-- Modules -->
     <script src="../js/prof.js"></script>
