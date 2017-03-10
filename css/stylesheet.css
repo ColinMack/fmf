@@ -24,6 +24,12 @@ hr {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
+.logo{
+	height: 90px;
+    position: fixed;
+    margin-top: -30px;
+}
+
 .imgSteps > div > img:hover{
     -webkit-transform:scale(1.25); /* Safari and Chrome */
     -moz-transform:scale(1.25); /* Firefox */
