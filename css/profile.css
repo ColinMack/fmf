@@ -211,4 +211,30 @@ table.info tr{
 	font-size: 20px;
 }
 
+#profile_fmf{
+	cursor:pointer;
+	font-size:30px;
+	line-height:40px;
+	text-align:center;
+	height:40px;
+	color:#82bc00;
+}
+
+#profile_fmf span{
+	color:rgb(0, 129, 201);
+}
+
+#profile_fmf:hover{
+	font-size:30px;
+	line-height:40px;
+	text-align:center;
+	height:40px;
+	background-color:#dc7e00;
+	color:white;
+}
+
+#profile_fmf:hover span{
+	color:white;
+}
+
 
