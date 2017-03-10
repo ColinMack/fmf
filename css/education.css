@@ -38,3 +38,16 @@
 	height:235px;
 	width:235px;
 }
+
+.bx-wrapper{
+	margin-bottom: 55px;
+	margin-top: 55px;
+	margin-left: 80px;
+	padding: 0;
+}
+
+#dailyTipBorder > h2{
+	position: absolute;
+    margin-left: 250px;
+    margin-top: 55px;
+}

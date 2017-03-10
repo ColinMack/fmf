@@ -1,7 +1,9 @@
 <html>
-<head> 
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/jquery.bxslider.min.css"/>
     <link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
-    <link rel="stylesheet" type="text/css" href="../css/education.css"
+    <link rel="stylesheet" type="text/css" href="../css/education.css">
     <title>FundMyFuture</title></head>
     <script src="../js/shared/jquery-3.1.1.min.js"></script>
     <script src="../js/shared/angular.min.js"></script>
@@ -11,7 +13,10 @@
     <script src="../data/funds_full_hash.js"></script>
     <script src="../js/shared/d3.min.js"></script>
     <script src="../js/shared/underscore-min.js"></script>
+    <script src="../js/jquery.bxslider.min.js"></script>
     <script src="../js/piechart.js"></script>
+    <script src="../js/education.js"></script>
+
     
     <!--<script> 
         $(function(){
@@ -288,10 +293,12 @@
         </div>
         <div id="learnWrapper" class="tab">
             <div id="dailyTipBorder">
+                <h2>Tip of the Day!</h2>
                 <div id="homebox1" class="block">
-                    <div id="dailyTipContent" style="height:400px">
-                        <h4>Tip of the Day</h4>
-                        <div class="date"></div>
+                    <div id="dailyTipContent" class="dailyTips" style="height:400px">
+                        <div class="slide"><img src="../img/March9.png"/></div>
+                        <div class="slide"><img src="../img/March10.png"/></div>   
+                        <div class="slide"><img src="../img/March11.png"/></div>                          
                     </div>
                 </div>
             </div>
