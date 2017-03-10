@@ -92,3 +92,18 @@
     -o-transition: width .6s ease;
     transition: width .6s ease;
 }
+
+.course > img{
+	width: 100%;
+
+}
+
+.open{
+	background-color: lightblue;
+}
+
+#bigC{
+	width: 75%;
+	margin-left: 30px;
+    margin-top: 20px;
+}
